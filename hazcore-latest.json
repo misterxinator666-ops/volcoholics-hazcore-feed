@@ -1,10 +1,5 @@
 {
-  "generated_utc": "2026-08-12T14:50:26.218937+00:00",
+  "generated_utc": "2026-08-12T14:55:27.826378+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE] Tropical Storm Cristobal | AL032026 | Atlantic"
-    }
-  ]
+  "alerts": []
 }
