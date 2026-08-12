@@ -1,5 +1,14 @@
 {
-  "generated_utc": "2026-08-12T17:40:26.093996+00:00",
+  "generated_utc": "2026-08-12T17:45:27.399988+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL DISTURBANCE] Active Systems | Eastern / Central Pacific | 48h 90% | 7d 90%"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Western East Pacific (EP99) | Eastern / Central Pacific | 48h 70% -> 60% | 7d 70% -> 60%"
+    }
+  ]
 }
