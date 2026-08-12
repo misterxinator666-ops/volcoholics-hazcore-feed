@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-08-12T12:15:28.382078+00:00",
+  "generated_utc": "2026-08-12T12:20:27.354174+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M6 | South Sandwich Islands region | 10 km | 2026-08-12 11:47:12.117000+00:00"
+      "message": "[EARTHQUAKE UPDATE] M6 | South Sandwich Islands region"
     }
   ]
 }
