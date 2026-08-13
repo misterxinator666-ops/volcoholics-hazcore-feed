@@ -1,5 +1,10 @@
 {
-  "generated_utc": "2026-08-13T11:55:40.743140+00:00",
+  "generated_utc": "2026-08-13T12:00:48.531624+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-08-13 | YELLOW / ADVISORY"
+    }
+  ]
 }
