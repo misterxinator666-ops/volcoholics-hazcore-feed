@@ -1,10 +1,5 @@
 {
-  "generated_utc": "2026-08-13T15:00:44.670933+00:00",
+  "generated_utc": "2026-08-13T15:05:41.260500+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Cristobal | Tropical Depression -> Post-Tropical Cyclone | AL032026"
-    }
-  ]
+  "alerts": []
 }
