@@ -1,10 +1,5 @@
 {
-  "generated_utc": "2026-08-13T02:55:29.018497+00:00",
+  "generated_utc": "2026-08-13T03:00:31.389927+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE] Tropical Depression Eight-E | EP082026 | Eastern Pacific"
-    }
-  ]
+  "alerts": []
 }
