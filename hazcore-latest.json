@@ -1,5 +1,14 @@
 {
-  "generated_utc": "2026-08-14T23:05:42.608228+00:00",
+  "generated_utc": "2026-08-14T23:10:42.015169+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Central Tropical Atlantic (AL94) | Atlantic | 48h 30% -> 30% | 7d 40% -> 30%"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Near the Windward Islands (AL92) | Atlantic | 48h 10% -> 10% | 7d 10% -> 10%"
+    }
+  ]
 }
