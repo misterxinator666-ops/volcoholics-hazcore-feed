@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-15T13:25:41.615809+00:00",
+  "generated_utc": "2026-08-15T13:30:41.841396+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.9 | 7 km NNW of Pematangsiantar, Indonesia",
-      "detected_utc": "2026-08-15T11:25:42.786544+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Central Tropical Atlantic (AL94) | Atlantic | 48h 20% -> 10% | 7d 20% -> 10%",
