@@ -1,10 +1,5 @@
 {
-  "generated_utc": "2026-08-15T00:10:40.335449+00:00",
+  "generated_utc": "2026-08-15T00:15:41.643982+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE REVIEW] M5.2 | 1 km SW of Otura, Spain | 10 km | 2026-08-14 23:04:40.797000+00:00"
-    }
-  ]
+  "alerts": []
 }
