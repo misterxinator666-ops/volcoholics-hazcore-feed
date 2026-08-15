@@ -1,5 +1,10 @@
 {
-  "generated_utc": "2026-08-15T02:40:41.203861+00:00",
+  "generated_utc": "2026-08-15T02:45:42.206832+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M7.7 | 68 km NNW of Ende, Indonesia"
+    }
+  ]
 }
