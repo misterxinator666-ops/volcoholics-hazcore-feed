@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-15T13:15:41.610767+00:00",
+  "generated_utc": "2026-08-15T13:20:40.265639+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M6.9 | 7 km NNW of Pematangsiantar, Indonesia | 183.226 km | 2026-08-15 10:54:52.753000+00:00",
-      "detected_utc": "2026-08-15T11:15:43.280802+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.9 | 7 km NNW of Pematangsiantar, Indonesia",
