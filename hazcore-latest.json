@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-15T18:55:40.590656+00:00",
+  "generated_utc": "2026-08-15T19:00:46.621622+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -11,6 +11,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] Central Tropical Atlantic (AL94) | Atlantic | 48h 10% -> 0% | 7d 10% -> 0%",
       "detected_utc": "2026-08-15T17:45:41.898479+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Lala | Tropical Storm -> Hurricane | CP012026",
+      "detected_utc": "2026-08-15T19:00:46.619606+00:00"
     }
   ]
 }
