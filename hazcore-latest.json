@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-15T21:00:41.120415+00:00",
+  "generated_utc": "2026-08-15T21:05:39.609590+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Lala | Tropical Storm -> Hurricane | CP012026",
-      "detected_utc": "2026-08-15T19:00:46.619606+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-08-15 | YELLOW / ADVISORY",
