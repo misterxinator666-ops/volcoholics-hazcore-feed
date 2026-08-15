@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-15T17:40:41.890355+00:00",
+  "generated_utc": "2026-08-15T17:45:41.899922+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Western Portion of the East Pacific | Eastern / Central Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
       "detected_utc": "2026-08-15T17:40:41.890296+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Central Tropical Atlantic (AL94) | Atlantic | 48h 10% -> 0% | 7d 10% -> 0%",
+      "detected_utc": "2026-08-15T17:45:41.898479+00:00"
     }
   ]
 }
