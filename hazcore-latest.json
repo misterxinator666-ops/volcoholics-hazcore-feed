@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-15T23:35:38.425212+00:00",
+  "generated_utc": "2026-08-15T23:40:38.888418+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Western Portion of the East Pacific | Eastern / Central Pacific | 48h 0% -> 0% | 7d 40% -> 50%",
       "detected_utc": "2026-08-15T23:20:39.885101+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE REVIEW] M5.4 | 19 km NE of Colonia, Micronesia | 10 km | 2026-08-15 22:52:55.761000+00:00",
+      "detected_utc": "2026-08-15T23:40:38.886593+00:00"
     }
   ]
 }
