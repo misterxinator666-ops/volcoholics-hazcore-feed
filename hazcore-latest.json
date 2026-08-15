@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-08-15T22:45:38.819573+00:00",
+  "generated_utc": "2026-08-15T22:50:38.665061+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Hernan | Tropical Depression -> Post-Tropical Cyclone | EP082026",
-      "detected_utc": "2026-08-15T20:45:40.136348+00:00"
-    }
-  ]
+  "alerts": []
 }
