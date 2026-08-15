@@ -1,16 +1,5 @@
 {
-  "generated_utc": "2026-08-15T13:40:41.643332+00:00",
+  "generated_utc": "2026-08-15T13:45:45.141506+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Central Tropical Atlantic (AL94) | Atlantic | 48h 20% -> 10% | 7d 20% -> 10%",
-      "detected_utc": "2026-08-15T11:40:42.013325+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Southeastern Caribbean Sea (AL92) | Atlantic | 48h 10% -> 0% | 7d 10% -> 0%",
-      "detected_utc": "2026-08-15T11:40:42.013325+00:00"
-    }
-  ]
+  "alerts": []
 }
