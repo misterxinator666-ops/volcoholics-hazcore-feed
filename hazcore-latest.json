@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-16T03:40:39.527175+00:00",
+  "generated_utc": "2026-08-16T03:45:39.850752+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -21,6 +21,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.1 | 56 km NNE of Port-Olry, Vanuatu | 188.148 km | 2026-08-16 03:20:24.373000+00:00",
       "detected_utc": "2026-08-16T03:40:39.525582+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6.1 | 56 km NNE of Port-Olry, Vanuatu",
+      "detected_utc": "2026-08-16T03:45:39.849155+00:00"
     }
   ]
 }
