@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T06:55:39.361086+00:00",
+  "generated_utc": "2026-08-16T07:00:41.027532+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE ENDED] Post-Tropical Cyclone Hernan | EP082026",
-      "detected_utc": "2026-08-16T05:00:39.942835+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
