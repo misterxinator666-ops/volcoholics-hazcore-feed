@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-16T04:10:38.943435+00:00",
+  "generated_utc": "2026-08-16T04:15:40.468097+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.1 | 56 km NNE of Port-Olry, Vanuatu",
       "detected_utc": "2026-08-16T03:45:39.849155+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Dempo | 2026-08-16T04:14:00+00:00 | activity_increase",
+      "detected_utc": "2026-08-16T04:15:40.466025+00:00"
     }
   ]
 }
