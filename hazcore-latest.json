@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-16T03:35:39.476957+00:00",
+  "generated_utc": "2026-08-16T03:40:39.527175+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -16,6 +16,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Rinjani | 2026-08-16T02:24:00+00:00 | activity_increase",
       "detected_utc": "2026-08-16T03:30:40.086597+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6.1 | 56 km NNE of Port-Olry, Vanuatu | 188.148 km | 2026-08-16 03:20:24.373000+00:00",
+      "detected_utc": "2026-08-16T03:40:39.525582+00:00"
     }
   ]
 }
