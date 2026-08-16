@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T05:30:40.012144+00:00",
+  "generated_utc": "2026-08-16T05:35:39.620401+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Rinjani | 2026-08-16T02:24:00+00:00 | activity_increase",
-      "detected_utc": "2026-08-16T03:30:40.086597+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.1 | 56 km NNE of Port-Olry, Vanuatu | 188.148 km | 2026-08-16 03:20:24.373000+00:00",
@@ -26,6 +21,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE ENDED] Post-Tropical Cyclone Hernan | EP082026",
       "detected_utc": "2026-08-16T05:00:39.942835+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] South of Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
+      "detected_utc": "2026-08-16T05:35:39.618313+00:00"
     }
   ]
 }
