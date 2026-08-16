@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T05:00:39.944527+00:00",
+  "generated_utc": "2026-08-16T05:05:38.587097+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Sinabung | 2026-08-16T02:54:00+00:00 | activity_increase",
-      "detected_utc": "2026-08-16T03:00:41.584324+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Rinjani | 2026-08-16T02:24:00+00:00 | activity_increase",
