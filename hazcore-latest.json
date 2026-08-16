@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T08:15:37.389014+00:00",
+  "generated_utc": "2026-08-16T08:20:39.895287+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Bromo | 2026-08-16T06:10:00+00:00 | activity_increase",
-      "detected_utc": "2026-08-16T06:15:39.146103+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Iya | 2026-08-16T06:41:00+00:00 | activity_increase",
