@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-16T11:50:39.027269+00:00",
+  "generated_utc": "2026-08-16T11:55:40.916628+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Lala | Hurricane -> Tropical Storm | CP012026",
       "detected_utc": "2026-08-16T11:50:39.027220+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] South of Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 40% -> 50%",
+      "detected_utc": "2026-08-16T11:55:40.915106+00:00"
     }
   ]
 }
