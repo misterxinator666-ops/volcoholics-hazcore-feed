@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T03:25:37.955776+00:00",
+  "generated_utc": "2026-08-16T03:30:40.088480+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Marapi | 2026-08-16T01:19:00+00:00 | activity_increase",
-      "detected_utc": "2026-08-16T01:25:39.613651+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Raung | 2026-08-16T02:06:00+00:00 | activity_increase",
@@ -16,6 +11,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Sinabung | 2026-08-16T02:54:00+00:00 | activity_increase",
       "detected_utc": "2026-08-16T03:00:41.584324+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Rinjani | 2026-08-16T02:24:00+00:00 | activity_increase",
+      "detected_utc": "2026-08-16T03:30:40.086597+00:00"
     }
   ]
 }
