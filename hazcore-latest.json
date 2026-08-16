@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T06:15:39.147581+00:00",
+  "generated_utc": "2026-08-16T06:20:38.219956+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Dempo | 2026-08-16T04:14:00+00:00 | activity_increase",
-      "detected_utc": "2026-08-16T04:15:40.466025+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE ENDED] Post-Tropical Cyclone Hernan | EP082026",
