@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T01:35:40.981305+00:00",
+  "generated_utc": "2026-08-16T01:40:39.929242+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE REVIEW] M5.4 | 19 km NE of Colonia, Micronesia | 10 km | 2026-08-15 22:52:55.761000+00:00",
-      "detected_utc": "2026-08-15T23:40:38.886593+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Kerinci | 2026-08-16T01:04:00+00:00 | activity_increase",
