@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-16T05:55:37.556348+00:00",
+  "generated_utc": "2026-08-16T06:00:42.898872+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -16,6 +16,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
       "detected_utc": "2026-08-16T05:35:39.618313+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Gamalama | 2026-08-16T05:54:00+00:00 | activity_increase",
+      "detected_utc": "2026-08-16T06:00:42.897414+00:00"
     }
   ]
 }
