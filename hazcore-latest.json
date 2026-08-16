@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T22:20:38.103300+00:00",
+  "generated_utc": "2026-08-16T22:25:38.254149+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[INGV-OE VONA RED] Etna | 2026-08-16T20:15:00 | ETNA 2026-08-16 20:15:49 Aviation Color Code: RED DOWNLOAD PDF",
-      "detected_utc": "2026-08-16T20:25:37.992167+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-08-16 | YELLOW / ADVISORY",
