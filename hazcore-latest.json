@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T01:15:41.919266+00:00",
+  "generated_utc": "2026-08-16T01:20:40.217978+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Western Portion of the East Pacific | Eastern / Central Pacific | 48h 0% -> 0% | 7d 40% -> 50%",
-      "detected_utc": "2026-08-15T23:20:39.885101+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE REVIEW] M5.4 | 19 km NE of Colonia, Micronesia | 10 km | 2026-08-15 22:52:55.761000+00:00",
@@ -16,6 +11,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Kerinci | 2026-08-16T01:04:00+00:00 | activity_increase",
       "detected_utc": "2026-08-16T01:10:39.011268+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Merapi | 2026-08-16T00:00:00+00:00 | activity_increase",
+      "detected_utc": "2026-08-16T01:20:40.216328+00:00"
     }
   ]
 }
