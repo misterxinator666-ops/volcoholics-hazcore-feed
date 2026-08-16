@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-16T08:00:41.714818+00:00",
+  "generated_utc": "2026-08-16T08:05:39.843097+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Gamalama | 2026-08-16T05:54:00+00:00 | activity_increase",
-      "detected_utc": "2026-08-16T06:00:42.897414+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Bromo | 2026-08-16T06:10:00+00:00 | activity_increase",
