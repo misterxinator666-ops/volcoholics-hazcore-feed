@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-17T05:10:40.815795+00:00",
+  "generated_utc": "2026-08-17T05:15:39.515933+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Lokon | 2026-08-17T04:06:00+00:00 | activity_increase",
+      "detected_utc": "2026-08-17T05:15:39.515241+00:00"
+    }
+  ]
 }
