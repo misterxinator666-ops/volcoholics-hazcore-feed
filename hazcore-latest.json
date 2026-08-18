@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-18T08:55:39.626413+00:00",
+  "generated_utc": "2026-08-18T09:05:40.369180+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Lala | Tropical Storm -> Hurricane | CP012026",
+      "detected_utc": "2026-08-18T09:05:40.369108+00:00"
+    }
+  ]
 }
