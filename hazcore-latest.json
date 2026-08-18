@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-18T05:20:39.723611+00:00",
+  "generated_utc": "2026-08-18T05:30:40.133299+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Western Portion of the East Pacific | Eastern / Central Pacific | 48h 0% -> 10% | 7d 50% -> 50%",
+      "detected_utc": "2026-08-18T05:30:40.133231+00:00"
+    }
+  ]
 }
