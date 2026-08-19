@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-19T11:40:40.729771+00:00",
+  "generated_utc": "2026-08-19T11:50:42.213512+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL DISTURBANCE] Central Pacific (EP90) | Eastern / Central Pacific | 48h 70% | 7d 80%",
+      "detected_utc": "2026-08-19T11:50:42.213448+00:00"
+    }
+  ]
 }
