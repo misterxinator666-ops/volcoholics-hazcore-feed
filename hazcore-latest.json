@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-19T00:00:43.816216+00:00",
+  "generated_utc": "2026-08-19T00:05:41.879443+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE PRIORITY] M5.9 | 269 km SSE of Dunhuang, China | 10 km | 2026-08-18 21:36:29.215000+00:00",
-      "detected_utc": "2026-08-18T22:00:44.533114+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL DISTURBANCE] South-Southwest of Mexico | Eastern Pacific | 48h 0% | 7d 80%",
