@@ -1,16 +1,5 @@
 {
-  "generated_utc": "2026-08-19T01:20:42.855776+00:00",
+  "generated_utc": "2026-08-19T01:25:42.472179+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL DISTURBANCE] South-Southwest of Mexico | Eastern Pacific | 48h 0% | 7d 80%",
-      "detected_utc": "2026-08-18T23:25:42.071324+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL DISTURBANCE] Western Portion of the East Pacific and the Central Pacific | Eastern / Central Pacific | 48h 30% | 7d 70%",
-      "detected_utc": "2026-08-18T23:25:42.071324+00:00"
-    }
-  ]
+  "alerts": []
 }
