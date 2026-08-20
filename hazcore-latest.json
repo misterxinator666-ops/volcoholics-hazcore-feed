@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-20T19:30:35.358826+00:00",
+  "generated_utc": "2026-08-20T19:35:36.684933+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Central East Pacific | Eastern Pacific | 48h 10% -> 20% | 7d 30% -> 40%",
-      "detected_utc": "2026-08-20T17:30:40.695328+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.7 | 38 km NW of Upahuacho, Peru | 66.665 km | 2026-08-20 18:00:15.163000+00:00",
