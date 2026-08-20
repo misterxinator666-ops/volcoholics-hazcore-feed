@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-20T14:50:37.942740+00:00",
+  "generated_utc": "2026-08-20T14:55:39.779222+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE] Tropical Depression Two-C | CP022026 | Central Pacific",
+      "detected_utc": "2026-08-20T14:55:39.779170+00:00"
+    }
+  ]
 }
