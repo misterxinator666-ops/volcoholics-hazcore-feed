@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-21T11:20:50.393997+00:00",
+  "generated_utc": "2026-08-21T11:25:44.413014+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] South-Southwest of Mexico | Eastern Pacific | 48h 20% -> 20% | 7d 60% -> 50%",
+      "detected_utc": "2026-08-21T11:25:44.412974+00:00"
+    }
+  ]
 }
