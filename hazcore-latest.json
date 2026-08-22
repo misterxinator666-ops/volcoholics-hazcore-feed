@@ -1,22 +1,7 @@
 {
-  "generated_utc": "2026-08-22T07:30:37.177931+00:00",
+  "generated_utc": "2026-08-22T07:35:37.432375+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Southwest of Mexico | Eastern Pacific | 48h 0% -> 40% | 7d 0% -> 70%",
-      "detected_utc": "2026-08-22T05:35:31.824586+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Central East Pacific (EP91) | Eastern Pacific | 48h 70% -> 60% | 7d 80% -> 60%",
-      "detected_utc": "2026-08-22T05:35:31.824586+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Well Southwest of Southwestern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 20% -> 30%",
-      "detected_utc": "2026-08-22T05:35:31.824586+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Eastern Tropical Atlantic | Atlantic | 48h 0% -> 0% | 7d 20% -> 30%",
