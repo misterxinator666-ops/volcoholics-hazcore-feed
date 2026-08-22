@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-08-22T19:30:31.991314+00:00",
+  "generated_utc": "2026-08-22T19:40:33.978724+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE REVIEW] M5.8 | 4 km NNW of Toride, Japan | 77.584 km | 2026-08-22 17:00:41.199000+00:00",
-      "detected_utc": "2026-08-22T17:35:31.532757+00:00"
-    }
-  ]
+  "alerts": []
 }
