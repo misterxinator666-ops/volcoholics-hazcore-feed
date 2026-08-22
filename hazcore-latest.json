@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-22T17:15:31.806477+00:00",
+  "generated_utc": "2026-08-22T17:20:32.686402+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Eastern Tropical Atlantic | Atlantic | 48h 0% -> 0% | 7d 30% -> 40%",
       "detected_utc": "2026-08-22T17:15:31.806370+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Southwest of Mexico (EP92) | Eastern Pacific | 48h 60% -> 90% | 7d 80% -> 90%",
+      "detected_utc": "2026-08-22T17:20:32.684652+00:00"
     }
   ]
 }
