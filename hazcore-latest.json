@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-22T08:45:35.518587+00:00",
+  "generated_utc": "2026-08-22T08:50:35.576023+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.2 | Scotia Sea | 10 km | 2026-08-22 08:22:37.740000+00:00",
       "detected_utc": "2026-08-22T08:45:35.518545+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6.2 | Scotia Sea",
+      "detected_utc": "2026-08-22T08:50:35.574163+00:00"
     }
   ]
 }
