@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-08-22T07:45:32.544128+00:00",
+  "generated_utc": "2026-08-22T07:50:32.004217+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Eastern Tropical Atlantic | Atlantic | 48h 0% -> 0% | 7d 20% -> 30%",
-      "detected_utc": "2026-08-22T05:50:31.877072+00:00"
-    }
-  ]
+  "alerts": []
 }
