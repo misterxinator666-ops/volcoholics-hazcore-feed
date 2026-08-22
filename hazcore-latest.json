@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-22T23:30:33.068875+00:00",
+  "generated_utc": "2026-08-22T23:35:34.013875+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Well Southwest of Southwestern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 40% -> 50%",
       "detected_utc": "2026-08-22T23:30:33.068799+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Central Subtropical Atlantic | Atlantic | 48h 10% -> 20% | 7d 20% -> 30%",
+      "detected_utc": "2026-08-22T23:35:34.012261+00:00"
     }
   ]
 }
