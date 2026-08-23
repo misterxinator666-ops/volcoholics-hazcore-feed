@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-08-23T16:50:34.243829+00:00",
+  "generated_utc": "2026-08-23T17:00:33.372713+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE] Tropical Storm Iselle | EP092026 | Eastern Pacific",
-      "detected_utc": "2026-08-23T14:55:31.783766+00:00"
-    }
-  ]
+  "alerts": []
 }
