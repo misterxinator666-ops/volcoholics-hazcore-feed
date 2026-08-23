@@ -1,5 +1,16 @@
 {
-  "generated_utc": "2026-08-23T11:40:32.726968+00:00",
+  "generated_utc": "2026-08-23T11:45:35.229550+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Southwest of Mexico (EP92) | Eastern Pacific | 48h 90% -> 100% | 7d 90% -> 100%",
+      "detected_utc": "2026-08-23T11:45:35.229479+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Southwest of Southwestern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 50% -> 60%",
+      "detected_utc": "2026-08-23T11:45:35.229479+00:00"
+    }
+  ]
 }
