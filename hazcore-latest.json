@@ -1,5 +1,26 @@
 {
-  "generated_utc": "2026-08-24T05:20:32.656264+00:00",
+  "generated_utc": "2026-08-24T05:55:34.027280+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Central East Pacific | Eastern Pacific | 48h 40% -> 0% | 7d 60% -> 80%",
+      "detected_utc": "2026-08-24T05:55:34.027201+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Eastern Tropical Atlantic | Atlantic | 48h 0% -> 10% | 7d 50% -> 50%",
+      "detected_utc": "2026-08-24T05:55:34.027201+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Southwest of the Baja California Peninsula (EP91) | Eastern Pacific | 48h 40% -> 40% | 7d 40% -> 40%",
+      "detected_utc": "2026-08-24T05:55:34.027201+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Western East Pacific | Eastern / Central Pacific | 48h 40% -> 0% | 7d 60% -> 20%",
+      "detected_utc": "2026-08-24T05:55:34.027201+00:00"
+    }
+  ]
 }
