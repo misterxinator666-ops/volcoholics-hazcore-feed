@@ -1,21 +1,5 @@
 {
-  "generated_utc": "2026-08-24T11:50:32.974963+00:00",
+  "generated_utc": "2026-08-24T11:55:34.708979+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE ENDED] Tropical Storm Lala | CP012026",
-      "detected_utc": "2026-08-24T09:55:33.907722+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE ENDED] Tropical Depression Moke | CP022026",
-      "detected_utc": "2026-08-24T09:55:33.907722+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE ENDED] Tropical Storm Iselle | EP092026",
-      "detected_utc": "2026-08-24T09:55:33.907722+00:00"
-    }
-  ]
+  "alerts": []
 }
