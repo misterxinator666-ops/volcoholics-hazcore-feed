@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-24T16:25:33.726320+00:00",
+  "generated_utc": "2026-08-24T16:30:35.876474+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M6 | 215 km NNE of Lospalos, Timor Leste | 10 km | 2026-08-24 14:10:17.299000+00:00",
-      "detected_utc": "2026-08-24T14:30:34.910764+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6 | 215 km NNE of Lospalos, Timor Leste",
