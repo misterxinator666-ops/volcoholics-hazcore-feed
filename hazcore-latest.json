@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-24T23:05:33.974515+00:00",
+  "generated_utc": "2026-08-24T23:10:32.116031+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL DISTURBANCE] Eastern Tropical Atlantic (AL96) | Atlantic | 48h 40% | 7d 60%",
+      "detected_utc": "2026-08-24T23:10:32.115974+00:00"
+    }
+  ]
 }
