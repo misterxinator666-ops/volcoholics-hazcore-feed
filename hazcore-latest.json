@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-08-24T15:30:33.868357+00:00",
+  "generated_utc": "2026-08-24T15:35:35.194929+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Eastern Tropical Atlantic | Atlantic | 48h 10% -> 20% | 7d 50% -> 60%",
-      "detected_utc": "2026-08-24T13:30:34.021083+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Well Southwest of the Baja California Peninsula (EP91) | Eastern Pacific | 48h 40% -> 50% | 7d 40% -> 50%",
-      "detected_utc": "2026-08-24T13:30:34.021083+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6 | 215 km NNE of Lospalos, Timor Leste | 10 km | 2026-08-24 14:10:17.299000+00:00",
