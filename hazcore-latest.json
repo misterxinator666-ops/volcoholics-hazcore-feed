@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-08-24T04:35:31.592418+00:00",
+  "generated_utc": "2026-08-24T04:40:33.261388+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Moke | Tropical Storm -> Tropical Depression | CP022026",
-      "detected_utc": "2026-08-24T02:35:34.062853+00:00"
-    }
-  ]
+  "alerts": []
 }
