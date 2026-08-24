@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-24T20:30:32.497290+00:00",
+  "generated_utc": "2026-08-24T20:35:31.574093+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-08-24 | YELLOW / ADVISORY",
       "detected_utc": "2026-08-24T20:05:33.607481+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE] Tropical Depression Ten-E | EP102026 | Eastern Pacific",
+      "detected_utc": "2026-08-24T20:35:31.572678+00:00"
     }
   ]
 }
