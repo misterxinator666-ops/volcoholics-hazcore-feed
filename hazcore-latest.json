@@ -1,11 +1,21 @@
 {
-  "generated_utc": "2026-08-25T16:35:30.462042+00:00",
+  "generated_utc": "2026-08-25T16:40:30.779890+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M4.9 | 4 km NNE of Jalālābād, Afghanistan | 10 km | 2026-08-25 01:18:46.243000+00:00",
       "detected_utc": "2026-08-25T15:25:33.297694+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO STATUS] USGS / Kilauea | YELLOW / ADVISORY -> ORANGE / WATCH",
+      "detected_utc": "2026-08-25T16:40:30.778191+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-08-25 | ORANGE / WATCH",
+      "detected_utc": "2026-08-25T16:40:30.778191+00:00"
     }
   ]
 }
