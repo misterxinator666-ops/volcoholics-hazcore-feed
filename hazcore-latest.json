@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-25T08:50:31.874170+00:00",
+  "generated_utc": "2026-08-25T08:55:30.899458+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -21,6 +21,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE ENDED] Tropical Depression Ten-E | EP102026",
       "detected_utc": "2026-08-25T08:45:32.372203+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Moke | Tropical Depression -> Remnants of | CP022026",
+      "detected_utc": "2026-08-25T08:55:30.897827+00:00"
     }
   ]
 }
