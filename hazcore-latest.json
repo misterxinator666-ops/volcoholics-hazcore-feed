@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-08-25T18:35:33.251079+00:00",
+  "generated_utc": "2026-08-25T18:40:33.778381+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO STATUS] USGS / Kilauea | YELLOW / ADVISORY -> ORANGE / WATCH",
-      "detected_utc": "2026-08-25T16:40:30.778191+00:00"
-    },
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-08-25 | ORANGE / WATCH",
-      "detected_utc": "2026-08-25T16:40:30.778191+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE ENDED] Remnants of Moke | CP022026",
