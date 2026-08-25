@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-25T18:50:30.951680+00:00",
+  "generated_utc": "2026-08-25T18:55:38.784799+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE ENDED] Remnants of Moke | CP022026",
-      "detected_utc": "2026-08-25T16:55:31.501340+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Central East Pacific | Eastern Pacific | 48h 30% -> 40% | 7d 90% -> 90%",
