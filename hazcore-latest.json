@@ -1,16 +1,5 @@
 {
-  "generated_utc": "2026-08-25T10:55:30.750979+00:00",
+  "generated_utc": "2026-08-25T11:00:33.609526+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Moke | Tropical Depression -> Remnants of | CP022026",
-      "detected_utc": "2026-08-25T08:55:30.897827+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Julio | Tropical Depression -> Tropical Storm | EP102026",
-      "detected_utc": "2026-08-25T09:00:32.675890+00:00"
-    }
-  ]
+  "alerts": []
 }
