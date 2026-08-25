@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-25T17:50:32.201477+00:00",
+  "generated_utc": "2026-08-25T17:55:32.818737+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -16,6 +16,26 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE ENDED] Remnants of Moke | CP022026",
       "detected_utc": "2026-08-25T16:55:31.501340+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Central East Pacific | Eastern Pacific | 48h 30% -> 40% | 7d 90% -> 90%",
+      "detected_utc": "2026-08-25T17:55:32.817093+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Western East Pacific | Eastern / Central Pacific | 48h 30% -> 30% | 7d 60% -> 70%",
+      "detected_utc": "2026-08-25T17:55:32.817093+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Offshore of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 40% -> 50%",
+      "detected_utc": "2026-08-25T17:55:32.817093+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Central Pacific | Eastern / Central Pacific | 48h 50% -> 0% | 7d 80% -> 20%",
+      "detected_utc": "2026-08-25T17:55:32.817093+00:00"
     }
   ]
 }
