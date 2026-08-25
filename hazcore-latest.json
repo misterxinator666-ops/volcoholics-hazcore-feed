@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-25T22:00:38.356498+00:00",
+  "generated_utc": "2026-08-25T22:05:33.936585+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-08-25 | ORANGE / WATCH",
-      "detected_utc": "2026-08-25T20:05:32.615332+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Julio | Tropical Storm -> Remnants of | EP102026",
