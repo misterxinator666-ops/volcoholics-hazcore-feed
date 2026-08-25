@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-25T15:20:33.161874+00:00",
+  "generated_utc": "2026-08-25T15:25:33.297744+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M4.9 | 4 km NNE of Jalālābād, Afghanistan | 10 km | 2026-08-25 01:18:46.243000+00:00",
+      "detected_utc": "2026-08-25T15:25:33.297694+00:00"
+    }
+  ]
 }
