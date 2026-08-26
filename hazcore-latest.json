@@ -1,5 +1,16 @@
 {
-  "generated_utc": "2026-08-26T23:40:38.914248+00:00",
+  "generated_utc": "2026-08-26T23:45:37.867240+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL DISTURBANCE] Western East Pacific (EP94) | Eastern / Central Pacific | 48h 60% | 7d 80%",
+      "detected_utc": "2026-08-26T23:45:37.867092+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Offshore of Southwestern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 60% -> 70%",
+      "detected_utc": "2026-08-26T23:45:37.867092+00:00"
+    }
+  ]
 }
