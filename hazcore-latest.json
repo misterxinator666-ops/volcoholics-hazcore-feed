@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-26T07:30:40.146413+00:00",
+  "generated_utc": "2026-08-26T07:35:36.320112+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL DISTURBANCE] Central East Pacific (EP93) | Eastern Pacific | 48h 70% | 7d 90%",
-      "detected_utc": "2026-08-26T05:35:35.776446+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO STATUS] USGS / Kilauea | ORANGE / WATCH -> YELLOW / ADVISORY",
