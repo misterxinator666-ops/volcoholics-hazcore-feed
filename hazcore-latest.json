@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-26T18:15:37.423658+00:00",
+  "generated_utc": "2026-08-26T18:20:37.180339+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M5.2 | 55 km NW of Kodāri̇̄, Nepal | 0 km | 2026-08-26 02:52:10+00:00",
-      "detected_utc": "2026-08-26T16:15:39.535992+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Central East Pacific (EP93) | Eastern Pacific | 48h 80% -> 90% | 7d 90% -> 90%",
