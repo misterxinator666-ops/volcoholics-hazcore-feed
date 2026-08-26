@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-08-26T19:50:38.928623+00:00",
+  "generated_utc": "2026-08-26T19:55:37.284508+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Central East Pacific (EP93) | Eastern Pacific | 48h 80% -> 90% | 7d 90% -> 90%",
-      "detected_utc": "2026-08-26T17:50:39.922423+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Western East Pacific | Eastern / Central Pacific | 48h 40% -> 50% | 7d 70% -> 70%",
-      "detected_utc": "2026-08-26T17:50:39.922423+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-08-26 | YELLOW / ADVISORY",
