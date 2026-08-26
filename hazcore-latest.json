@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-08-26T01:30:37.606906+00:00",
+  "generated_utc": "2026-08-26T01:35:35.207103+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Central Subtropical Atlantic (AL95) | Atlantic | 48h 40% -> 20% | 7d 40% -> 20%",
-      "detected_utc": "2026-08-25T23:35:33.750039+00:00"
-    }
-  ]
+  "alerts": []
 }
