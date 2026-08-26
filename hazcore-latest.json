@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-08-26T01:20:38.077134+00:00",
+  "generated_utc": "2026-08-26T01:25:35.554092+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Central East Pacific | Eastern Pacific | 48h 40% -> 60% | 7d 90% -> 90%",
-      "detected_utc": "2026-08-25T23:25:34.882000+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Western East Pacific | Eastern / Central Pacific | 48h 30% -> 40% | 7d 70% -> 70%",
-      "detected_utc": "2026-08-25T23:25:34.882000+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Central Subtropical Atlantic (AL95) | Atlantic | 48h 40% -> 20% | 7d 40% -> 20%",
