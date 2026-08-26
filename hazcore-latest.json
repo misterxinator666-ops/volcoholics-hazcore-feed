@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-26T05:10:35.080768+00:00",
+  "generated_utc": "2026-08-26T05:15:34.211197+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE ENDED] Remnants of Julio | EP102026",
       "detected_utc": "2026-08-26T05:10:35.080663+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Central Subtropical Atlantic (AL95) | Atlantic | 48h 20% -> 0% | 7d 20% -> 0%",
+      "detected_utc": "2026-08-26T05:15:34.209766+00:00"
     }
   ]
 }
