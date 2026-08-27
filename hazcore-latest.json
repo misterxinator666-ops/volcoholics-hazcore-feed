@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-27T04:05:38.276032+00:00",
+  "generated_utc": "2026-08-27T04:10:38.434692+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO STATUS] JMA / Iwatesan | LEVEL 2 -> NO CURRENT WARNING",
-      "detected_utc": "2026-08-27T02:05:38.634494+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Iselle | Tropical Storm -> Post-Tropical Cyclone | EP092026",
