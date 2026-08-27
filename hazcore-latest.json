@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-27T12:35:38.992710+00:00",
+  "generated_utc": "2026-08-27T12:40:39.300965+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE ENDED] Post-Tropical Cyclone Iselle | EP092026",
-      "detected_utc": "2026-08-27T10:40:38.936011+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Western East Pacific (EP94) | Eastern / Central Pacific | 48h 60% -> 70% | 7d 80% -> 90%",
