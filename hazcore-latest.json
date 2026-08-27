@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-27T21:20:38.134282+00:00",
+  "generated_utc": "2026-08-27T21:25:40.233333+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -11,6 +11,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE] Tropical Storm Lowell | EP122026 | Eastern Pacific",
       "detected_utc": "2026-08-27T20:45:40.801629+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6 | 145 km N of Caluula, Somalia | 10 km | 2026-08-27 21:07:38.352000+00:00",
+      "detected_utc": "2026-08-27T21:25:40.231791+00:00"
     }
   ]
 }
