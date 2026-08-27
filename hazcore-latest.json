@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-08-27T22:45:37.491294+00:00",
+  "generated_utc": "2026-08-27T22:50:38.687206+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE] Tropical Storm Karina | EP112026 | Eastern Pacific",
-      "detected_utc": "2026-08-27T20:45:40.801629+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE] Tropical Storm Lowell | EP122026 | Eastern Pacific",
-      "detected_utc": "2026-08-27T20:45:40.801629+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6 | 145 km N of Caluula, Somalia | 10 km | 2026-08-27 21:07:38.352000+00:00",
