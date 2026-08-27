@@ -1,5 +1,16 @@
 {
-  "generated_utc": "2026-08-27T05:05:37.597367+00:00",
+  "generated_utc": "2026-08-27T05:10:37.676525+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Offshore of Southwestern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 70% -> 80%",
+      "detected_utc": "2026-08-27T05:10:37.676466+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Eastern Tropical Atlantic (AL96) | Atlantic | 48h 60% -> 70% | 7d 60% -> 70%",
+      "detected_utc": "2026-08-27T05:10:37.676466+00:00"
+    }
+  ]
 }
