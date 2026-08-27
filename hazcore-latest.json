@@ -1,5 +1,16 @@
 {
-  "generated_utc": "2026-08-27T20:40:39.322879+00:00",
+  "generated_utc": "2026-08-27T20:45:40.801736+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE] Tropical Storm Karina | EP112026 | Eastern Pacific",
+      "detected_utc": "2026-08-27T20:45:40.801629+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE] Tropical Storm Lowell | EP122026 | Eastern Pacific",
+      "detected_utc": "2026-08-27T20:45:40.801629+00:00"
+    }
+  ]
 }
