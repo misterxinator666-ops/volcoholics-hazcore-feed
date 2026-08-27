@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-27T23:30:40.597404+00:00",
+  "generated_utc": "2026-08-27T23:35:38.242697+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6 | 145 km N of Caluula, Somalia",
-      "detected_utc": "2026-08-27T21:35:37.455271+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG RED] Semeru | 2026-08-27T21:44:00+00:00 | eruption_with_ash",
