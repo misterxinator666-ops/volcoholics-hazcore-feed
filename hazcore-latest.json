@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-27T23:25:39.533364+00:00",
+  "generated_utc": "2026-08-27T23:30:40.597404+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M6 | 145 km N of Caluula, Somalia | 10 km | 2026-08-27 21:07:38.352000+00:00",
-      "detected_utc": "2026-08-27T21:25:40.231791+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6 | 145 km N of Caluula, Somalia",
