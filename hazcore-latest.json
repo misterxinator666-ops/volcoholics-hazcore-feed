@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-28T14:45:37.893568+00:00",
+  "generated_utc": "2026-08-28T14:50:37.158900+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Dolly | Tropical Storm -> Remnants of | AL042026",
+      "detected_utc": "2026-08-28T14:50:37.158860+00:00"
+    }
+  ]
 }
