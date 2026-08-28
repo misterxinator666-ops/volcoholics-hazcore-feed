@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-27T23:55:36.943282+00:00",
+  "generated_utc": "2026-08-28T00:00:39.678398+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG RED] Semeru | 2026-08-27T21:44:00+00:00 | eruption_with_ash",
-      "detected_utc": "2026-08-27T21:55:37.018268+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Central Pacific | Eastern / Central Pacific | 48h 0% -> 0% | 7d 20% -> 30%",
