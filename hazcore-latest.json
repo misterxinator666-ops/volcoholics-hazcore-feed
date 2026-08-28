@@ -1,5 +1,16 @@
 {
-  "generated_utc": "2026-08-28T23:35:40.942626+00:00",
+  "generated_utc": "2026-08-28T23:40:42.717250+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Offshore of Southwestern Mexico | Eastern Pacific | 48h 0% -> 20% | 7d 80% -> 80%",
+      "detected_utc": "2026-08-28T23:40:42.717183+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE ENDED] Remnants of Dolly | AL042026",
+      "detected_utc": "2026-08-28T23:40:42.717183+00:00"
+    }
+  ]
 }
