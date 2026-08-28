@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-28T08:35:37.669981+00:00",
+  "generated_utc": "2026-08-28T08:40:38.612170+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -21,6 +21,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE ENDED] Tropical Storm Lowell | EP122026",
       "detected_utc": "2026-08-28T08:35:37.669920+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Lala | Tropical Storm -> Post-Tropical Cyclone | CP012026",
+      "detected_utc": "2026-08-28T08:40:38.609827+00:00"
     }
   ]
 }
