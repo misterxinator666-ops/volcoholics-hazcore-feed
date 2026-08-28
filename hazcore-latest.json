@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-28T16:45:37.379887+00:00",
+  "generated_utc": "2026-08-28T16:50:37.195971+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Dolly | Tropical Storm -> Remnants of | AL042026",
-      "detected_utc": "2026-08-28T14:50:37.158860+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE ENDED] Post-Tropical Cyclone Lala | CP012026",
