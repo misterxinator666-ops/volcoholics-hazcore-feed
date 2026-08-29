@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-29T11:40:41.779385+00:00",
+  "generated_utc": "2026-08-29T11:45:40.506379+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Offshore of Southwestern Mexico | Eastern Pacific | 48h 30% -> 40% | 7d 80% -> 90%",
+      "detected_utc": "2026-08-29T11:45:40.506331+00:00"
+    }
+  ]
 }
