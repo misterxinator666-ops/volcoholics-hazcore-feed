@@ -1,16 +1,5 @@
 {
-  "generated_utc": "2026-08-30T13:35:38.867273+00:00",
+  "generated_utc": "2026-08-30T13:40:39.957227+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Northern Gulf of America (AL97) | Atlantic | 48h 10% -> 30% | 7d 20% -> 30%",
-      "detected_utc": "2026-08-30T11:40:38.380889+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] East of the Leeward Islands (Remnants of Dolly) | Atlantic | 48h 0% -> 0% | 7d 10% -> 20%",
-      "detected_utc": "2026-08-30T11:40:38.380889+00:00"
-    }
-  ]
+  "alerts": []
 }
