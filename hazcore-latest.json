@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-30T23:50:39.321912+00:00",
+  "generated_utc": "2026-08-30T23:55:38.134524+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL DISTURBANCE] Well Offshore of Southwestern Mexico (EP95) | Eastern Pacific | 48h 80% | 7d 90%",
       "detected_utc": "2026-08-30T23:20:41.108084+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Northern Gulf of America (AL97) | Atlantic | 48h 50% -> 70% | 7d 50% -> 70%",
+      "detected_utc": "2026-08-30T23:55:38.132775+00:00"
     }
   ]
 }
