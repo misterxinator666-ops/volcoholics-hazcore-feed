@@ -1,5 +1,21 @@
 {
-  "generated_utc": "2026-08-30T05:05:37.660838+00:00",
+  "generated_utc": "2026-08-30T05:11:27.033327+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Offshore of Southwestern Mexico | Eastern Pacific | 48h 50% -> 60% | 7d 90% -> 90%",
+      "detected_utc": "2026-08-30T05:11:27.033231+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Central Pacific | Eastern / Central Pacific | 48h 0% -> 0% | 7d 40% -> 30%",
+      "detected_utc": "2026-08-30T05:11:27.033231+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Northern Gulf of America (AL97) | Atlantic | 48h 0% -> 10% | 7d 20% -> 20%",
+      "detected_utc": "2026-08-30T05:11:27.033231+00:00"
+    }
+  ]
 }
