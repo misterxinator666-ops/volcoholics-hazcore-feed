@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-31T04:10:39.946988+00:00",
+  "generated_utc": "2026-08-31T04:15:39.597778+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[PVMBG RED] Sinabung | 2026-08-31T04:08:00+00:00 | eruption_with_ash",
+      "detected_utc": "2026-08-31T04:15:39.597713+00:00"
+    }
+  ]
 }
