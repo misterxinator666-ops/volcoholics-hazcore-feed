@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-08-31T06:10:40.655710+00:00",
+  "generated_utc": "2026-08-31T06:15:43.264758+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG RED] Sinabung | 2026-08-31T04:08:00+00:00 | eruption_with_ash",
-      "detected_utc": "2026-08-31T04:15:39.597713+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Well Offshore of Southwestern Mexico (EP95) | Eastern Pacific | 48h 80% -> 90% | 7d 90% -> 90%",
