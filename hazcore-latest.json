@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-31T23:45:43.688697+00:00",
+  "generated_utc": "2026-08-31T23:50:42.127179+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Central Pacific | Eastern / Central Pacific | 48h 0% -> 0% | 7d 20% -> 10%",
       "detected_utc": "2026-08-31T23:15:40.968141+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Edouard | Tropical Depression -> Tropical Storm | AL052026",
+      "detected_utc": "2026-08-31T23:50:42.125199+00:00"
     }
   ]
 }
