@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-08-31T11:20:39.265539+00:00",
+  "generated_utc": "2026-08-31T11:25:42.902384+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Central Pacific | Eastern / Central Pacific | 48h 0% -> 0% | 7d 30% -> 20%",
+      "detected_utc": "2026-08-31T11:25:42.902312+00:00"
+    }
+  ]
 }
