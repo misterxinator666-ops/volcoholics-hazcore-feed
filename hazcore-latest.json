@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-08-31T17:55:40.068445+00:00",
+  "generated_utc": "2026-08-31T18:00:42.718988+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Five | Potential Tropical Cyclone -> Tropical Depression | AL052026",
       "detected_utc": "2026-08-31T17:55:40.068360+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Near Hispaniola (Remnants of Dolly) | Atlantic | 48h 0% -> 0% | 7d 10% -> 0%",
+      "detected_utc": "2026-08-31T18:00:42.717199+00:00"
     }
   ]
 }
