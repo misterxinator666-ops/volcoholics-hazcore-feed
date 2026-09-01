@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-01T03:05:38.376282+00:00",
+  "generated_utc": "2026-09-01T03:10:39.628617+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Sorikmarapi | 2026-09-01T00:53:00+00:00 | activity_increase",
       "detected_utc": "2026-09-01T03:00:44.121393+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Dempo | 2026-09-01T02:59:00+00:00 | activity_increase",
+      "detected_utc": "2026-09-01T03:10:39.626815+00:00"
     }
   ]
 }
