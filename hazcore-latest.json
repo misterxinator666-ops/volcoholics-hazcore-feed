@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-09-01T07:30:39.861046+00:00",
+  "generated_utc": "2026-09-01T07:35:38.747766+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Well Offshore of Southwestern Mexico (EP95) | Eastern Pacific | 48h 90% -> 100% | 7d 90% -> 100%",
-      "detected_utc": "2026-09-01T05:35:38.573601+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE REVIEW] M5.2 | 93 km SSW of Nikolski, Alaska | 43.8 km | 2026-09-01 06:44:39.745000+00:00",
