@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-09-01T05:35:38.575256+00:00",
+  "generated_utc": "2026-09-01T05:45:40.463471+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Tambora | 2026-09-01T02:13:00+00:00 | activity_increase",
-      "detected_utc": "2026-09-01T03:40:40.047767+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Well Offshore of Southwestern Mexico (EP95) | Eastern Pacific | 48h 90% -> 100% | 7d 90% -> 100%",
