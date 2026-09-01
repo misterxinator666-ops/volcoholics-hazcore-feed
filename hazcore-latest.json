@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-09-01T05:20:39.020833+00:00",
+  "generated_utc": "2026-09-01T05:25:41.559862+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Bromo | 2026-09-01T03:23:00+00:00 | activity_increase",
-      "detected_utc": "2026-09-01T03:25:37.993815+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Tambora | 2026-09-01T02:13:00+00:00 | activity_increase",
