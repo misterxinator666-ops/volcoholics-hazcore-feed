@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-09-01T03:10:39.628617+00:00",
+  "generated_utc": "2026-09-01T03:15:41.714976+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Marapi | 2026-09-01T01:08:00+00:00 | activity_increase",
-      "detected_utc": "2026-09-01T01:10:40.804876+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Raung | 2026-09-01T02:09:00+00:00 | activity_increase",
