@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-01T02:10:38.149569+00:00",
+  "generated_utc": "2026-09-01T02:15:40.876807+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -11,6 +11,16 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Marapi | 2026-09-01T01:08:00+00:00 | activity_increase",
       "detected_utc": "2026-09-01T01:10:40.804876+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Raung | 2026-09-01T02:09:00+00:00 | activity_increase",
+      "detected_utc": "2026-09-01T02:15:40.875237+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Lokon | 2026-09-01T01:09:00+00:00 | activity_increase",
+      "detected_utc": "2026-09-01T02:15:40.875237+00:00"
     }
   ]
 }
