@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-09-01T02:20:38.756192+00:00",
+  "generated_utc": "2026-09-01T02:25:40.173515+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Kerinci | 2026-09-01T00:18:00+00:00 | activity_increase",
-      "detected_utc": "2026-09-01T00:25:39.375258+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Marapi | 2026-09-01T01:08:00+00:00 | activity_increase",
