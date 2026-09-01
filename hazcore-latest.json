@@ -1,16 +1,5 @@
 {
-  "generated_utc": "2026-09-01T16:35:39.163954+00:00",
+  "generated_utc": "2026-09-01T17:45:40.153402+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE ENDED] Tropical Storm Lowell | EP122026",
-      "detected_utc": "2026-09-01T14:45:41.726765+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Lowell | Tropical Storm -> Hurricane | EP122026",
-      "detected_utc": "2026-09-01T14:50:40.195852+00:00"
-    }
-  ]
+  "alerts": []
 }
