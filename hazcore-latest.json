@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-01T02:55:41.780758+00:00",
+  "generated_utc": "2026-09-01T03:00:44.123420+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -21,6 +21,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Rinjani | 2026-09-01T01:34:00+00:00 | activity_increase",
       "detected_utc": "2026-09-01T02:35:39.402726+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Sorikmarapi | 2026-09-01T00:53:00+00:00 | activity_increase",
+      "detected_utc": "2026-09-01T03:00:44.121393+00:00"
     }
   ]
 }
