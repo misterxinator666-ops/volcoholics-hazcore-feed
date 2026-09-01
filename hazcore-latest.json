@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-01T00:20:39.373822+00:00",
+  "generated_utc": "2026-09-01T00:25:39.376872+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -11,6 +11,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Edouard | Tropical Depression -> Tropical Storm | AL052026",
       "detected_utc": "2026-08-31T23:50:42.125199+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Kerinci | 2026-09-01T00:18:00+00:00 | activity_increase",
+      "detected_utc": "2026-09-01T00:25:39.375258+00:00"
     }
   ]
 }
