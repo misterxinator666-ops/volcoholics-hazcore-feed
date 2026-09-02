@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-09-02T19:15:36.285757+00:00",
+  "generated_utc": "2026-09-02T19:20:37.499836+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Offshore of Southwestern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 20% -> 30%",
-      "detected_utc": "2026-09-02T17:20:35.675817+00:00"
-    }
-  ]
+  "alerts": []
 }
