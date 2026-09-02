@@ -1,5 +1,26 @@
 {
-  "generated_utc": "2026-09-02T20:30:34.088287+00:00",
+  "generated_utc": "2026-09-02T20:35:32.529940+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE ENDED] Tropical Depression Edouard | AL052026",
+      "detected_utc": "2026-09-02T20:35:32.529875+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE ENDED] Hurricane Karina | EP112026",
+      "detected_utc": "2026-09-02T20:35:32.529875+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE ENDED] Hurricane Lowell | EP122026",
+      "detected_utc": "2026-09-02T20:35:32.529875+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE ENDED] Tropical Storm Marie | EP132026",
+      "detected_utc": "2026-09-02T20:35:32.529875+00:00"
+    }
+  ]
 }
