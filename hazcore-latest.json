@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-09-02T04:30:36.523854+00:00",
+  "generated_utc": "2026-09-02T04:35:36.203482+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Edouard | Tropical Storm -> Tropical Depression | AL052026",
-      "detected_utc": "2026-09-02T02:35:33.242570+00:00"
-    }
-  ]
+  "alerts": []
 }
