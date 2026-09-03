@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-03T03:05:31.614016+00:00",
+  "generated_utc": "2026-09-03T03:10:31.165453+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -11,6 +11,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Marie | Tropical Storm -> Hurricane | EP132026",
       "detected_utc": "2026-09-03T02:50:32.070118+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Edouard | Remnants of -> Tropical Depression | AL052026",
+      "detected_utc": "2026-09-03T03:10:31.163688+00:00"
     }
   ]
 }
