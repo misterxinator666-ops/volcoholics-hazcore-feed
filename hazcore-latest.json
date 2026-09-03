@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-03T12:00:36.804329+00:00",
+  "generated_utc": "2026-09-03T12:05:32.442050+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -16,6 +16,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.3 | 84 km SSW of Nikolski, Alaska",
       "detected_utc": "2026-09-03T11:50:32.938438+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M5.4 | 21 km WNW of Jiangyou, China | 10 km | 2026-09-03 11:39:41.981000+00:00",
+      "detected_utc": "2026-09-03T12:05:32.439990+00:00"
     }
   ]
 }
