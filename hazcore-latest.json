@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-09-03T08:00:35.821105+00:00",
+  "generated_utc": "2026-09-03T08:05:32.723360+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Merapi | 2026-09-03T05:00:00+00:00 | activity_increase",
-      "detected_utc": "2026-09-03T06:05:31.521534+00:00"
-    }
-  ]
+  "alerts": []
 }
