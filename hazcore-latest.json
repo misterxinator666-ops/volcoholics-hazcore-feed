@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-09-03T02:15:33.845157+00:00",
+  "generated_utc": "2026-09-03T02:20:33.802278+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.2 | South Sandwich Islands region",
-      "detected_utc": "2026-09-03T00:15:36.892207+00:00"
-    }
-  ]
+  "alerts": []
 }
