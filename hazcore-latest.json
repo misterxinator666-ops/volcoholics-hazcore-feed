@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-09-03T13:30:33.864923+00:00",
+  "generated_utc": "2026-09-03T13:35:34.743562+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE PRIORITY] M6.1 | 91 km SSW of Nikolski, Alaska | 8.8 km | 2026-09-03 11:17:22.984000+00:00",
-      "detected_utc": "2026-09-03T11:35:33.530177+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M6.3 | 84 km SSW of Nikolski, Alaska | 35 km | 2026-09-03 11:17:24.056000+00:00",
