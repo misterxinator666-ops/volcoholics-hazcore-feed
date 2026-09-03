@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-09-03T06:00:36.525192+00:00",
+  "generated_utc": "2026-09-03T06:05:31.522927+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Offshore of Southwestern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
       "detected_utc": "2026-09-03T05:30:33.824613+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Merapi | 2026-09-03T05:00:00+00:00 | activity_increase",
+      "detected_utc": "2026-09-03T06:05:31.521534+00:00"
     }
   ]
 }
