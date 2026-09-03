@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-09-03T16:35:32.531319+00:00",
+  "generated_utc": "2026-09-03T16:40:36.690998+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE ENDED] Remnants of Edouard | AL052026",
+      "detected_utc": "2026-09-03T16:40:36.690911+00:00"
+    }
+  ]
 }
