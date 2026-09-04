@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-09-04T10:55:36.093119+00:00",
+  "generated_utc": "2026-09-04T11:00:41.649091+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[PVMBG RED] Semeru | 2026-09-04T10:53:00+00:00 | eruption_with_ash",
+      "detected_utc": "2026-09-04T11:00:41.649006+00:00"
+    }
+  ]
 }
