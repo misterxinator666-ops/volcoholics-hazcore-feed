@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-09-04T02:35:37.321274+00:00",
+  "generated_utc": "2026-09-04T02:40:36.725147+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M5 | 264 km ESE of Attu Station, Alaska | 52 km | 2026-09-04 02:28:46+00:00",
+      "detected_utc": "2026-09-04T02:40:36.725089+00:00"
+    }
+  ]
 }
