@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-09-04T12:40:37.566940+00:00",
+  "generated_utc": "2026-09-04T12:45:37.200302+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "volcano",
       "message": "[PVMBG RED] Semeru | 2026-09-04T10:53:00+00:00 | eruption_with_ash",
       "detected_utc": "2026-09-04T11:00:41.649006+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[INGV-OE VONA RED] Etna | 2026-09-04T12:40:00 | ETNA 2026-09-04 12:40:14 Aviation Color Code: RED DOWNLOAD PDF",
+      "detected_utc": "2026-09-04T12:45:37.198492+00:00"
     }
   ]
 }
