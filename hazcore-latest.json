@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-09-05T02:40:34.266418+00:00",
+  "generated_utc": "2026-09-05T02:45:35.592246+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[PVMBG RED] Anak Krakatau | 2026-09-05T02:00:00+00:00 | eruption",
+      "detected_utc": "2026-09-05T02:45:35.592124+00:00"
+    }
+  ]
 }
