@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-09-05T22:05:37.099454+00:00",
+  "generated_utc": "2026-10-08T20:05:41.066005+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Karina | Hurricane -> Tropical Storm | EP112026",
-      "detected_utc": "2026-09-05T20:35:38.274870+00:00"
-    }
-  ]
+  "alerts": []
 }
