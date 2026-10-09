@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T18:55:38.327931+00:00",
+  "generated_utc": "2026-10-09T19:00:48.197670+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M7.7 | 12 km WSW of Pitaloza Arriba, Panama | Depth: 12.647 km | UTC: 2026-10-09 17:56:06.036000+00:00 | Source: USGS",
       "detected_utc": "2026-10-09T18:35:36.477671+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M5.8 | 1 km S of El Cacao, Panama | Depth: 10 km | UTC: 2026-10-09 18:37:46.146000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-09T19:00:48.196929+00:00"
     }
   ],
   "active_cyclones": [
@@ -37,10 +42,10 @@
       "category": 3,
       "wind_mph": 120.0,
       "pressure_mb": 959.0,
-      "latitude": 28.4,
-      "longitude": -87.2,
-      "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-09T18:55:38.298016+00:00"
+      "latitude": 28.7,
+      "longitude": -87.1,
+      "source_url": "https://www.nhc.noaa.gov/text/MIATCUAT4.shtml",
+      "last_seen": "2026-10-09T19:00:48.128160+00:00"
     },
     {
       "system_id": "EP182026",
@@ -53,7 +58,7 @@
       "latitude": 23.1,
       "longitude": -124.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-09T18:55:38.313030+00:00"
+      "last_seen": "2026-10-09T19:00:48.163121+00:00"
     },
     {
       "system_id": "EP202026",
@@ -66,7 +71,7 @@
       "latitude": 16.0,
       "longitude": -104.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-09T18:55:38.322069+00:00"
+      "last_seen": "2026-10-09T19:00:48.186167+00:00"
     }
   ]
 }
