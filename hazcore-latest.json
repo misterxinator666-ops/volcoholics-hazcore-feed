@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-10-09T14:45:37.281320+00:00",
+  "generated_utc": "2026-10-09T14:50:37.477911+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 210 miles S of Manzanillo Mexico | Winds: 100 mph | Category: 2 | Pressure: 973 mb | Movement: NW at 3 mph | Change: Category 1 to Category 2 | Source: NOAA NHC",
+      "detected_utc": "2026-10-09T14:50:37.477848+00:00"
+    }
+  ]
 }
