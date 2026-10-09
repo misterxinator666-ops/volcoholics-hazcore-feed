@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-10-09T11:50:38.797238+00:00",
+  "generated_utc": "2026-10-09T11:55:35.247943+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Isaias | Region: Atlantic | Location: 245 miles S of Pensacola Florida | Winds: 110 mph | Category: 2 | Pressure: 958 mb | Movement: NNE at 15 mph | Change: pressure 972 to 958 mb | Source: NOAA NHC",
+      "detected_utc": "2026-10-09T11:55:35.247887+00:00"
+    }
+  ]
 }
