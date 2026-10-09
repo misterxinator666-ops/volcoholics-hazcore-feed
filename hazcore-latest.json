@@ -1,11 +1,5 @@
 {
-  "generated_utc": "2026-10-09T07:10:37.455990+00:00",
+  "generated_utc": "2026-10-09T07:15:39.987195+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] South of Guatemala | Eastern Pacific | 48h 0% -> 0% | 7d 50% -> 60%",
-      "detected_utc": "2026-10-09T05:10:39.417983+00:00"
-    }
-  ]
+  "alerts": []
 }
