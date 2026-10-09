@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T23:40:38.073802+00:00",
+  "generated_utc": "2026-10-09T23:45:39.554581+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -51,6 +51,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.6 | 14 km W of Río Grande, Panama | Depth: 10 km | UTC: 2026-10-09 20:25:39.080000+00:00 | Source: USGS",
       "detected_utc": "2026-10-09T20:50:39.417371+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE REVIEW] M5.4 | 9 km SSE of Los Asientos, Panama | Depth: 10 km | UTC: 2026-10-09 23:12:37.790000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-09T23:45:39.553608+00:00"
     }
   ],
   "active_cyclones": [
@@ -65,7 +70,7 @@
       "latitude": 29.8,
       "longitude": -86.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCUAT4.shtml",
-      "last_seen": "2026-10-09T23:40:38.035994+00:00"
+      "last_seen": "2026-10-09T23:45:39.514025+00:00"
     },
     {
       "system_id": "EP182026",
@@ -75,10 +80,10 @@
       "category": null,
       "wind_mph": 45.0,
       "pressure_mb": 995.0,
-      "latitude": 23.3,
-      "longitude": -124.0,
+      "latitude": 23.6,
+      "longitude": -123.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-09T23:40:38.057752+00:00"
+      "last_seen": "2026-10-09T23:45:39.530450+00:00"
     },
     {
       "system_id": "EP202026",
@@ -91,7 +96,7 @@
       "latitude": 16.2,
       "longitude": -104.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-09T23:40:38.063748+00:00"
+      "last_seen": "2026-10-09T23:45:39.545239+00:00"
     }
   ]
 }
