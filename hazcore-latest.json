@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T23:50:41.640427+00:00",
+  "generated_utc": "2026-10-09T23:55:35.510268+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -56,6 +56,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE REVIEW] M5.4 | 9 km SSE of Los Asientos, Panama | Depth: 10 km | UTC: 2026-10-09 23:12:37.790000+00:00 | Source: USGS",
       "detected_utc": "2026-10-09T23:45:39.553608+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Isaias | Region: Atlantic | Location: 45 miles SE of Pensacola Florida | Winds: 110 mph | Category: 2 | Pressure: 967 mb | Movement: N at 18 mph | Change: Category 3 to Category 2 | Source: NOAA NHC",
+      "detected_utc": "2026-10-09T23:55:35.509375+00:00"
     }
   ],
   "active_cyclones": [
@@ -64,13 +69,13 @@
       "name": "Isaias",
       "basin": "Atlantic",
       "classification": "Hurricane",
-      "category": 3,
-      "wind_mph": 115.0,
-      "pressure_mb": 960.0,
-      "latitude": 29.8,
-      "longitude": -86.8,
-      "source_url": "https://www.nhc.noaa.gov/text/MIATCUAT4.shtml",
-      "last_seen": "2026-10-09T23:45:39.514025+00:00"
+      "category": 2,
+      "wind_mph": 110.0,
+      "pressure_mb": 967.0,
+      "latitude": 30.1,
+      "longitude": -86.6,
+      "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
+      "last_seen": "2026-10-09T23:55:35.070457+00:00"
     },
     {
       "system_id": "EP182026",
@@ -83,7 +88,7 @@
       "latitude": 23.6,
       "longitude": -123.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-09T23:45:39.530450+00:00"
+      "last_seen": "2026-10-09T23:55:35.075795+00:00"
     },
     {
       "system_id": "EP202026",
@@ -91,12 +96,12 @@
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
       "category": 2,
-      "wind_mph": 105.0,
-      "pressure_mb": 966.0,
-      "latitude": 16.2,
-      "longitude": -104.7,
+      "wind_mph": 110.0,
+      "pressure_mb": 964.0,
+      "latitude": 16.4,
+      "longitude": -104.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-09T23:45:39.545239+00:00"
+      "last_seen": "2026-10-09T23:55:35.079585+00:00"
     }
   ]
 }
