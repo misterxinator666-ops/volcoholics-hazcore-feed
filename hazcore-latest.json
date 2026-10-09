@@ -1,5 +1,11 @@
 {
-  "generated_utc": "2026-10-09T02:35:36.016396+00:00",
+  "generated_utc": "2026-10-09T02:40:37.470436+00:00",
   "status": "ok",
-  "alerts": []
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Simon | Tropical Storm -> Hurricane | EP202026",
+      "detected_utc": "2026-10-09T02:40:37.470364+00:00"
+    }
+  ]
 }
