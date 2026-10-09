@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T18:30:39.613355+00:00",
+  "generated_utc": "2026-10-09T18:35:36.478460+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -21,6 +21,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M7.6 | 10 km WSW of Pitaloza Arriba, Panama | Depth: 10 km | UTC: 2026-10-09 17:56:05.655000+00:00 | Source: USGS",
       "detected_utc": "2026-10-09T18:15:36.776555+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M7.7 | 12 km WSW of Pitaloza Arriba, Panama | Depth: 12.647 km | UTC: 2026-10-09 17:56:06.036000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-09T18:35:36.477671+00:00"
     }
   ],
   "active_cyclones": [
@@ -35,7 +40,7 @@
       "latitude": 28.4,
       "longitude": -87.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-09T18:30:39.585615+00:00"
+      "last_seen": "2026-10-09T18:35:36.428019+00:00"
     },
     {
       "system_id": "EP182026",
@@ -48,7 +53,7 @@
       "latitude": 23.1,
       "longitude": -124.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-09T18:30:39.598895+00:00"
+      "last_seen": "2026-10-09T18:35:36.444947+00:00"
     },
     {
       "system_id": "EP202026",
@@ -61,7 +66,7 @@
       "latitude": 16.0,
       "longitude": -104.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-09T18:30:39.607811+00:00"
+      "last_seen": "2026-10-09T18:35:36.461293+00:00"
     }
   ]
 }
