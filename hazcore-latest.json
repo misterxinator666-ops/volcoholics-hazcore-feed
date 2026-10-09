@@ -1,11 +1,52 @@
 {
-  "generated_utc": "2026-10-09T15:30:39.329522+00:00",
+  "generated_utc": "2026-10-09T15:35:35.476951+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 210 miles S of Manzanillo Mexico | Winds: 100 mph | Category: 2 | Pressure: 973 mb | Movement: NW at 3 mph | Change: Category 1 to Category 2 | Source: NOAA NHC",
       "detected_utc": "2026-10-09T14:50:37.477848+00:00"
+    }
+  ],
+  "active_cyclones": [
+    {
+      "system_id": "AL092026",
+      "name": "Isaias",
+      "basin": "Atlantic",
+      "classification": "Hurricane",
+      "category": 3,
+      "wind_mph": 120.0,
+      "pressure_mb": 959.0,
+      "latitude": 27.7,
+      "longitude": -87.3,
+      "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
+      "last_seen": "2026-10-09T15:35:35.463988+00:00"
+    },
+    {
+      "system_id": "EP182026",
+      "name": "Rachel",
+      "basin": "Eastern Pacific",
+      "classification": "Tropical Storm",
+      "category": null,
+      "wind_mph": 50.0,
+      "pressure_mb": 994.0,
+      "latitude": 22.8,
+      "longitude": -124.6,
+      "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
+      "last_seen": "2026-10-09T15:35:35.468432+00:00"
+    },
+    {
+      "system_id": "EP202026",
+      "name": "Simon",
+      "basin": "Eastern Pacific",
+      "classification": "Hurricane",
+      "category": 2,
+      "wind_mph": 100.0,
+      "pressure_mb": 973.0,
+      "latitude": 16.0,
+      "longitude": -104.7,
+      "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
+      "last_seen": "2026-10-09T15:35:35.472980+00:00"
     }
   ]
 }
