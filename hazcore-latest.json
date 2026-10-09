@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T20:40:39.215269+00:00",
+  "generated_utc": "2026-10-09T20:45:39.067809+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -41,6 +41,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M6.6 | 14 km W of Río Grande, Panama | Depth: 10 km | UTC: 2026-10-09 20:25:39.080000+00:00 | Source: USGS",
       "detected_utc": "2026-10-09T20:40:39.214162+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Rachel | Region: Eastern Pacific | Location: 895 miles W of The Southern Tip Of Baja California | Winds: 45 mph | Pressure: 995 mb | Movement: NE at 7 mph | Change: winds 60 to 45 mph | Source: NOAA NHC",
+      "detected_utc": "2026-10-09T20:45:39.067098+00:00"
     }
   ],
   "active_cyclones": [
@@ -55,7 +60,7 @@
       "latitude": 29.0,
       "longitude": -87.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCUAT4.shtml",
-      "last_seen": "2026-10-09T20:40:39.018105+00:00"
+      "last_seen": "2026-10-09T20:45:38.592998+00:00"
     },
     {
       "system_id": "EP182026",
@@ -63,12 +68,12 @@
       "basin": "Eastern Pacific",
       "classification": "Tropical Storm",
       "category": null,
-      "wind_mph": 50.0,
-      "pressure_mb": 994.0,
-      "latitude": 23.1,
-      "longitude": -124.5,
+      "wind_mph": 45.0,
+      "pressure_mb": 995.0,
+      "latitude": 23.3,
+      "longitude": -124.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-09T20:40:39.038343+00:00"
+      "last_seen": "2026-10-09T20:45:38.611182+00:00"
     },
     {
       "system_id": "EP202026",
@@ -76,12 +81,12 @@
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
       "category": 2,
-      "wind_mph": 100.0,
-      "pressure_mb": 973.0,
-      "latitude": 16.0,
+      "wind_mph": 105.0,
+      "pressure_mb": 966.0,
+      "latitude": 16.2,
       "longitude": -104.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-09T20:40:39.131642+00:00"
+      "last_seen": "2026-10-09T20:45:38.621732+00:00"
     }
   ]
 }
