@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-10-10T20:40:37.492763+00:00",
+  "generated_utc": "2026-10-10T20:45:39.591532+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE PRIORITY] M6.6 | 14 km W of Río Grande, Panama | Depth: 10 km | UTC: 2026-10-09 20:25:39.080000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-09T20:40:39.214162+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Rachel | Region: Eastern Pacific | Location: 895 miles W of The Southern Tip Of Baja California | Winds: 45 mph | Pressure: 995 mb | Movement: NE at 7 mph | Change: winds 60 to 45 mph | Source: NOAA NHC",
-      "detected_utc": "2026-10-09T20:45:39.067098+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.6 | 14 km W of Río Grande, Panama | Depth: 10 km | UTC: 2026-10-09 20:25:39.080000+00:00 | Source: USGS",
@@ -100,7 +90,7 @@
       "latitude": 33.5,
       "longitude": -86.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-10T20:40:37.476406+00:00"
+      "last_seen": "2026-10-10T20:45:39.565280+00:00"
     },
     {
       "system_id": "EP182026",
@@ -113,7 +103,7 @@
       "latitude": 25.8,
       "longitude": -118.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-10T20:40:37.481666+00:00"
+      "last_seen": "2026-10-10T20:45:39.582385+00:00"
     },
     {
       "system_id": "EP202026",
@@ -126,7 +116,7 @@
       "latitude": 17.4,
       "longitude": -104.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-10T20:40:37.486132+00:00"
+      "last_seen": "2026-10-10T20:45:39.586980+00:00"
     }
   ]
 }
