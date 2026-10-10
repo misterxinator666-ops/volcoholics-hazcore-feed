@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-10T08:40:40.237649+00:00",
+  "generated_utc": "2026-10-10T08:45:41.542089+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -106,6 +106,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Rachel | Region: Eastern Pacific | Location: 670 miles SSW of San Diego California | Winds: 60 mph | Pressure: 990 mb | Movement: NE at 12 mph | Change: winds 45 to 60 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-10T06:15:39.405459+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Isaias | Region: Atlantic | Location: 25 miles SSW of Montgomery Alabama | Winds: 35 mph | Pressure: 1002 mb | Movement: N at 14 mph | Change: winds 65 to 35 mph | Source: NOAA NHC",
+      "detected_utc": "2026-10-10T08:45:41.540783+00:00"
     }
   ],
   "active_cyclones": [
@@ -115,12 +120,12 @@
       "basin": "Atlantic",
       "classification": "Post-Tropical Cyclone",
       "category": null,
-      "wind_mph": 65.0,
-      "pressure_mb": 1000.0,
-      "latitude": 31.5,
+      "wind_mph": 35.0,
+      "pressure_mb": 1002.0,
+      "latitude": 32.0,
       "longitude": -86.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-10T08:40:40.224728+00:00"
+      "last_seen": "2026-10-10T08:45:41.108420+00:00"
     },
     {
       "system_id": "EP182026",
@@ -133,7 +138,7 @@
       "latitude": 24.1,
       "longitude": -122.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-10T08:40:40.228428+00:00"
+      "last_seen": "2026-10-10T08:45:41.112540+00:00"
     },
     {
       "system_id": "EP202026",
@@ -146,7 +151,7 @@
       "latitude": 17.2,
       "longitude": -104.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-10T08:40:40.232762+00:00"
+      "last_seen": "2026-10-10T08:45:41.118439+00:00"
     }
   ]
 }
