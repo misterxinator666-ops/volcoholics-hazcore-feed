@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-10T02:40:38.778892+00:00",
+  "generated_utc": "2026-10-10T02:45:38.618795+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -76,6 +76,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 155 miles S of Manzanillo Mexico | Winds: 120 mph | Category: 3 | Pressure: 952 mb | Movement: N at 7 mph | Change: Category 2 to Category 3 | Source: NOAA NHC",
       "detected_utc": "2026-10-10T02:40:38.778179+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Isaias | Region: Atlantic | Location: 45 miles ENE of Pensacola Florida | Winds: 90 mph | Category: 1 | Pressure: 982 mb | Movement: N at 20 mph | Change: Category 2 to Category 1 | Source: NOAA NHC",
+      "detected_utc": "2026-10-10T02:45:38.617423+00:00"
     }
   ],
   "active_cyclones": [
@@ -84,13 +89,13 @@
       "name": "Isaias",
       "basin": "Atlantic",
       "classification": "Hurricane",
-      "category": 2,
-      "wind_mph": 100.0,
-      "pressure_mb": 978.0,
-      "latitude": 30.5,
-      "longitude": -86.4,
-      "source_url": "https://www.nhc.noaa.gov/text/MIATCUAT4.shtml",
-      "last_seen": "2026-10-10T02:40:38.520187+00:00"
+      "category": 1,
+      "wind_mph": 90.0,
+      "pressure_mb": 982.0,
+      "latitude": 30.8,
+      "longitude": -86.5,
+      "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
+      "last_seen": "2026-10-10T02:45:38.346090+00:00"
     },
     {
       "system_id": "EP182026",
@@ -103,7 +108,7 @@
       "latitude": 23.6,
       "longitude": -123.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-10T02:40:38.527253+00:00"
+      "last_seen": "2026-10-10T02:45:38.359172+00:00"
     },
     {
       "system_id": "EP202026",
@@ -116,7 +121,7 @@
       "latitude": 16.8,
       "longitude": -104.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-10T02:40:38.545568+00:00"
+      "last_seen": "2026-10-10T02:45:38.372193+00:00"
     }
   ]
 }
