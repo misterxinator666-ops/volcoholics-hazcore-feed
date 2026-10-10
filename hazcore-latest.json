@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-10T04:35:39.696808+00:00",
+  "generated_utc": "2026-10-10T04:40:38.590655+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -86,6 +86,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6 | 7 km N of La Tronosa, Panama | Depth: 10 km | UTC: 2026-10-10 04:14:01.786000+00:00 | Source: USGS",
       "detected_utc": "2026-10-10T04:30:40.982916+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6 | 7 km N of La Tronosa, Panama | Depth: 10 km | UTC: 2026-10-10 04:14:01.786000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-10T04:40:38.589811+00:00"
     }
   ],
   "active_cyclones": [
@@ -100,7 +105,7 @@
       "latitude": 30.8,
       "longitude": -86.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-10T04:35:39.610999+00:00"
+      "last_seen": "2026-10-10T04:40:38.574265+00:00"
     },
     {
       "system_id": "EP182026",
@@ -113,7 +118,7 @@
       "latitude": 23.8,
       "longitude": -123.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-10T04:35:39.684860+00:00"
+      "last_seen": "2026-10-10T04:40:38.582774+00:00"
     },
     {
       "system_id": "EP202026",
@@ -126,7 +131,7 @@
       "latitude": 16.8,
       "longitude": -104.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-10T04:35:39.690776+00:00"
+      "last_seen": "2026-10-10T04:40:38.586346+00:00"
     }
   ]
 }
