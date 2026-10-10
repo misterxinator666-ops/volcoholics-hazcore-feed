@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-10T04:25:36.464413+00:00",
+  "generated_utc": "2026-10-10T04:30:40.983976+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -81,6 +81,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Isaias | Region: Atlantic | Location: 45 miles ENE of Pensacola Florida | Winds: 90 mph | Category: 1 | Pressure: 982 mb | Movement: N at 20 mph | Change: Category 2 to Category 1 | Source: NOAA NHC",
       "detected_utc": "2026-10-10T02:45:38.617423+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6 | 7 km N of La Tronosa, Panama | Depth: 10 km | UTC: 2026-10-10 04:14:01.786000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-10T04:30:40.982916+00:00"
     }
   ],
   "active_cyclones": [
@@ -95,7 +100,7 @@
       "latitude": 30.8,
       "longitude": -86.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-10T04:25:36.446312+00:00"
+      "last_seen": "2026-10-10T04:30:40.967009+00:00"
     },
     {
       "system_id": "EP182026",
@@ -108,7 +113,7 @@
       "latitude": 23.8,
       "longitude": -123.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-10T04:25:36.453220+00:00"
+      "last_seen": "2026-10-10T04:30:40.974040+00:00"
     },
     {
       "system_id": "EP202026",
@@ -121,7 +126,7 @@
       "latitude": 16.8,
       "longitude": -104.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-10T04:25:36.458699+00:00"
+      "last_seen": "2026-10-10T04:30:40.978650+00:00"
     }
   ]
 }
