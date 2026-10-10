@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-10T11:50:38.195081+00:00",
+  "generated_utc": "2026-10-10T11:55:36.058055+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -111,6 +111,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Isaias | Region: Atlantic | Location: 25 miles SSW of Montgomery Alabama | Winds: 35 mph | Pressure: 1002 mb | Movement: N at 14 mph | Change: winds 65 to 35 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-10T08:45:41.540783+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL DISTURBANCE] South of Southwestern Mexico | Eastern Pacific | 48h 0% | 7d 70%",
+      "detected_utc": "2026-10-10T11:55:36.056885+00:00"
     }
   ],
   "active_cyclones": [
@@ -125,7 +130,7 @@
       "latitude": 32.0,
       "longitude": -86.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-10T11:50:38.181040+00:00"
+      "last_seen": "2026-10-10T11:55:36.045246+00:00"
     },
     {
       "system_id": "EP182026",
@@ -135,10 +140,10 @@
       "category": null,
       "wind_mph": 60.0,
       "pressure_mb": 992.0,
-      "latitude": 24.2,
-      "longitude": -121.4,
+      "latitude": 24.6,
+      "longitude": -120.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-10T11:50:38.185646+00:00"
+      "last_seen": "2026-10-10T11:55:36.050048+00:00"
     },
     {
       "system_id": "EP202026",
@@ -146,12 +151,12 @@
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
       "category": 4,
-      "wind_mph": 145.0,
-      "pressure_mb": 942.0,
-      "latitude": 17.2,
-      "longitude": -104.6,
+      "wind_mph": 150.0,
+      "pressure_mb": 938.0,
+      "latitude": 17.3,
+      "longitude": -104.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-10T11:50:38.190565+00:00"
+      "last_seen": "2026-10-10T11:55:36.053411+00:00"
     }
   ]
 }
