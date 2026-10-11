@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T17:55:36.568152+00:00",
+  "generated_utc": "2026-10-11T18:00:42.058805+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -46,6 +46,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 20% -> 30% | 7d 80% -> 90%",
       "detected_utc": "2026-10-11T17:35:36.909139+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE REVIEW] M5.2 | 18 km SSE of Camaná, Peru | Depth: 44.92 km | UTC: 2026-10-11 13:42:59.788000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-11T18:00:42.057912+00:00"
     }
   ],
   "active_cyclones": [
@@ -60,7 +65,7 @@
       "latitude": 37.5,
       "longitude": -84.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T17:55:36.555668+00:00"
+      "last_seen": "2026-10-11T18:00:42.025930+00:00"
     },
     {
       "system_id": "EP182026",
@@ -73,7 +78,7 @@
       "latitude": 35.8,
       "longitude": -114.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T17:55:36.559899+00:00"
+      "last_seen": "2026-10-11T18:00:42.047285+00:00"
     },
     {
       "system_id": "EP202026",
@@ -86,7 +91,7 @@
       "latitude": 19.5,
       "longitude": -105.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T17:55:36.564470+00:00"
+      "last_seen": "2026-10-11T18:00:42.052039+00:00"
     }
   ]
 }
