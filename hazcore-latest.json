@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T14:30:40.629896+00:00",
+  "generated_utc": "2026-10-11T14:35:35.457108+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -31,6 +31,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.2 | 79 km SSE of Panguna, Papua New Guinea | Depth: 53.473 km | UTC: 2026-10-11 14:07:23.188000+00:00 | Source: USGS",
       "detected_utc": "2026-10-11T14:30:40.628969+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6.2 | 79 km SSE of Panguna, Papua New Guinea | Depth: 53.473 km | UTC: 2026-10-11 14:07:23.188000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-11T14:35:35.455983+00:00"
     }
   ],
   "active_cyclones": [
@@ -45,7 +50,7 @@
       "latitude": 35.4,
       "longitude": -85.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T14:30:40.612799+00:00"
+      "last_seen": "2026-10-11T14:35:35.431113+00:00"
     },
     {
       "system_id": "EP182026",
@@ -58,7 +63,7 @@
       "latitude": 33.9,
       "longitude": -115.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T14:30:40.619033+00:00"
+      "last_seen": "2026-10-11T14:35:35.444105+00:00"
     },
     {
       "system_id": "EP202026",
@@ -71,7 +76,7 @@
       "latitude": 18.9,
       "longitude": -105.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T14:30:40.623811+00:00"
+      "last_seen": "2026-10-11T14:35:35.450929+00:00"
     }
   ]
 }
