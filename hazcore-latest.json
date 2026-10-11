@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T17:30:39.231370+00:00",
+  "generated_utc": "2026-10-11T17:35:36.910006+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -41,6 +41,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Remnants of Rachel | Region: Eastern Pacific | Location: 255 miles NNE of San Diego California | Winds: 35 mph | Pressure: 994 mb | Movement: NNE at 29 mph | Classification: Post-Tropical Cyclone to Remnants of | Source: NOAA NHC",
       "detected_utc": "2026-10-11T14:45:40.234807+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 20% -> 30% | 7d 80% -> 90%",
+      "detected_utc": "2026-10-11T17:35:36.909139+00:00"
     }
   ],
   "active_cyclones": [
@@ -55,7 +60,7 @@
       "latitude": 37.5,
       "longitude": -84.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T17:30:39.219647+00:00"
+      "last_seen": "2026-10-11T17:35:36.889115+00:00"
     },
     {
       "system_id": "EP182026",
@@ -68,7 +73,7 @@
       "latitude": 35.8,
       "longitude": -114.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T17:30:39.223765+00:00"
+      "last_seen": "2026-10-11T17:35:36.894865+00:00"
     },
     {
       "system_id": "EP202026",
@@ -81,7 +86,7 @@
       "latitude": 19.2,
       "longitude": -105.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T17:30:39.227230+00:00"
+      "last_seen": "2026-10-11T17:35:36.904031+00:00"
     }
   ]
 }
