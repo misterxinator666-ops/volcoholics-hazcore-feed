@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T14:40:36.465429+00:00",
+  "generated_utc": "2026-10-11T14:45:40.235656+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -36,6 +36,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.2 | 79 km SSE of Panguna, Papua New Guinea | Depth: 53.473 km | UTC: 2026-10-11 14:07:23.188000+00:00 | Source: USGS",
       "detected_utc": "2026-10-11T14:35:35.455983+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Remnants of Rachel | Region: Eastern Pacific | Location: 255 miles NNE of San Diego California | Winds: 35 mph | Pressure: 994 mb | Movement: NNE at 29 mph | Classification: Post-Tropical Cyclone to Remnants of | Source: NOAA NHC",
+      "detected_utc": "2026-10-11T14:45:40.234807+00:00"
     }
   ],
   "active_cyclones": [
@@ -50,20 +55,20 @@
       "latitude": 35.4,
       "longitude": -85.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T14:40:36.448400+00:00"
+      "last_seen": "2026-10-11T14:45:39.774531+00:00"
     },
     {
       "system_id": "EP182026",
       "name": "Rachel",
       "basin": "Eastern Pacific",
-      "classification": "Post-Tropical Cyclone",
+      "classification": "Remnants of",
       "category": null,
-      "wind_mph": 40.0,
-      "pressure_mb": 993.0,
-      "latitude": 33.9,
-      "longitude": -115.4,
+      "wind_mph": 35.0,
+      "pressure_mb": 994.0,
+      "latitude": 35.8,
+      "longitude": -114.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T14:40:36.456455+00:00"
+      "last_seen": "2026-10-11T14:45:39.791940+00:00"
     },
     {
       "system_id": "EP202026",
@@ -76,7 +81,7 @@
       "latitude": 18.9,
       "longitude": -105.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T14:40:36.459803+00:00"
+      "last_seen": "2026-10-11T14:45:39.802169+00:00"
     }
   ]
 }
