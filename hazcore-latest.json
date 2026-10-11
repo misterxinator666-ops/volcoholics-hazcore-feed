@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T20:55:38.335941+00:00",
+  "generated_utc": "2026-10-11T21:00:43.441740+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -46,6 +46,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE REVIEW] M5.2 | 18 km SSE of Camaná, Peru | Depth: 44.92 km | UTC: 2026-10-11 13:42:59.788000+00:00 | Source: USGS",
       "detected_utc": "2026-10-11T18:00:42.057912+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 105 miles WNW of Manzanillo Mexico | Winds: 130 mph | Category: 4 | Pressure: 947 mb | Movement: NNW at 6 mph | Change: winds 150 to 130 mph | Source: NOAA NHC",
+      "detected_utc": "2026-10-11T21:00:43.440987+00:00"
     }
   ],
   "active_cyclones": [
@@ -60,7 +65,7 @@
       "latitude": 37.5,
       "longitude": -84.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T20:50:40.795230+00:00"
+      "last_seen": "2026-10-11T21:00:42.974420+00:00"
     },
     {
       "system_id": "EP182026",
@@ -73,7 +78,7 @@
       "latitude": 35.8,
       "longitude": -114.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T20:50:40.802783+00:00"
+      "last_seen": "2026-10-11T21:00:42.980455+00:00"
     },
     {
       "system_id": "EP202026",
@@ -81,12 +86,12 @@
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
       "category": 4,
-      "wind_mph": 140.0,
-      "pressure_mb": 940.0,
-      "latitude": 19.5,
-      "longitude": -105.5,
+      "wind_mph": 130.0,
+      "pressure_mb": 947.0,
+      "latitude": 19.6,
+      "longitude": -105.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T20:50:40.811225+00:00"
+      "last_seen": "2026-10-11T21:00:42.994446+00:00"
     }
   ]
 }
