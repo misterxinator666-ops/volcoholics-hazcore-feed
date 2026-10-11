@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T08:55:36.969109+00:00",
+  "generated_utc": "2026-10-11T09:00:42.782243+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -35,7 +35,7 @@
       "latitude": 35.4,
       "longitude": -85.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T08:55:36.939297+00:00"
+      "last_seen": "2026-10-11T09:00:42.733431+00:00"
     },
     {
       "system_id": "EP182026",
@@ -43,12 +43,12 @@
       "basin": "Eastern Pacific",
       "classification": "Post-Tropical Cyclone",
       "category": null,
-      "wind_mph": 60.0,
-      "pressure_mb": 987.0,
-      "latitude": 31.5,
-      "longitude": -116.5,
+      "wind_mph": 50.0,
+      "pressure_mb": 990.0,
+      "latitude": 32.9,
+      "longitude": -116.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T08:55:36.953503+00:00"
+      "last_seen": "2026-10-11T09:00:42.752105+00:00"
     },
     {
       "system_id": "EP202026",
@@ -57,11 +57,11 @@
       "classification": "Hurricane",
       "category": 4,
       "wind_mph": 155.0,
-      "pressure_mb": 928.0,
-      "latitude": 18.4,
-      "longitude": -105.0,
+      "pressure_mb": 930.0,
+      "latitude": 18.7,
+      "longitude": -105.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T08:55:36.960053+00:00"
+      "last_seen": "2026-10-11T09:00:42.768274+00:00"
     }
   ]
 }
