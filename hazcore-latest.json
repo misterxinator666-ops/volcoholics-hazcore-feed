@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T11:40:36.999259+00:00",
+  "generated_utc": "2026-10-11T11:45:37.577751+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] Eastern Tropical Atlantic | Atlantic | 48h 10% -> 20% | 7d 20% -> 20%",
       "detected_utc": "2026-10-11T11:30:39.711177+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Rachel | Region: Eastern Pacific | Location: 270 miles N of Punta Baja Mexico | Winds: 40 mph | Pressure: 993 mb | Movement: N at 25 mph | Change: winds 60 to 40 mph | Source: NOAA NHC",
+      "detected_utc": "2026-10-11T11:45:37.576455+00:00"
     }
   ],
   "active_cyclones": [
@@ -40,7 +45,7 @@
       "latitude": 35.4,
       "longitude": -85.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T11:40:36.958058+00:00"
+      "last_seen": "2026-10-11T11:45:37.399595+00:00"
     },
     {
       "system_id": "EP182026",
@@ -48,12 +53,12 @@
       "basin": "Eastern Pacific",
       "classification": "Post-Tropical Cyclone",
       "category": null,
-      "wind_mph": 50.0,
-      "pressure_mb": 990.0,
-      "latitude": 32.9,
-      "longitude": -116.1,
+      "wind_mph": 40.0,
+      "pressure_mb": 993.0,
+      "latitude": 33.9,
+      "longitude": -115.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T11:40:36.966601+00:00"
+      "last_seen": "2026-10-11T11:45:37.422688+00:00"
     },
     {
       "system_id": "EP202026",
@@ -61,12 +66,12 @@
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
       "category": 4,
-      "wind_mph": 155.0,
-      "pressure_mb": 930.0,
-      "latitude": 18.7,
+      "wind_mph": 150.0,
+      "pressure_mb": 933.0,
+      "latitude": 18.9,
       "longitude": -105.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T11:40:36.992494+00:00"
+      "last_seen": "2026-10-11T11:45:37.430485+00:00"
     }
   ]
 }
