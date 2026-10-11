@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T14:25:36.033834+00:00",
+  "generated_utc": "2026-10-11T14:30:40.629896+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Rachel | Region: Eastern Pacific | Location: 270 miles N of Punta Baja Mexico | Winds: 40 mph | Pressure: 993 mb | Movement: N at 25 mph | Change: winds 60 to 40 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-11T11:45:37.576455+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6.2 | 79 km SSE of Panguna, Papua New Guinea | Depth: 53.473 km | UTC: 2026-10-11 14:07:23.188000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-11T14:30:40.628969+00:00"
     }
   ],
   "active_cyclones": [
@@ -40,7 +45,7 @@
       "latitude": 35.4,
       "longitude": -85.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T14:25:35.994140+00:00"
+      "last_seen": "2026-10-11T14:30:40.612799+00:00"
     },
     {
       "system_id": "EP182026",
@@ -53,7 +58,7 @@
       "latitude": 33.9,
       "longitude": -115.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T14:25:35.999304+00:00"
+      "last_seen": "2026-10-11T14:30:40.619033+00:00"
     },
     {
       "system_id": "EP202026",
@@ -66,7 +71,7 @@
       "latitude": 18.9,
       "longitude": -105.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T14:25:36.006333+00:00"
+      "last_seen": "2026-10-11T14:30:40.623811+00:00"
     }
   ]
 }
