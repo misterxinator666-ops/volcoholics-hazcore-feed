@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-11T04:40:36.443672+00:00",
+  "generated_utc": "2026-10-11T04:45:39.803043+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6 | 7 km N of La Tronosa, Panama | Depth: 10 km | UTC: 2026-10-10 04:14:01.786000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-10T04:40:38.589811+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 140 miles S of Manzanillo Mexico | Winds: 140 mph | Category: 4 | Pressure: 945 mb | Movement: N at 5 mph | Change: Category 3 to Category 4 | Source: NOAA NHC",
@@ -55,7 +50,7 @@
       "latitude": 35.0,
       "longitude": -86.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T04:40:36.431712+00:00"
+      "last_seen": "2026-10-11T04:45:39.777766+00:00"
     },
     {
       "system_id": "EP182026",
@@ -68,7 +63,7 @@
       "latitude": 30.0,
       "longitude": -116.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T04:40:36.436507+00:00"
+      "last_seen": "2026-10-11T04:45:39.789986+00:00"
     },
     {
       "system_id": "EP202026",
@@ -81,7 +76,7 @@
       "latitude": 18.2,
       "longitude": -104.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T04:40:36.440014+00:00"
+      "last_seen": "2026-10-11T04:45:39.797410+00:00"
     }
   ]
 }
