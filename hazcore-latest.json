@@ -1,22 +1,7 @@
 {
-  "generated_utc": "2026-10-11T05:30:45.901922+00:00",
+  "generated_utc": "2026-10-11T06:45:36.756384+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 140 miles S of Manzanillo Mexico | Winds: 140 mph | Category: 4 | Pressure: 945 mb | Movement: N at 5 mph | Change: Category 3 to Category 4 | Source: NOAA NHC",
-      "detected_utc": "2026-10-10T05:50:38.289598+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Isaias | Region: Atlantic | Location: 80 miles NNE of Pensacola Florida | Winds: 65 mph | Pressure: 1000 mb | Movement: N at 20 mph | Change: winds 90 to 65 mph | Source: NOAA NHC",
-      "detected_utc": "2026-10-10T05:55:36.859929+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Rachel | Region: Eastern Pacific | Location: 670 miles SSW of San Diego California | Winds: 60 mph | Pressure: 990 mb | Movement: NE at 12 mph | Change: winds 45 to 60 mph | Source: NOAA NHC",
-      "detected_utc": "2026-10-10T06:15:39.405459+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Isaias | Region: Atlantic | Location: 25 miles SSW of Montgomery Alabama | Winds: 35 mph | Pressure: 1002 mb | Movement: N at 14 mph | Change: winds 65 to 35 mph | Source: NOAA NHC",
@@ -36,6 +21,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Rachel | Region: Eastern Pacific | Location: 40 miles W of Punta Baja Mexico | Winds: 60 mph | Pressure: 987 mb | Movement: NNE at 36 mph | Classification: Tropical Storm to Post-Tropical Cyclone | Source: NOAA NHC",
       "detected_utc": "2026-10-11T02:45:37.762555+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL DISTURBANCE] South of Southern Mexico | Eastern Pacific | 48h 20% | 7d 80%",
+      "detected_utc": "2026-10-11T06:45:36.755590+00:00"
     }
   ],
   "active_cyclones": [
@@ -50,7 +40,7 @@
       "latitude": 35.0,
       "longitude": -86.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T05:30:45.865677+00:00"
+      "last_seen": "2026-10-11T06:45:36.739267+00:00"
     },
     {
       "system_id": "EP182026",
@@ -60,10 +50,10 @@
       "category": null,
       "wind_mph": 60.0,
       "pressure_mb": 987.0,
-      "latitude": 30.0,
+      "latitude": 31.5,
       "longitude": -116.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T05:30:45.882498+00:00"
+      "last_seen": "2026-10-11T06:45:36.745334+00:00"
     },
     {
       "system_id": "EP202026",
@@ -73,10 +63,10 @@
       "category": 4,
       "wind_mph": 155.0,
       "pressure_mb": 928.0,
-      "latitude": 18.2,
-      "longitude": -104.8,
+      "latitude": 18.4,
+      "longitude": -105.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T05:30:45.894368+00:00"
+      "last_seen": "2026-10-11T06:45:36.749784+00:00"
     }
   ]
 }
