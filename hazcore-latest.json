@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-11T02:05:38.767898+00:00",
+  "generated_utc": "2026-10-11T02:10:39.800998+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Isaias | Region: Atlantic | Location: 50 miles E of Pensacola Florida | Winds: 100 mph | Category: 2 | Pressure: 978 mb | Movement: N at 19 mph | Change: Category 1 to Category 2 | Source: NOAA NHC",
-      "detected_utc": "2026-10-10T02:10:37.022509+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 155 miles S of Manzanillo Mexico | Winds: 120 mph | Category: 3 | Pressure: 952 mb | Movement: N at 7 mph | Change: Category 2 to Category 3 | Source: NOAA NHC",
@@ -70,7 +65,7 @@
       "latitude": 33.5,
       "longitude": -86.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
-      "last_seen": "2026-10-11T02:05:38.731183+00:00"
+      "last_seen": "2026-10-11T02:10:39.723660+00:00"
     },
     {
       "system_id": "EP182026",
@@ -83,7 +78,7 @@
       "latitude": 27.4,
       "longitude": -116.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
-      "last_seen": "2026-10-11T02:05:38.746135+00:00"
+      "last_seen": "2026-10-11T02:10:39.770778+00:00"
     },
     {
       "system_id": "EP202026",
@@ -96,7 +91,7 @@
       "latitude": 17.9,
       "longitude": -104.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-11T02:05:38.755286+00:00"
+      "last_seen": "2026-10-11T02:10:39.780151+00:00"
     }
   ]
 }
