@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-12T02:05:37.249743+00:00",
+  "generated_utc": "2026-10-12T02:10:38.570825+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -61,6 +61,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 110 miles WNW of Manzanillo Mexico | Winds: 125 mph | Category: 3 | Pressure: 951 mb | Movement: NW at 5 mph | Change: Category 4 to Category 3 | Source: NOAA NHC",
       "detected_utc": "2026-10-11T23:55:35.663214+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[INGV-OE INITIAL_ASSESSMENT] Etna | 2026-10-12T02:03:57 | 2026-10-12 02:03:57 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) ETNA DOWNLOAD PDF | Source: INGV-OE",
+      "detected_utc": "2026-10-12T02:10:38.569892+00:00"
     }
   ],
   "active_cyclones": [
@@ -101,7 +106,7 @@
       "latitude": 19.7,
       "longitude": -105.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-12T02:05:37.241938+00:00"
+      "last_seen": "2026-10-12T02:10:38.566534+00:00"
     }
   ]
 }
