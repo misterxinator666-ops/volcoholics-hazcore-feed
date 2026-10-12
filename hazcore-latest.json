@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-12T11:40:38.852614+00:00",
+  "generated_utc": "2026-10-12T11:45:38.853958+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Rachel | Region: Eastern Pacific | Location: 270 miles N of Punta Baja Mexico | Winds: 40 mph | Pressure: 993 mb | Movement: N at 25 mph | Change: winds 60 to 40 mph | Source: NOAA NHC",
-      "detected_utc": "2026-10-11T11:45:37.576455+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.2 | 79 km SSE of Panguna, Papua New Guinea | Depth: 53.473 km | UTC: 2026-10-11 14:07:23.188000+00:00 | Source: USGS",
@@ -93,10 +88,10 @@
       "category": 3,
       "wind_mph": 115.0,
       "pressure_mb": 958.0,
-      "latitude": 20.0,
-      "longitude": -106.3,
+      "latitude": 20.1,
+      "longitude": -106.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-12T11:40:38.841552+00:00"
+      "last_seen": "2026-10-12T11:45:38.845083+00:00"
     }
   ]
 }
