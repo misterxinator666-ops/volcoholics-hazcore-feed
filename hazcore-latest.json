@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-12T14:30:42.593939+00:00",
+  "generated_utc": "2026-10-12T14:35:40.051476+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.2 | 79 km SSE of Panguna, Papua New Guinea | Depth: 53.473 km | UTC: 2026-10-11 14:07:23.188000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-11T14:35:35.455983+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Remnants of Rachel | Region: Eastern Pacific | Location: 255 miles NNE of San Diego California | Winds: 35 mph | Pressure: 994 mb | Movement: NNE at 29 mph | Classification: Post-Tropical Cyclone to Remnants of | Source: NOAA NHC",
@@ -91,7 +86,7 @@
       "latitude": 20.1,
       "longitude": -106.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-12T14:30:42.568612+00:00"
+      "last_seen": "2026-10-12T14:35:40.040527+00:00"
     }
   ]
 }
