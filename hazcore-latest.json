@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-12T02:45:37.367591+00:00",
+  "generated_utc": "2026-10-12T02:50:38.950506+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Rachel | Region: Eastern Pacific | Location: 40 miles W of Punta Baja Mexico | Winds: 60 mph | Pressure: 987 mb | Movement: NNE at 36 mph | Classification: Tropical Storm to Post-Tropical Cyclone | Source: NOAA NHC",
-      "detected_utc": "2026-10-11T02:45:37.762555+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL DISTURBANCE] South of Southern Mexico | Eastern Pacific | 48h 20% | 7d 80%",
@@ -101,12 +96,12 @@
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
       "category": 3,
-      "wind_mph": 125.0,
-      "pressure_mb": 951.0,
-      "latitude": 19.7,
-      "longitude": -105.8,
+      "wind_mph": 120.0,
+      "pressure_mb": 956.0,
+      "latitude": 19.8,
+      "longitude": -106.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-12T02:45:37.359894+00:00"
+      "last_seen": "2026-10-12T02:50:38.942231+00:00"
     }
   ]
 }
