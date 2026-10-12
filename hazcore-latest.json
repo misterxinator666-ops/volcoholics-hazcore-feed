@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-12T14:55:39.344123+00:00",
+  "generated_utc": "2026-10-12T15:00:50.249125+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -41,6 +41,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Southern Mexico (EP93) | Eastern Pacific | 48h 60% -> 80% | 7d 90% -> 90%",
       "detected_utc": "2026-10-12T11:55:36.624374+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 55 miles WSW of Cabo Corrientes Mexico | Winds: 110 mph | Category: 2 | Pressure: 962 mb | Movement: NW at 3 mph | Change: Category 3 to Category 2 | Source: NOAA NHC",
+      "detected_utc": "2026-10-12T15:00:50.248415+00:00"
     }
   ],
   "active_cyclones": [
@@ -75,13 +80,13 @@
       "name": "Simon",
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
-      "category": 3,
-      "wind_mph": 115.0,
-      "pressure_mb": 958.0,
+      "category": 2,
+      "wind_mph": 110.0,
+      "pressure_mb": 962.0,
       "latitude": 20.1,
-      "longitude": -106.4,
+      "longitude": -106.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-12T14:55:39.335423+00:00"
+      "last_seen": "2026-10-12T15:00:50.204182+00:00"
     }
   ]
 }
