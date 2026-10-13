@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-13T02:05:39.717173+00:00",
+  "generated_utc": "2026-10-13T02:10:39.473659+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Etna | 2026-10-12T02:03:57 | 2026-10-12 02:03:57 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) ETNA DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-10-12T02:10:38.569892+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL DISTURBANCE] South of Southern Mexico (EP93) | Eastern Pacific | 48h 60% | 7d 90%",
@@ -86,7 +81,7 @@
       "latitude": 20.3,
       "longitude": -106.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-13T02:05:39.709025+00:00"
+      "last_seen": "2026-10-13T02:10:39.449789+00:00"
     }
   ]
 }
