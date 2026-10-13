@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-13T12:35:39.814354+00:00",
+  "generated_utc": "2026-10-13T12:40:42.626749+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -66,6 +66,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.8 | central Mid-Atlantic Ridge | Depth: 10 km | UTC: 2026-10-13 12:23:07+00:00 | Source: USGS",
       "detected_utc": "2026-10-13T12:35:39.813506+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M6.9 | central Mid-Atlantic Ridge | Depth: 10 km | UTC: 2026-10-13 12:23:07.383000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-13T12:40:42.625940+00:00"
     }
   ],
   "active_cyclones": [
@@ -106,7 +111,7 @@
       "latitude": 20.4,
       "longitude": -107.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-13T12:35:39.793640+00:00"
+      "last_seen": "2026-10-13T12:40:42.620617+00:00"
     }
   ]
 }
