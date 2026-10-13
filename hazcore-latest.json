@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-13T17:10:42.563051+00:00",
+  "generated_utc": "2026-10-13T17:15:39.087757+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] South of Southern Mexico (EP93) | Eastern Pacific | 48h 80% -> 90% | 7d 90% -> 90%",
-      "detected_utc": "2026-10-12T17:15:37.965730+00:00"
-    },
     {
       "type": "volcano",
       "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-10-12T20:05:02 | 2026-10-12 20:05:02 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
@@ -121,7 +116,7 @@
       "latitude": 20.3,
       "longitude": -107.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-13T17:10:42.483508+00:00"
+      "last_seen": "2026-10-13T17:15:39.059218+00:00"
     },
     {
       "system_id": "EP212026",
@@ -134,7 +129,7 @@
       "latitude": 9.8,
       "longitude": -96.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-13T17:10:42.517540+00:00"
+      "last_seen": "2026-10-13T17:15:39.083466+00:00"
     }
   ]
 }
