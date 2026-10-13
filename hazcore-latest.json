@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-13T20:35:38.664531+00:00",
+  "generated_utc": "2026-10-13T20:40:42.023897+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -81,6 +81,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6 | 126 km S of Kokopo, Papua New Guinea | Depth: 20.842 km | UTC: 2026-10-13 18:45:03.231000+00:00 | Source: USGS",
       "detected_utc": "2026-10-13T19:10:40.177606+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Trudy | Region: Eastern Pacific | Location: 490 miles SSE of Acapulco Mexico | Winds: 40 mph | Pressure: 1005 mb | Movement: NW at 8 mph | Classification: Tropical Depression to Tropical Storm | Source: NOAA NHC",
+      "detected_utc": "2026-10-13T20:40:42.022953+00:00"
     }
   ],
   "active_cyclones": [
@@ -121,20 +126,20 @@
       "latitude": 20.2,
       "longitude": -107.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-13T20:35:38.652174+00:00"
+      "last_seen": "2026-10-13T20:40:41.576552+00:00"
     },
     {
       "system_id": "EP212026",
-      "name": "Twenty-One-E",
+      "name": "Trudy",
       "basin": "Eastern Pacific",
-      "classification": "Tropical Depression",
+      "classification": "Tropical Storm",
       "category": null,
-      "wind_mph": 35.0,
-      "pressure_mb": 1006.0,
-      "latitude": 9.8,
+      "wind_mph": 40.0,
+      "pressure_mb": 1005.0,
+      "latitude": 10.6,
       "longitude": -96.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-13T20:35:38.656610+00:00"
+      "last_seen": "2026-10-13T20:40:41.584534+00:00"
     }
   ]
 }
