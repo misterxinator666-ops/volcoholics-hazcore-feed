@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-13T05:15:40.374748+00:00",
+  "generated_utc": "2026-10-13T05:20:40.749202+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -41,6 +41,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.1 | 18 km W of Río Grande, Panama | Depth: 10 km | UTC: 2026-10-12 23:20:36.486000+00:00 | Source: USGS",
       "detected_utc": "2026-10-12T23:40:39.141667+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Eastern Tropical Atlantic | Atlantic | 48h 20% -> 10% | 7d 20% -> 10%",
+      "detected_utc": "2026-10-13T05:20:40.748389+00:00"
     }
   ],
   "active_cyclones": [
@@ -81,7 +86,7 @@
       "latitude": 20.4,
       "longitude": -107.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-13T05:15:40.364933+00:00"
+      "last_seen": "2026-10-13T05:20:40.740010+00:00"
     }
   ]
 }
