@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-13T19:05:40.872540+00:00",
+  "generated_utc": "2026-10-13T19:10:40.178583+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -81,6 +81,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6 | 126 km S of Kokopo, Papua New Guinea | Depth: 20.842 km | UTC: 2026-10-13 18:45:03.231000+00:00 | Source: USGS",
       "detected_utc": "2026-10-13T19:05:40.871590+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6 | 126 km S of Kokopo, Papua New Guinea | Depth: 20.842 km | UTC: 2026-10-13 18:45:03.231000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-13T19:10:40.177606+00:00"
     }
   ],
   "active_cyclones": [
@@ -121,7 +126,7 @@
       "latitude": 20.2,
       "longitude": -107.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-13T19:05:40.860034+00:00"
+      "last_seen": "2026-10-13T19:10:40.169201+00:00"
     },
     {
       "system_id": "EP212026",
@@ -134,7 +139,7 @@
       "latitude": 9.8,
       "longitude": -96.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-13T19:05:40.864499+00:00"
+      "last_seen": "2026-10-13T19:10:40.173710+00:00"
     }
   ]
 }
