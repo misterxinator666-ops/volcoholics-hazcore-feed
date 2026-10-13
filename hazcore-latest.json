@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-13T23:35:36.060214+00:00",
+  "generated_utc": "2026-10-13T23:40:38.673819+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M6.1 | 18 km W of Río Grande, Panama | Depth: 10 km | UTC: 2026-10-12 23:20:36.486000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-12T23:35:39.786391+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.1 | 18 km W of Río Grande, Panama | Depth: 10 km | UTC: 2026-10-12 23:20:36.486000+00:00 | Source: USGS",
@@ -121,7 +116,7 @@
       "latitude": 20.2,
       "longitude": -107.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-13T23:35:36.025586+00:00"
+      "last_seen": "2026-10-13T23:40:38.664605+00:00"
     },
     {
       "system_id": "EP212026",
@@ -134,7 +129,7 @@
       "latitude": 10.6,
       "longitude": -96.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-13T23:35:36.037803+00:00"
+      "last_seen": "2026-10-13T23:40:38.668826+00:00"
     }
   ]
 }
