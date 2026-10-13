@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-13T14:45:40.409292+00:00",
+  "generated_utc": "2026-10-13T14:50:44.432816+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -76,6 +76,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.9 | central Mid-Atlantic Ridge | Depth: 10 km | UTC: 2026-10-13 12:23:07.383000+00:00 | Source: USGS",
       "detected_utc": "2026-10-13T12:50:43.809726+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE] Tropical Depression Twenty-One-e | Region: Eastern Pacific | Location: 540 miles SSE of Acapulco Mexico | Winds: 35 mph | Pressure: 1006 mb | Movement: NW at 10 mph | Source: NOAA NHC",
+      "detected_utc": "2026-10-13T14:50:44.431936+00:00"
     }
   ],
   "active_cyclones": [
@@ -116,7 +121,20 @@
       "latitude": 20.4,
       "longitude": -107.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-13T14:45:40.392634+00:00"
+      "last_seen": "2026-10-13T14:50:43.970105+00:00"
+    },
+    {
+      "system_id": "EP212026",
+      "name": "Twenty-One-e",
+      "basin": "Eastern Pacific",
+      "classification": "Tropical Depression",
+      "category": null,
+      "wind_mph": 35.0,
+      "pressure_mb": 1006.0,
+      "latitude": 9.8,
+      "longitude": -96.5,
+      "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
+      "last_seen": "2026-10-13T14:50:43.979159+00:00"
     }
   ]
 }
