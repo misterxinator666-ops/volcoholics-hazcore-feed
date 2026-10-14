@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-14T14:50:38.758368+00:00",
+  "generated_utc": "2026-10-14T14:55:34.478399+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE] Tropical Depression Twenty-One-e | Region: Eastern Pacific | Location: 540 miles SSE of Acapulco Mexico | Winds: 35 mph | Pressure: 1006 mb | Movement: NW at 10 mph | Source: NOAA NHC",
-      "detected_utc": "2026-10-13T14:50:44.431936+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Depression Twenty-One-E | Region: Eastern Pacific | Location: 540 miles SSE of Acapulco Mexico | Winds: 35 mph | Pressure: 1006 mb | Movement: NW at 10 mph | Source: NOAA NHC",
@@ -76,7 +71,7 @@
       "latitude": 19.7,
       "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-14T14:50:38.314293+00:00"
+      "last_seen": "2026-10-14T14:55:34.464507+00:00"
     },
     {
       "system_id": "EP212026",
@@ -89,7 +84,7 @@
       "latitude": 11.1,
       "longitude": -99.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-14T14:50:38.320508+00:00"
+      "last_seen": "2026-10-14T14:55:34.472982+00:00"
     }
   ]
 }
