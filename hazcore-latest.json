@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-14T06:15:36.261993+00:00",
+  "generated_utc": "2026-10-14T06:20:38.727860+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.7 | central Mid-Atlantic Ridge | Depth: 10 km | UTC: 2026-10-13 05:44:46.919000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-13T06:15:40.797225+00:00"
-    },
     {
       "type": "volcano",
       "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-10-13T08:53:29 | 2026-10-13 08:53:29 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
@@ -101,7 +96,7 @@
       "latitude": 20.0,
       "longitude": -107.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-14T06:15:36.251706+00:00"
+      "last_seen": "2026-10-14T06:20:38.718481+00:00"
     },
     {
       "system_id": "EP212026",
@@ -114,7 +109,7 @@
       "latitude": 11.2,
       "longitude": -97.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-14T06:15:36.255279+00:00"
+      "last_seen": "2026-10-14T06:20:38.723719+00:00"
     }
   ]
 }
