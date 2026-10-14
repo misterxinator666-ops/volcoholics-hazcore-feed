@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-14T20:45:36.535966+00:00",
+  "generated_utc": "2026-10-14T20:50:37.039242+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -56,7 +56,7 @@
       "latitude": 19.7,
       "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-14T20:45:36.518423+00:00"
+      "last_seen": "2026-10-14T20:50:37.015205+00:00"
     },
     {
       "system_id": "EP212026",
@@ -64,12 +64,12 @@
       "basin": "Eastern Pacific",
       "classification": "Tropical Storm",
       "category": null,
-      "wind_mph": 60.0,
-      "pressure_mb": 998.0,
-      "latitude": 11.5,
-      "longitude": -99.5,
+      "wind_mph": 65.0,
+      "pressure_mb": 997.0,
+      "latitude": 11.9,
+      "longitude": -100.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-14T20:45:36.524075+00:00"
+      "last_seen": "2026-10-14T20:50:37.035083+00:00"
     }
   ]
 }
