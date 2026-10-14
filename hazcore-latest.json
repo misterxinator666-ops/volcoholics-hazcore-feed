@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-14T09:00:44.564813+00:00",
+  "generated_utc": "2026-10-14T09:05:37.233000+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-10-13T08:53:29 | 2026-10-13 08:53:29 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-10-13T09:00:47.662818+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Eastern Tropical Atlantic | Atlantic | 48h 10% -> 0% | 7d 10% -> 0%",
@@ -96,7 +91,7 @@
       "latitude": 19.8,
       "longitude": -107.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-14T09:00:44.524225+00:00"
+      "last_seen": "2026-10-14T09:05:37.201989+00:00"
     },
     {
       "system_id": "EP212026",
@@ -109,7 +104,7 @@
       "latitude": 11.1,
       "longitude": -99.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-14T09:00:44.541541+00:00"
+      "last_seen": "2026-10-14T09:05:37.222165+00:00"
     }
   ]
 }
