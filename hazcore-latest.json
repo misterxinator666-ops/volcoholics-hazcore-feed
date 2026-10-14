@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-14T05:40:37.254399+00:00",
+  "generated_utc": "2026-10-14T05:45:38.483413+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 90 miles W of Cabo Corrientes Mexico | Winds: 90 mph | Category: 1 | Pressure: 977 mb | Movement: NW at 3 mph | Change: Category 2 to Category 1 | Source: NOAA NHC",
-      "detected_utc": "2026-10-13T05:40:42.367395+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.7 | central Mid-Atlantic Ridge | Depth: 10 km | UTC: 2026-10-13 05:44:46.919000+00:00 | Source: USGS",
@@ -111,7 +106,7 @@
       "latitude": 20.0,
       "longitude": -107.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-14T05:40:37.241650+00:00"
+      "last_seen": "2026-10-14T05:45:38.471376+00:00"
     },
     {
       "system_id": "EP212026",
@@ -124,7 +119,7 @@
       "latitude": 11.2,
       "longitude": -97.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-14T05:40:37.249519+00:00"
+      "last_seen": "2026-10-14T05:45:38.477026+00:00"
     }
   ]
 }
