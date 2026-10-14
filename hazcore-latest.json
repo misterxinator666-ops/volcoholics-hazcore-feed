@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-14T12:40:40.080701+00:00",
+  "generated_utc": "2026-10-14T12:45:36.878979+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE PRIORITY] M6.9 | central Mid-Atlantic Ridge | Depth: 10 km | UTC: 2026-10-13 12:23:07.383000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-13T12:40:42.625940+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.9 | central Mid-Atlantic Ridge | Depth: 10 km | UTC: 2026-10-13 12:23:07.383000+00:00 | Source: USGS",
@@ -81,7 +76,7 @@
       "latitude": 19.8,
       "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-14T12:40:40.069946+00:00"
+      "last_seen": "2026-10-14T12:45:36.852895+00:00"
     },
     {
       "system_id": "EP212026",
@@ -94,7 +89,7 @@
       "latitude": 11.1,
       "longitude": -99.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-14T12:40:40.076274+00:00"
+      "last_seen": "2026-10-14T12:45:36.866483+00:00"
     }
   ]
 }
