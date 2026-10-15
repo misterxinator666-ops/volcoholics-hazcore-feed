@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-15T14:50:37.359382+00:00",
+  "generated_utc": "2026-10-15T14:55:36.788781+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Simon | Region: Eastern Pacific | Location: 165 miles WSW of Cabo Corrientes Mexico | Winds: 90 mph | Category: 1 | Pressure: 975 mb | Movement: SW at 2 mph | Change: Category 2 to Category 1 | Source: NOAA NHC",
-      "detected_utc": "2026-10-14T14:50:38.757438+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Trudy | Region: Eastern Pacific | Location: 375 miles S of Acapulco Mexico | Winds: 60 mph | Pressure: 998 mb | Movement: WNW at 13 mph | Change: winds 40 to 60 mph | Source: NOAA NHC",
@@ -86,7 +81,7 @@
       "latitude": 19.2,
       "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-15T14:50:37.336600+00:00"
+      "last_seen": "2026-10-15T14:55:36.776513+00:00"
     },
     {
       "system_id": "EP212026",
@@ -99,7 +94,7 @@
       "latitude": 12.9,
       "longitude": -101.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-15T14:50:37.346753+00:00"
+      "last_seen": "2026-10-15T14:55:36.782840+00:00"
     }
   ]
 }
