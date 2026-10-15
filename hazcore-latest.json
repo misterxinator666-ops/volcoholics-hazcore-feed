@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-15T11:30:39.067388+00:00",
+  "generated_utc": "2026-10-15T11:35:35.521108+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -36,6 +36,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 300 miles SSW of Acapulco Mexico | Winds: 75 mph | Category: 1 | Pressure: 989 mb | Movement: NW at 9 mph | Change: winds 60 to 75 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-15T08:40:37.340223+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE REVIEW] M5.6 | 43 km NNW of Lake Minchumina, Alaska | Depth: 4.5 km | UTC: 2026-10-15 11:07:01.800000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-15T11:35:35.519784+00:00"
     }
   ],
   "active_cyclones": [
@@ -76,7 +81,7 @@
       "latitude": 19.2,
       "longitude": -108.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-15T11:30:38.959859+00:00"
+      "last_seen": "2026-10-15T11:35:35.509967+00:00"
     },
     {
       "system_id": "EP212026",
@@ -89,7 +94,7 @@
       "latitude": 12.9,
       "longitude": -101.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-15T11:30:39.054290+00:00"
+      "last_seen": "2026-10-15T11:35:35.515410+00:00"
     }
   ]
 }
