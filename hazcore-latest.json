@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-15T02:30:39.619709+00:00",
+  "generated_utc": "2026-10-15T02:35:33.632962+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-10-15 | ORANGE / WATCH | Source: USGS-HVO",
       "detected_utc": "2026-10-15T02:20:37.458721+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Simon | Region: Eastern Pacific | Location: 275 miles SSE of Cabo San Lucas Mexico | Winds: 65 mph | Pressure: 991 mb | Movement: SW at 5 mph | Classification: Hurricane to Tropical Storm | Source: NOAA NHC",
+      "detected_utc": "2026-10-15T02:35:33.632300+00:00"
     }
   ],
   "active_cyclones": [
@@ -59,14 +64,14 @@
       "system_id": "EP202026",
       "name": "Simon",
       "basin": "Eastern Pacific",
-      "classification": "Hurricane",
-      "category": 1,
-      "wind_mph": 75.0,
-      "pressure_mb": 989.0,
-      "latitude": 19.3,
-      "longitude": -108.3,
+      "classification": "Tropical Storm",
+      "category": null,
+      "wind_mph": 65.0,
+      "pressure_mb": 991.0,
+      "latitude": 19.1,
+      "longitude": -108.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-15T02:30:39.586957+00:00"
+      "last_seen": "2026-10-15T02:35:33.229349+00:00"
     },
     {
       "system_id": "EP212026",
@@ -74,12 +79,12 @@
       "basin": "Eastern Pacific",
       "classification": "Tropical Storm",
       "category": null,
-      "wind_mph": 65.0,
-      "pressure_mb": 997.0,
-      "latitude": 11.9,
-      "longitude": -100.0,
+      "wind_mph": 70.0,
+      "pressure_mb": 994.0,
+      "latitude": 12.4,
+      "longitude": -100.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-15T02:30:39.613920+00:00"
+      "last_seen": "2026-10-15T02:35:33.232700+00:00"
     }
   ]
 }
