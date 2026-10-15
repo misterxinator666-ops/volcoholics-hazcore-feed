@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-15T17:30:40.894680+00:00",
+  "generated_utc": "2026-10-15T17:35:35.562968+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -41,6 +41,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 285 miles SSW of Acapulco Mexico | Winds: 90 mph | Category: 1 | Pressure: 975 mb | Movement: NNW at 6 mph | Change: winds 75 to 90 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-15T15:05:33.796385+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
+      "detected_utc": "2026-10-15T17:35:35.561988+00:00"
     }
   ],
   "active_cyclones": [
@@ -81,7 +86,7 @@
       "latitude": 19.2,
       "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-15T17:30:40.880337+00:00"
+      "last_seen": "2026-10-15T17:35:35.538703+00:00"
     },
     {
       "system_id": "EP212026",
@@ -94,7 +99,7 @@
       "latitude": 13.1,
       "longitude": -101.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-15T17:30:40.890414+00:00"
+      "last_seen": "2026-10-15T17:35:35.550277+00:00"
     }
   ]
 }
