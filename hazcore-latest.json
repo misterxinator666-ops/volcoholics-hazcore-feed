@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-16T14:55:34.865287+00:00",
+  "generated_utc": "2026-10-16T15:00:41.242969+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -123,10 +123,10 @@
       "category": null,
       "wind_mph": 40.0,
       "pressure_mb": 1002.0,
-      "latitude": 20.0,
-      "longitude": -108.8,
+      "latitude": 20.6,
+      "longitude": -109.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T14:55:34.841682+00:00"
+      "last_seen": "2026-10-16T15:00:41.180377+00:00"
     },
     {
       "system_id": "EP212026",
@@ -139,7 +139,7 @@
       "latitude": 14.6,
       "longitude": -102.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T14:55:34.857637+00:00"
+      "last_seen": "2026-10-16T15:00:41.224120+00:00"
     }
   ]
 }
