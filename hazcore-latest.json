@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-16T05:25:35.237544+00:00",
+  "generated_utc": "2026-10-16T05:30:40.143856+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -81,6 +81,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 50% -> 60%",
       "detected_utc": "2026-10-16T05:20:37.454673+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Merapi | 2026-10-16T05:26:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-10-16T05:30:40.142873+00:00"
     }
   ],
   "active_cyclones": [
@@ -121,7 +126,7 @@
       "latitude": 19.5,
       "longitude": -108.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T05:25:35.223441+00:00"
+      "last_seen": "2026-10-16T05:30:40.133808+00:00"
     },
     {
       "system_id": "EP212026",
@@ -134,7 +139,7 @@
       "latitude": 14.3,
       "longitude": -102.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T05:25:35.233835+00:00"
+      "last_seen": "2026-10-16T05:30:40.138956+00:00"
     }
   ]
 }
