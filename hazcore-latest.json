@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-16T03:50:34.782492+00:00",
+  "generated_utc": "2026-10-16T03:55:33.837874+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -71,6 +71,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.9 | 76 km NE of Ozernovskiy, Russia | Depth: 143.176 km | UTC: 2026-10-16 03:35:32.661000+00:00 | Source: USGS",
       "detected_utc": "2026-10-16T03:50:34.781535+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6.9 | 76 km NE of Ozernovskiy, Russia | Depth: 143.176 km | UTC: 2026-10-16 03:35:32.661000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-16T03:55:33.837054+00:00"
     }
   ],
   "active_cyclones": [
@@ -111,7 +116,7 @@
       "latitude": 19.5,
       "longitude": -108.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T03:50:34.773170+00:00"
+      "last_seen": "2026-10-16T03:55:33.815084+00:00"
     },
     {
       "system_id": "EP212026",
@@ -124,7 +129,7 @@
       "latitude": 14.3,
       "longitude": -102.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T03:50:34.777798+00:00"
+      "last_seen": "2026-10-16T03:55:33.826964+00:00"
     }
   ]
 }
