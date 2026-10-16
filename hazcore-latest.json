@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-16T11:35:33.589656+00:00",
+  "generated_utc": "2026-10-16T11:40:35.820679+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE REVIEW] M5.6 | 43 km NNW of Lake Minchumina, Alaska | Depth: 4.5 km | UTC: 2026-10-15 11:07:01.800000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-15T11:35:35.519784+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 20% -> 30%",
@@ -136,7 +131,7 @@
       "latitude": 20.0,
       "longitude": -108.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T11:35:33.580000+00:00"
+      "last_seen": "2026-10-16T11:40:35.808125+00:00"
     },
     {
       "system_id": "EP212026",
@@ -149,7 +144,7 @@
       "latitude": 14.5,
       "longitude": -102.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T11:35:33.585251+00:00"
+      "last_seen": "2026-10-16T11:40:35.815132+00:00"
     }
   ]
 }
