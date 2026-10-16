@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-16T23:35:34.398445+00:00",
+  "generated_utc": "2026-10-16T23:40:33.597110+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Marapi | 2026-10-15T23:30:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-10-15T23:35:37.091908+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Kerinci | 2026-10-16T00:13:00+00:00 | activity_increase | Source: PVMBG",
@@ -131,7 +126,7 @@
       "latitude": 21.5,
       "longitude": -110.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T23:35:34.390888+00:00"
+      "last_seen": "2026-10-16T23:40:33.583233+00:00"
     },
     {
       "system_id": "EP212026",
@@ -144,7 +139,7 @@
       "latitude": 14.8,
       "longitude": -102.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T23:35:34.394843+00:00"
+      "last_seen": "2026-10-16T23:40:33.589196+00:00"
     }
   ]
 }
