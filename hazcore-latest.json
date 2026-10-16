@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-16T23:10:35.561666+00:00",
+  "generated_utc": "2026-10-16T23:15:36.546170+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 40% -> 50%",
-      "detected_utc": "2026-10-15T23:15:35.814595+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Marapi | 2026-10-15T23:30:00+00:00 | activity_increase | Source: PVMBG",
@@ -131,7 +126,7 @@
       "latitude": 21.5,
       "longitude": -110.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T23:10:35.546218+00:00"
+      "last_seen": "2026-10-16T23:15:36.485918+00:00"
     },
     {
       "system_id": "EP212026",
@@ -144,7 +139,7 @@
       "latitude": 14.8,
       "longitude": -102.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T23:10:35.554393+00:00"
+      "last_seen": "2026-10-16T23:15:36.520293+00:00"
     }
   ]
 }
