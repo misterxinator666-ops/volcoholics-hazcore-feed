@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-16T08:40:34.962251+00:00",
+  "generated_utc": "2026-10-16T08:45:36.470216+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 300 miles SSW of Acapulco Mexico | Winds: 75 mph | Category: 1 | Pressure: 989 mb | Movement: NW at 9 mph | Change: winds 60 to 75 mph | Source: NOAA NHC",
-      "detected_utc": "2026-10-15T08:40:37.340223+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE REVIEW] M5.6 | 43 km NNW of Lake Minchumina, Alaska | Depth: 4.5 km | UTC: 2026-10-15 11:07:01.800000+00:00 | Source: USGS",
@@ -91,6 +86,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 260 miles SW of Acapulco Mexico | Winds: 120 mph | Category: 3 | Pressure: 957 mb | Movement: NW at 6 mph | Change: Category 2 to Category 3 | Source: NOAA NHC",
       "detected_utc": "2026-10-16T05:50:35.525913+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Rinjani | 2026-10-16T07:42:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-10-16T08:45:36.469271+00:00"
     }
   ],
   "active_cyclones": [
@@ -131,7 +131,7 @@
       "latitude": 20.0,
       "longitude": -108.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T08:40:34.954050+00:00"
+      "last_seen": "2026-10-16T08:45:36.456389+00:00"
     },
     {
       "system_id": "EP212026",
@@ -144,7 +144,7 @@
       "latitude": 14.0,
       "longitude": -102.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T08:40:34.957972+00:00"
+      "last_seen": "2026-10-16T08:45:36.463621+00:00"
     }
   ]
 }
