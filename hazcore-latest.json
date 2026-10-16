@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-16T01:00:40.680625+00:00",
+  "generated_utc": "2026-10-16T01:05:34.415085+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -56,6 +56,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Kerinci | 2026-10-16T00:13:00+00:00 | activity_increase | Source: PVMBG",
       "detected_utc": "2026-10-16T00:20:37.965505+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO STATUS] JMA / Tokachidake | LEVEL 3 -> LEVEL 2 | Region: Japan | Issued: 2026-10-16T01:00:00+00:00 | Source: JMA",
+      "detected_utc": "2026-10-16T01:05:34.414338+00:00"
     }
   ],
   "active_cyclones": [
@@ -96,7 +101,7 @@
       "latitude": 19.3,
       "longitude": -108.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T01:00:40.659422+00:00"
+      "last_seen": "2026-10-16T01:05:34.405798+00:00"
     },
     {
       "system_id": "EP212026",
@@ -109,7 +114,7 @@
       "latitude": 14.0,
       "longitude": -101.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T01:00:40.664631+00:00"
+      "last_seen": "2026-10-16T01:05:34.408786+00:00"
     }
   ]
 }
