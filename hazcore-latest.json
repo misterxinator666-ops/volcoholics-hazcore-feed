@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-16T17:35:33.628613+00:00",
+  "generated_utc": "2026-10-16T17:40:36.057619+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
-      "detected_utc": "2026-10-15T17:35:35.561988+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Simon | Region: Eastern Pacific | Location: 270 miles SSE of Cabo San Lucas Mexico | Winds: 50 mph | Pressure: 999 mb | Movement: NW at 1 mph | Change: winds 65 to 50 mph | Source: NOAA NHC",
@@ -126,7 +121,7 @@
       "latitude": 20.6,
       "longitude": -109.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T17:35:33.602432+00:00"
+      "last_seen": "2026-10-16T17:40:36.046802+00:00"
     },
     {
       "system_id": "EP212026",
@@ -139,7 +134,7 @@
       "latitude": 14.6,
       "longitude": -102.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T17:35:33.621368+00:00"
+      "last_seen": "2026-10-16T17:40:36.053067+00:00"
     }
   ]
 }
