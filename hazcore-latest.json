@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-16T15:50:37.242941+00:00",
+  "generated_utc": "2026-10-16T15:55:33.364555+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -81,6 +81,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Iya | 2026-10-16T08:09:00+00:00 | activity_increase | Source: PVMBG",
       "detected_utc": "2026-10-16T09:15:34.372385+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Bromo | 2026-10-16T15:49:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-10-16T15:55:33.363672+00:00"
     }
   ],
   "active_cyclones": [
@@ -121,7 +126,7 @@
       "latitude": 20.6,
       "longitude": -109.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T15:50:37.224320+00:00"
+      "last_seen": "2026-10-16T15:55:33.357245+00:00"
     },
     {
       "system_id": "EP212026",
@@ -134,7 +139,7 @@
       "latitude": 14.6,
       "longitude": -102.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T15:50:37.236706+00:00"
+      "last_seen": "2026-10-16T15:55:33.360724+00:00"
     }
   ]
 }
