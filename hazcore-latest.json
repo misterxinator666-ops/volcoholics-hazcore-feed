@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-16T18:30:38.155733+00:00",
+  "generated_utc": "2026-10-16T18:35:36.153571+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -86,6 +86,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 230 miles SW of Acapulco Mexico | Winds: 110 mph | Category: 2 | Pressure: 963 mb | Movement: NNW at 5 mph | Change: Category 3 to Category 2 | Source: NOAA NHC",
       "detected_utc": "2026-10-16T17:50:35.975639+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 225 miles SW of Acapulco Mexico | Winds: 85 mph | Category: 1 | Pressure: 982 mb | Movement: NNW at 4 mph | Change: Category 2 to Category 1 | Source: NOAA NHC",
+      "detected_utc": "2026-10-16T18:35:36.152764+00:00"
     }
   ],
   "active_cyclones": [
@@ -126,20 +131,20 @@
       "latitude": 20.6,
       "longitude": -109.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T18:30:38.147327+00:00"
+      "last_seen": "2026-10-16T18:35:35.755421+00:00"
     },
     {
       "system_id": "EP212026",
       "name": "Trudy",
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
-      "category": 2,
-      "wind_mph": 110.0,
-      "pressure_mb": 963.0,
-      "latitude": 14.7,
-      "longitude": -102.5,
-      "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T18:30:38.152002+00:00"
+      "category": 1,
+      "wind_mph": 85.0,
+      "pressure_mb": 982.0,
+      "latitude": 14.6,
+      "longitude": -102.4,
+      "source_url": "https://www.nhc.noaa.gov/text/MIATCUEP1.shtml",
+      "last_seen": "2026-10-16T18:35:35.763241+00:00"
     }
   ]
 }
