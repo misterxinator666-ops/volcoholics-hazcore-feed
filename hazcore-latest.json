@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-16T01:15:38.325278+00:00",
+  "generated_utc": "2026-10-16T01:20:39.501735+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -61,6 +61,11 @@
       "type": "volcano",
       "message": "[VOLCANO STATUS] JMA / Tokachidake | LEVEL 3 -> LEVEL 2 | Region: Japan | Issued: 2026-10-16T01:00:00+00:00 | Source: JMA",
       "detected_utc": "2026-10-16T01:05:34.414338+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Raung | 2026-10-16T01:13:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-10-16T01:20:39.500772+00:00"
     }
   ],
   "active_cyclones": [
@@ -101,7 +106,7 @@
       "latitude": 19.3,
       "longitude": -108.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-16T01:15:38.313915+00:00"
+      "last_seen": "2026-10-16T01:20:39.459576+00:00"
     },
     {
       "system_id": "EP212026",
@@ -114,7 +119,7 @@
       "latitude": 14.0,
       "longitude": -101.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-16T01:15:38.320110+00:00"
+      "last_seen": "2026-10-16T01:20:39.497534+00:00"
     }
   ]
 }
