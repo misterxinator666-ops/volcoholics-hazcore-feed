@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-17T02:50:35.526826+00:00",
+  "generated_utc": "2026-10-17T02:55:34.372689+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 230 miles SW of Acapulco Mexico | Winds: 105 mph | Category: 2 | Pressure: 971 mb | Movement: NNW at 7 mph | Change: Category 1 to Category 2 | Source: NOAA NHC",
-      "detected_utc": "2026-10-16T02:50:36.273647+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.9 | 76 km NE of Ozernovskiy, Russia | Depth: 143.176 km | UTC: 2026-10-16 03:35:32.661000+00:00 | Source: USGS",
@@ -106,7 +101,7 @@
       "latitude": 21.5,
       "longitude": -110.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-17T02:50:35.517429+00:00"
+      "last_seen": "2026-10-17T02:55:34.360129+00:00"
     },
     {
       "system_id": "EP212026",
@@ -119,7 +114,7 @@
       "latitude": 15.2,
       "longitude": -102.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-17T02:50:35.523433+00:00"
+      "last_seen": "2026-10-17T02:55:34.368402+00:00"
     }
   ]
 }
