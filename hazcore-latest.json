@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-17T23:30:43.879097+00:00",
+  "generated_utc": "2026-10-17T23:35:39.313608+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 60% -> 70%",
-      "detected_utc": "2026-10-16T23:35:34.397645+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M5.7 | 48 km WNW of Khuzdar, Pakistan | Depth: 10 km | UTC: 2026-10-17 05:06:57.657000+00:00 | Source: USGS",
@@ -94,7 +89,7 @@
       "latitude": 17.5,
       "longitude": -105.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-17T23:30:43.868355+00:00"
+      "last_seen": "2026-10-17T23:35:39.309306+00:00"
     }
   ]
 }
