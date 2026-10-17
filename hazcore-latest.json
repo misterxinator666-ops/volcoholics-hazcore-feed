@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-17T20:30:42.828523+00:00",
+  "generated_utc": "2026-10-17T20:35:42.049224+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Remnants of Simon | Region: Eastern Pacific | Location: 100 miles SSW of Cabo San Lucas Mexico | Winds: 35 mph | Pressure: 1006 mb | Movement: NW at 13 mph | Change: winds 50 to 35 mph | Source: NOAA NHC",
-      "detected_utc": "2026-10-16T20:35:34.982589+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 60% -> 70%",
@@ -84,7 +79,7 @@
       "latitude": 17.0,
       "longitude": -104.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-17T20:30:42.821018+00:00"
+      "last_seen": "2026-10-17T20:35:42.043478+00:00"
     }
   ]
 }
