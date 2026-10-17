@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-17T01:20:35.797313+00:00",
+  "generated_utc": "2026-10-17T01:30:37.655934+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Raung | 2026-10-16T01:13:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-10-16T01:20:39.500772+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Lokon | 2026-10-16T01:05:00+00:00 | activity_increase | Source: PVMBG",
@@ -116,7 +111,7 @@
       "latitude": 21.5,
       "longitude": -110.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-17T01:20:35.784711+00:00"
+      "last_seen": "2026-10-17T01:30:37.640656+00:00"
     },
     {
       "system_id": "EP212026",
@@ -129,7 +124,7 @@
       "latitude": 15.0,
       "longitude": -102.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-17T01:20:35.791416+00:00"
+      "last_seen": "2026-10-17T01:30:37.650931+00:00"
     }
   ]
 }
