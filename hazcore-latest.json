@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-17T09:10:36.564212+00:00",
+  "generated_utc": "2026-10-17T09:15:36.083688+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Iya | 2026-10-16T08:09:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-10-16T09:15:34.372385+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Bromo | 2026-10-16T15:49:00+00:00 | activity_increase | Source: PVMBG",
@@ -89,7 +84,7 @@
       "latitude": 16.0,
       "longitude": -103.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-17T09:10:36.560008+00:00"
+      "last_seen": "2026-10-17T09:15:36.070947+00:00"
     }
   ]
 }
