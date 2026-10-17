@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-17T02:10:35.094763+00:00",
+  "generated_utc": "2026-10-17T02:15:36.085421+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Lokon | 2026-10-16T01:05:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-10-16T02:10:36.917052+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 230 miles SW of Acapulco Mexico | Winds: 105 mph | Category: 2 | Pressure: 971 mb | Movement: NNW at 7 mph | Change: Category 1 to Category 2 | Source: NOAA NHC",
@@ -111,7 +106,7 @@
       "latitude": 21.5,
       "longitude": -110.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
-      "last_seen": "2026-10-17T02:10:35.084489+00:00"
+      "last_seen": "2026-10-17T02:15:36.066160+00:00"
     },
     {
       "system_id": "EP212026",
@@ -124,7 +119,7 @@
       "latitude": 15.0,
       "longitude": -102.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-17T02:10:35.089686+00:00"
+      "last_seen": "2026-10-17T02:15:36.075373+00:00"
     }
   ]
 }
