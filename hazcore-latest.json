@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-17T19:55:38.910911+00:00",
+  "generated_utc": "2026-10-17T20:00:50.705559+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -21,6 +21,16 @@
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-10-17 | ORANGE / WATCH | Source: USGS-HVO",
       "detected_utc": "2026-10-17T13:45:42.012907+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO STATUS] USGS / Kilauea | ORANGE / WATCH -> YELLOW / ADVISORY | Region: Hawaii | Issued: 2026-10-17 | Source: USGS",
+      "detected_utc": "2026-10-17T20:00:50.704899+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-10-17 | YELLOW / ADVISORY | Source: USGS-HVO",
+      "detected_utc": "2026-10-17T20:00:50.704899+00:00"
     }
   ],
   "active_cyclones": [
@@ -74,7 +84,7 @@
       "latitude": 17.0,
       "longitude": -104.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-17T19:55:38.907416+00:00"
+      "last_seen": "2026-10-17T20:00:50.701166+00:00"
     }
   ]
 }
