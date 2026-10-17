@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-17T05:25:35.927768+00:00",
+  "generated_utc": "2026-10-17T05:30:40.739934+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Merapi | 2026-10-16T05:26:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-10-16T05:30:40.142873+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 260 miles SW of Acapulco Mexico | Winds: 120 mph | Category: 3 | Pressure: 957 mb | Movement: NW at 6 mph | Change: Category 2 to Category 3 | Source: NOAA NHC",
@@ -99,7 +94,7 @@
       "latitude": 15.2,
       "longitude": -102.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-17T05:25:35.922555+00:00"
+      "last_seen": "2026-10-17T05:30:40.733859+00:00"
     }
   ]
 }
