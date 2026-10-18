@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-18T17:30:44.488030+00:00",
+  "generated_utc": "2026-10-18T17:35:38.354857+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -31,6 +31,11 @@
       "type": "volcano",
       "message": "[INGV-OE EVENT_NOTIFICATION] Stromboli | 2026-10-18T13:27:15 | 2026-10-18 13:27:15 PRIMO COMUNICATO DI NOTIFICA EVENTO STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
       "detected_utc": "2026-10-18T13:35:40.254813+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 80% -> 90%",
+      "detected_utc": "2026-10-18T17:35:38.354047+00:00"
     }
   ],
   "active_cyclones": [
@@ -84,7 +89,7 @@
       "latitude": 19.1,
       "longitude": -106.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-18T17:30:44.481051+00:00"
+      "last_seen": "2026-10-18T17:35:38.343110+00:00"
     }
   ]
 }
