@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-10-18T20:00:47.625212+00:00",
+  "generated_utc": "2026-10-18T20:05:38.885530+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO STATUS] USGS / Kilauea | ORANGE / WATCH -> YELLOW / ADVISORY | Region: Hawaii | Issued: 2026-10-17 | Source: USGS",
-      "detected_utc": "2026-10-17T20:00:50.704899+00:00"
-    },
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-10-17 | YELLOW / ADVISORY | Source: USGS-HVO",
-      "detected_utc": "2026-10-17T20:00:50.704899+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 115 miles SSW of Manzanillo Mexico | Winds: 100 mph | Category: 2 | Pressure: 976 mb | Movement: NW at 10 mph | Change: Category 1 to Category 2 | Source: NOAA NHC",
@@ -89,7 +79,7 @@
       "latitude": 19.3,
       "longitude": -106.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-18T20:00:47.600570+00:00"
+      "last_seen": "2026-10-18T20:05:38.871074+00:00"
     }
   ]
 }
