@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-18T20:40:41.187906+00:00",
+  "generated_utc": "2026-10-18T20:45:40.441273+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -81,10 +81,10 @@
       "category": 2,
       "wind_mph": 100.0,
       "pressure_mb": 974.0,
-      "latitude": 19.3,
-      "longitude": -106.8,
+      "latitude": 19.5,
+      "longitude": -107.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-18T20:40:41.184410+00:00"
+      "last_seen": "2026-10-18T20:45:40.435676+00:00"
     }
   ]
 }
