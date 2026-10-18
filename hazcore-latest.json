@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-18T20:50:41.428404+00:00",
+  "generated_utc": "2026-10-18T20:55:41.099591+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Trudy | Region: Eastern Pacific | Location: 115 miles SSW of Manzanillo Mexico | Winds: 100 mph | Category: 2 | Pressure: 976 mb | Movement: NW at 10 mph | Change: Category 1 to Category 2 | Source: NOAA NHC",
-      "detected_utc": "2026-10-17T20:55:40.332111+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 70% -> 80%",
@@ -84,7 +79,7 @@
       "latitude": 19.5,
       "longitude": -107.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-18T20:50:41.409724+00:00"
+      "last_seen": "2026-10-18T20:55:41.095100+00:00"
     }
   ]
 }
