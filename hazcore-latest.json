@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-18T23:30:43.521458+00:00",
+  "generated_utc": "2026-10-18T23:35:38.885040+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "volcano",
       "message": "[VOLCANO STATUS] USGS / Kilauea | ORANGE / WATCH -> YELLOW / ADVISORY | Region: Hawaii | Issued: 2026-10-18 | Source: USGS",
       "detected_utc": "2026-10-18T21:25:39.992412+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 20% | 7d 90% -> 90%",
+      "detected_utc": "2026-10-18T23:35:38.883894+00:00"
     }
   ],
   "active_cyclones": [
@@ -79,7 +84,7 @@
       "latitude": 19.5,
       "longitude": -107.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-18T23:30:43.514660+00:00"
+      "last_seen": "2026-10-18T23:35:38.870442+00:00"
     }
   ]
 }
