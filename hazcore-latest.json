@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-19T08:55:38.411766+00:00",
+  "generated_utc": "2026-10-19T09:00:45.705257+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -51,6 +51,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Trudy | Region: Eastern Pacific | Location: 155 miles WSW of Cabo Corrientes Mexico | Winds: 60 mph | Pressure: 999 mb | Movement: W at 6 mph | Change: winds 80 to 60 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-19T08:35:40.768702+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6 | 186 km NW of Port-Olry, Vanuatu | Depth: 10 km | UTC: 2026-10-19 07:49:04.900000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-19T09:00:45.704294+00:00"
     }
   ],
   "active_cyclones": [
@@ -104,7 +109,7 @@
       "latitude": 19.7,
       "longitude": -108.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-19T08:55:38.407195+00:00"
+      "last_seen": "2026-10-19T09:00:45.606448+00:00"
     }
   ]
 }
