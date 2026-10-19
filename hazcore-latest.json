@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-19T17:30:45.212597+00:00",
+  "generated_utc": "2026-10-19T17:35:41.119465+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 0% -> 0% | 7d 80% -> 90%",
-      "detected_utc": "2026-10-18T17:35:38.354047+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-10-18 | YELLOW / ADVISORY | Source: USGS-HVO",
@@ -109,7 +104,7 @@
       "latitude": 19.5,
       "longitude": -108.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-19T17:30:45.197910+00:00"
+      "last_seen": "2026-10-19T17:35:41.112890+00:00"
     }
   ]
 }
