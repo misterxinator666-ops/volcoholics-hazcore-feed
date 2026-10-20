@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-20T17:50:41.390239+00:00",
+  "generated_utc": "2026-10-20T17:55:41.125399+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL DISTURBANCE] South of Southern Mexico (EP94) | Eastern Pacific | 48h 60% | 7d 90%",
-      "detected_utc": "2026-10-19T17:55:40.134164+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-10-19 | YELLOW / ADVISORY | Source: USGS-HVO",
