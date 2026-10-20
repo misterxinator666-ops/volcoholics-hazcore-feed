@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-20T11:50:42.878439+00:00",
+  "generated_utc": "2026-10-20T11:55:39.668542+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -56,6 +56,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M5 | 81 km S of Sand Point, Alaska | Depth: 35 km | UTC: 2026-10-20 10:40:40.968000+00:00 | Source: USGS",
       "detected_utc": "2026-10-20T11:00:49.273465+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Off the East Coast of the United States (AL93) | Atlantic | 48h 30% -> 40% | 7d 40% -> 40%",
+      "detected_utc": "2026-10-20T11:55:39.667410+00:00"
     }
   ],
   "active_cyclones": [
