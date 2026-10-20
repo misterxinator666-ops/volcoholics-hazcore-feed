@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-20T11:45:41.289527+00:00",
+  "generated_utc": "2026-10-20T11:50:42.878439+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] South of Southern Mexico | Eastern Pacific | 48h 40% -> 50% | 7d 90% -> 90%",
-      "detected_utc": "2026-10-19T11:50:42.193277+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL DISTURBANCE] South of Southern Mexico (EP94) | Eastern Pacific | 48h 60% | 7d 90%",
