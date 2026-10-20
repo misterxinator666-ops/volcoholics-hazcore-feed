@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-20T02:30:46.746418+00:00",
+  "generated_utc": "2026-10-20T02:35:42.639748+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -46,6 +46,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Southern Mexico (EP94) | Eastern Pacific | 48h 60% -> 80% | 7d 90% -> 90%",
       "detected_utc": "2026-10-19T23:30:45.805866+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Trudy | Region: Eastern Pacific | Location: 160 miles WSW of Cabo Corrientes Mexico | Winds: 35 mph | Pressure: 1005 mb | Movement: N at 2 mph | Classification: Tropical Storm to Post-Tropical Cyclone | Source: NOAA NHC",
+      "detected_utc": "2026-10-20T02:35:42.639134+00:00"
     }
   ],
   "active_cyclones": [
@@ -92,14 +97,14 @@
       "system_id": "EP212026",
       "name": "Trudy",
       "basin": "Eastern Pacific",
-      "classification": "Tropical Storm",
+      "classification": "Post-Tropical Cyclone",
       "category": null,
-      "wind_mph": 40.0,
-      "pressure_mb": 1004.0,
-      "latitude": 19.3,
-      "longitude": -107.9,
+      "wind_mph": 35.0,
+      "pressure_mb": 1005.0,
+      "latitude": 19.5,
+      "longitude": -108.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
-      "last_seen": "2026-10-20T02:30:46.741398+00:00"
+      "last_seen": "2026-10-20T02:35:42.613603+00:00"
     }
   ]
 }
