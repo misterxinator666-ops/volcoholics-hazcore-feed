@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-20T19:50:43.761792+00:00",
+  "generated_utc": "2026-10-20T19:55:42.744389+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-10-19 | YELLOW / ADVISORY | Source: USGS-HVO",
-      "detected_utc": "2026-10-19T19:50:47.530940+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Trudy | Region: Eastern Pacific | Location: 160 miles WSW of Cabo Corrientes Mexico | Winds: 40 mph | Pressure: 1004 mb | Movement: at mph | Change: winds 60 to 40 mph | Source: NOAA NHC",
