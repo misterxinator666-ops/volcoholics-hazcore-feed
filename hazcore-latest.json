@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-21T20:10:54.003294+00:00",
+  "generated_utc": "2026-10-21T20:15:53.510350+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-10-20 | YELLOW / ADVISORY | Source: USGS-HVO",
-      "detected_utc": "2026-10-20T20:15:42.115109+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Offshore of the East Coast of the United States (AL93) | Atlantic | 48h 40% -> 40% | 7d 40% -> 40%",
@@ -107,7 +102,7 @@
       "latitude": 9.5,
       "longitude": -99.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-21T20:10:53.994609+00:00"
+      "last_seen": "2026-10-21T20:15:53.502561+00:00"
     }
   ]
 }
