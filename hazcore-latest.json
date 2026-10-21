@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-21T05:00:49.250248+00:00",
+  "generated_utc": "2026-10-21T05:05:42.971584+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Off the East Coast of the United States (AL93) | Atlantic | 48h 20% -> 30% | 7d 40% -> 40%",
-      "detected_utc": "2026-10-20T05:05:41.683114+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Southern Mexico (EP94) | Eastern Pacific | 48h 80% -> 90% | 7d 90% -> 90%",
