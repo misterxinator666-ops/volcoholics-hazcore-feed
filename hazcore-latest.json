@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-21T15:55:40.786575+00:00",
+  "generated_utc": "2026-10-21T16:00:48.372629+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-10-20T15:52:54 | 2026-10-20 15:52:54 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-10-20T15:55:48.640467+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Offshore the East Coast of the United States (AL93) | Atlantic | 48h 40% -> 40% | 7d 40% -> 40%",
@@ -97,7 +92,7 @@
       "latitude": 9.5,
       "longitude": -99.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-21T15:55:40.765797+00:00"
+      "last_seen": "2026-10-21T16:00:48.358835+00:00"
     }
   ]
 }
