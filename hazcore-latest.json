@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-21T17:25:44.527971+00:00",
+  "generated_utc": "2026-10-21T17:30:44.678525+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] Western Central Pacific | Eastern / Central Pacific | 48h 0% -> 0% | 7d 20% -> 30%",
       "detected_utc": "2026-10-21T17:10:44.122890+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Offshore of the East Coast of the United States (AL93) | Atlantic | 48h 40% -> 50% | 7d 40% -> 50%",
+      "detected_utc": "2026-10-21T17:30:44.677817+00:00"
     }
   ],
   "active_cyclones": [
@@ -92,7 +97,7 @@
       "latitude": 9.5,
       "longitude": -99.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-21T17:25:44.523160+00:00"
+      "last_seen": "2026-10-21T17:30:44.669542+00:00"
     }
   ]
 }
