@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-21T23:50:51.761748+00:00",
+  "generated_utc": "2026-10-21T23:55:52.009818+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Offshore of the East Coast of the United States (AL93) | Atlantic | 48h 40% -> 40% | 7d 40% -> 40%",
-      "detected_utc": "2026-10-20T23:55:43.940724+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] South of Southern Mexico (EP94) | Eastern Pacific | 48h 90% -> 100% | 7d 90% -> 100%",
@@ -73,7 +68,7 @@
       "latitude": 37.4,
       "longitude": -69.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT5.shtml",
-      "last_seen": "2026-10-21T23:50:51.740471+00:00"
+      "last_seen": "2026-10-21T23:55:51.966752+00:00"
     },
     {
       "system_id": "EP182026",
@@ -125,7 +120,7 @@
       "latitude": 9.4,
       "longitude": -99.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-21T23:50:51.746971+00:00"
+      "last_seen": "2026-10-21T23:55:51.977854+00:00"
     }
   ]
 }
