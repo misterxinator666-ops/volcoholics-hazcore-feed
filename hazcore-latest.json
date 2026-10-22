@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-22T20:50:42.448593+00:00",
+  "generated_utc": "2026-10-22T20:55:41.024346+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE] Subtropical Storm Josephine | Region: Atlantic | Location: 265 miles S of Nantucket Massachusetts | Winds: 65 mph | Pressure: 990 mb | Movement: N at 6 mph | Source: NOAA NHC",
-      "detected_utc": "2026-10-21T20:50:54.348968+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Vance | Region: Eastern Pacific | Location: 505 miles S of Acapulco Mexico | Winds: 60 mph | Pressure: 997 mb | Movement: NW at 3 mph | Change: winds 40 to 60 mph | Source: NOAA NHC",
@@ -63,7 +58,7 @@
       "latitude": 40.0,
       "longitude": -65.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT5.shtml",
-      "last_seen": "2026-10-22T20:50:42.435704+00:00"
+      "last_seen": "2026-10-22T20:55:41.006824+00:00"
     },
     {
       "system_id": "EP182026",
@@ -115,7 +110,7 @@
       "latitude": 10.0,
       "longitude": -101.5,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-22T20:50:42.443161+00:00"
+      "last_seen": "2026-10-22T20:55:41.018148+00:00"
     }
   ]
 }
