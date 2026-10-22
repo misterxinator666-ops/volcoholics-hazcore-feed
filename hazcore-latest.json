@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-22T14:50:46.555644+00:00",
+  "generated_utc": "2026-10-22T14:55:40.834754+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -36,6 +36,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Vance | Region: Eastern Pacific | Location: 505 miles S of Acapulco Mexico | Winds: 60 mph | Pressure: 997 mb | Movement: NW at 3 mph | Change: winds 40 to 60 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-22T14:50:46.554839+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M7 | 183 km ENE of Nagqu, China | Depth: 10 km | UTC: 2026-10-22 14:33:39.014000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-22T14:55:40.833965+00:00"
     }
   ],
   "active_cyclones": [
@@ -63,7 +68,7 @@
       "latitude": 39.2,
       "longitude": -67.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT5.shtml",
-      "last_seen": "2026-10-22T14:50:46.298000+00:00"
+      "last_seen": "2026-10-22T14:55:40.811349+00:00"
     },
     {
       "system_id": "EP182026",
@@ -115,7 +120,7 @@
       "latitude": 9.7,
       "longitude": -101.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-22T14:50:46.338691+00:00"
+      "last_seen": "2026-10-22T14:55:40.825013+00:00"
     }
   ]
 }
