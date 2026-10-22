@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-22T19:40:42.777177+00:00",
+  "generated_utc": "2026-10-22T19:45:46.739210+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Offshore of the East Coast of the United States (AL93) | Atlantic | 48h 50% -> 70% | 7d 50% -> 70%",
-      "detected_utc": "2026-10-21T19:40:50.409908+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Vance | Region: Eastern Pacific | Location: 520 miles S of Acapulco Mexico | Winds: 40 mph | Pressure: 1003 mb | Movement: W at 7 mph | Classification: Tropical Depression to Tropical Storm | Source: NOAA NHC",
@@ -63,7 +58,7 @@
       "latitude": 39.2,
       "longitude": -67.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT5.shtml",
-      "last_seen": "2026-10-22T19:40:42.767243+00:00"
+      "last_seen": "2026-10-22T19:45:46.703941+00:00"
     },
     {
       "system_id": "EP182026",
@@ -115,7 +110,7 @@
       "latitude": 9.7,
       "longitude": -101.0,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-22T19:40:42.772203+00:00"
+      "last_seen": "2026-10-22T19:45:46.725303+00:00"
     }
   ]
 }
