@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-22T02:50:51.000938+00:00",
+  "generated_utc": "2026-10-22T02:55:48.359856+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -64,11 +64,11 @@
       "classification": "Subtropical Storm",
       "category": null,
       "wind_mph": 65.0,
-      "pressure_mb": 990.0,
-      "latitude": 37.4,
-      "longitude": -69.5,
+      "pressure_mb": 988.0,
+      "latitude": 37.7,
+      "longitude": -69.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT5.shtml",
-      "last_seen": "2026-10-22T02:50:50.984602+00:00"
+      "last_seen": "2026-10-22T02:55:48.345205+00:00"
     },
     {
       "system_id": "EP182026",
@@ -120,7 +120,7 @@
       "latitude": 9.4,
       "longitude": -99.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-22T02:50:50.990175+00:00"
+      "last_seen": "2026-10-22T02:55:48.349111+00:00"
     }
   ]
 }
