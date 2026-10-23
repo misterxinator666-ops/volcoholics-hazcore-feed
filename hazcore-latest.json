@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-23T14:55:37.972918+00:00",
+  "generated_utc": "2026-10-23T15:00:50.850455+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE PRIORITY] M7 | 183 km ENE of Nagqu, China | Depth: 10 km | UTC: 2026-10-22 14:33:39.014000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-22T14:55:40.833965+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M7 | 183 km ENE of Nagqu, China | Depth: 10 km | UTC: 2026-10-22 14:33:39.014000+00:00 | Source: USGS",
@@ -120,7 +115,7 @@
       "latitude": 10.7,
       "longitude": -102.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-23T14:55:37.902444+00:00"
+      "last_seen": "2026-10-23T15:00:50.825648+00:00"
     }
   ]
 }
