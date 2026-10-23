@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-23T05:35:40.451100+00:00",
+  "generated_utc": "2026-10-23T05:40:42.467787+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -36,6 +36,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] Western Central Pacific | Eastern / Central Pacific | 48h 0% -> 0% | 7d 30% -> 20%",
       "detected_utc": "2026-10-23T05:20:41.512389+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Subtropical Central Atlantic | Atlantic | 48h 10% -> 0% | 7d 10% -> 0%",
+      "detected_utc": "2026-10-23T05:40:42.466907+00:00"
     }
   ],
   "active_cyclones": [
@@ -115,7 +120,7 @@
       "latitude": 10.5,
       "longitude": -101.9,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-23T05:35:40.434247+00:00"
+      "last_seen": "2026-10-23T05:40:42.462384+00:00"
     }
   ]
 }
