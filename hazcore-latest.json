@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-23T20:00:50.172103+00:00",
+  "generated_utc": "2026-10-23T20:05:42.956928+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-10-22 | YELLOW / ADVISORY | Source: USGS-HVO",
-      "detected_utc": "2026-10-22T20:00:56.078947+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Josephine | Region: Atlantic | Location: 235 miles ESE of Nantucket Massachusetts | Winds: 65 mph | Pressure: 988 mb | Movement: NE at 17 mph | Classification: Subtropical Storm to Post-Tropical Cyclone | Source: NOAA NHC",
@@ -110,7 +105,7 @@
       "latitude": 10.7,
       "longitude": -102.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-23T20:00:50.164920+00:00"
+      "last_seen": "2026-10-23T20:05:42.952213+00:00"
     }
   ]
 }
