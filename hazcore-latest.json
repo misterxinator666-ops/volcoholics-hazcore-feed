@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-24T02:45:40.018743+00:00",
+  "generated_utc": "2026-10-24T02:50:42.410444+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -31,6 +31,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M7.2 | 200 km W of Sola, Vanuatu | Depth: 10 km | UTC: 2026-10-24 02:31:53+00:00 | Source: USGS",
       "detected_utc": "2026-10-24T02:45:40.017890+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6.9 | 197 km WNW of Port-Olry, Vanuatu | Depth: 10 km | UTC: 2026-10-24 02:31:28.641000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-24T02:50:42.409548+00:00"
     }
   ],
   "active_cyclones": [
@@ -105,12 +110,12 @@
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
       "category": 2,
-      "wind_mph": 105.0,
-      "pressure_mb": 971.0,
-      "latitude": 11.2,
-      "longitude": -102.3,
+      "wind_mph": 110.0,
+      "pressure_mb": 965.0,
+      "latitude": 12.0,
+      "longitude": -102.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-24T02:45:40.009248+00:00"
+      "last_seen": "2026-10-24T02:50:42.401182+00:00"
     }
   ]
 }
