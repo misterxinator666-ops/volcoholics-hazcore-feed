@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-24T02:40:39.697712+00:00",
+  "generated_utc": "2026-10-24T02:45:40.018743+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Vance | Region: Eastern Pacific | Location: 425 miles SSW of Acapulco Mexico | Winds: 105 mph | Category: 2 | Pressure: 971 mb | Movement: NW at 5 mph | Change: Category 1 to Category 2 | Source: NOAA NHC",
       "detected_utc": "2026-10-23T20:40:40.748598+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M7.2 | 200 km W of Sola, Vanuatu | Depth: 10 km | UTC: 2026-10-24 02:31:53+00:00 | Source: USGS",
+      "detected_utc": "2026-10-24T02:45:40.017890+00:00"
     }
   ],
   "active_cyclones": [
@@ -105,7 +110,7 @@
       "latitude": 11.2,
       "longitude": -102.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-24T02:40:39.692275+00:00"
+      "last_seen": "2026-10-24T02:45:40.009248+00:00"
     }
   ]
 }
