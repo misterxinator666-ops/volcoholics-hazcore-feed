@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-25T16:00:44.908534+00:00",
+  "generated_utc": "2026-10-25T16:05:36.554006+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -101,7 +101,7 @@
       "latitude": 14.6,
       "longitude": -179.3,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
-      "last_seen": "2026-10-25T16:00:44.889678+00:00"
+      "last_seen": "2026-10-25T16:05:36.545749+00:00"
     },
     {
       "system_id": "EP182026",
@@ -153,7 +153,7 @@
       "latitude": 14.3,
       "longitude": -103.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-25T16:00:44.900158+00:00"
+      "last_seen": "2026-10-25T16:05:36.549782+00:00"
     }
   ]
 }
