@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-25T20:30:39.317504+00:00",
+  "generated_utc": "2026-10-25T20:35:37.711452+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -56,6 +56,16 @@
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-10-25 | YELLOW / ADVISORY | Source: USGS-HVO",
       "detected_utc": "2026-10-25T18:40:35.545241+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Olana | Region: Central Pacific | Location: 580 miles WSW of Johnston Island | Winds: 40 mph | Pressure: 1002 mb | Movement: ENE at 8 mph | Classification: Tropical Depression to Tropical Storm | Source: NOAA NHC",
+      "detected_utc": "2026-10-25T20:35:37.710728+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Vance | Region: Eastern Pacific | Location: 315 miles WSW of Acapulco Mexico | Winds: 70 mph | Pressure: 994 mb | Movement: NNW at 7 mph | Classification: Hurricane to Tropical Storm | Source: NOAA NHC",
+      "detected_utc": "2026-10-25T20:35:37.710728+00:00"
     }
   ],
   "active_cyclones": [
@@ -87,16 +97,16 @@
     },
     {
       "system_id": "CP032026",
-      "name": "Three-C",
+      "name": "Olana",
       "basin": "Central Pacific",
-      "classification": "Tropical Depression",
+      "classification": "Tropical Storm",
       "category": null,
-      "wind_mph": 35.0,
-      "pressure_mb": 1006.0,
-      "latitude": 14.6,
-      "longitude": -179.3,
+      "wind_mph": 40.0,
+      "pressure_mb": 1002.0,
+      "latitude": 14.8,
+      "longitude": -178.0,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
-      "last_seen": "2026-10-25T20:30:39.308997+00:00"
+      "last_seen": "2026-10-25T20:35:37.173997+00:00"
     },
     {
       "system_id": "EP182026",
@@ -141,14 +151,14 @@
       "system_id": "EP222026",
       "name": "Vance",
       "basin": "Eastern Pacific",
-      "classification": "Hurricane",
-      "category": 1,
-      "wind_mph": 75.0,
-      "pressure_mb": 989.0,
-      "latitude": 14.3,
-      "longitude": -103.8,
+      "classification": "Tropical Storm",
+      "category": null,
+      "wind_mph": 70.0,
+      "pressure_mb": 994.0,
+      "latitude": 14.9,
+      "longitude": -104.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-25T20:30:39.313390+00:00"
+      "last_seen": "2026-10-25T20:35:37.180957+00:00"
     }
   ]
 }
