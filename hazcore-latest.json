@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-25T18:35:37.497076+00:00",
+  "generated_utc": "2026-10-25T18:40:35.546184+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -56,6 +56,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Hurricane Vance | Region: Eastern Pacific | Location: 315 miles SW of Acapulco Mexico | Winds: 75 mph | Category: 1 | Pressure: 989 mb | Movement: NW at 5 mph | Change: winds 90 to 75 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-25T15:00:43.965880+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-10-25 | YELLOW / ADVISORY | Source: USGS-HVO",
+      "detected_utc": "2026-10-25T18:40:35.545241+00:00"
     }
   ],
   "active_cyclones": [
@@ -96,7 +101,7 @@
       "latitude": 14.6,
       "longitude": -179.3,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
-      "last_seen": "2026-10-25T18:35:37.485756+00:00"
+      "last_seen": "2026-10-25T18:40:35.536382+00:00"
     },
     {
       "system_id": "EP182026",
@@ -148,7 +153,7 @@
       "latitude": 14.3,
       "longitude": -103.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-25T18:35:37.490049+00:00"
+      "last_seen": "2026-10-25T18:40:35.541245+00:00"
     }
   ]
 }
