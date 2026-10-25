@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-25T14:55:37.901632+00:00",
+  "generated_utc": "2026-10-25T15:00:43.966775+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -56,6 +56,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE] Tropical Depression Three-C | Region: Central Pacific | Location: 665 miles W of Johnston Island | Winds: 35 mph | Pressure: 1006 mb | Movement: ENE at 7 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-25T14:55:37.900495+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Hurricane Vance | Region: Eastern Pacific | Location: 315 miles SW of Acapulco Mexico | Winds: 75 mph | Category: 1 | Pressure: 989 mb | Movement: NW at 5 mph | Change: winds 90 to 75 mph | Source: NOAA NHC",
+      "detected_utc": "2026-10-25T15:00:43.965880+00:00"
     }
   ],
   "active_cyclones": [
@@ -96,7 +101,7 @@
       "latitude": 14.6,
       "longitude": -179.3,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
-      "last_seen": "2026-10-25T14:55:37.480727+00:00"
+      "last_seen": "2026-10-25T15:00:43.772829+00:00"
     },
     {
       "system_id": "EP182026",
@@ -143,12 +148,12 @@
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
       "category": 1,
-      "wind_mph": 85.0,
-      "pressure_mb": 980.0,
+      "wind_mph": 75.0,
+      "pressure_mb": 989.0,
       "latitude": 14.3,
-      "longitude": -103.4,
+      "longitude": -103.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-25T14:55:37.485099+00:00"
+      "last_seen": "2026-10-25T15:00:43.785153+00:00"
     }
   ]
 }
