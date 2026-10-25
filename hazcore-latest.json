@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-25T03:05:37.071028+00:00",
+  "generated_utc": "2026-10-25T03:10:36.129832+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.3 | 170 km NW of Port-Olry, Vanuatu | Depth: 10 km | UTC: 2026-10-24 02:35:57.362000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-24T03:05:39.655693+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Western Central Pacific | Eastern / Central Pacific | 48h 0% -> 10% | 7d 20% -> 20%",
@@ -125,7 +120,7 @@
       "latitude": 13.7,
       "longitude": -103.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-25T03:05:37.040058+00:00"
+      "last_seen": "2026-10-25T03:10:36.125298+00:00"
     }
   ]
 }
