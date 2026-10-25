@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-25T08:35:36.001789+00:00",
+  "generated_utc": "2026-10-25T08:40:38.425637+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -115,12 +115,12 @@
       "basin": "Eastern Pacific",
       "classification": "Hurricane",
       "category": 1,
-      "wind_mph": 90.0,
-      "pressure_mb": 977.0,
-      "latitude": 13.7,
+      "wind_mph": 85.0,
+      "pressure_mb": 980.0,
+      "latitude": 14.3,
       "longitude": -103.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-25T08:35:35.990128+00:00"
+      "last_seen": "2026-10-25T08:40:38.421205+00:00"
     }
   ]
 }
