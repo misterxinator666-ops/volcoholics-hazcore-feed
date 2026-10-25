@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-25T14:50:41.589790+00:00",
+  "generated_utc": "2026-10-25T14:55:37.901632+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -51,6 +51,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M5.8 | 209 km ENE of Nagqu, China | Depth: 10 km | UTC: 2026-10-25 11:25:57.400000+00:00 | Source: USGS",
       "detected_utc": "2026-10-25T11:50:38.401411+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE] Tropical Depression Three-C | Region: Central Pacific | Location: 665 miles W of Johnston Island | Winds: 35 mph | Pressure: 1006 mb | Movement: ENE at 7 mph | Source: NOAA NHC",
+      "detected_utc": "2026-10-25T14:55:37.900495+00:00"
     }
   ],
   "active_cyclones": [
@@ -79,6 +84,19 @@
       "longitude": -65.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT5.shtml",
       "last_seen": "2026-10-23T04:45:41.261662+00:00"
+    },
+    {
+      "system_id": "CP032026",
+      "name": "Three-C",
+      "basin": "Central Pacific",
+      "classification": "Tropical Depression",
+      "category": null,
+      "wind_mph": 35.0,
+      "pressure_mb": 1006.0,
+      "latitude": 14.6,
+      "longitude": -179.3,
+      "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
+      "last_seen": "2026-10-25T14:55:37.480727+00:00"
     },
     {
       "system_id": "EP182026",
@@ -130,7 +148,7 @@
       "latitude": 14.3,
       "longitude": -103.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-25T14:50:41.582890+00:00"
+      "last_seen": "2026-10-25T14:55:37.485099+00:00"
     }
   ]
 }
