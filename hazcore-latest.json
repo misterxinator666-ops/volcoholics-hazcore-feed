@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-10-26T20:35:36.173678+00:00",
+  "generated_utc": "2026-10-26T20:40:36.652930+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Olana | Region: Central Pacific | Location: 580 miles WSW of Johnston Island | Winds: 40 mph | Pressure: 1002 mb | Movement: ENE at 8 mph | Classification: Tropical Depression to Tropical Storm | Source: NOAA NHC",
-      "detected_utc": "2026-10-25T20:35:37.710728+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Vance | Region: Eastern Pacific | Location: 315 miles WSW of Acapulco Mexico | Winds: 70 mph | Pressure: 994 mb | Movement: NNW at 7 mph | Classification: Hurricane to Tropical Storm | Source: NOAA NHC",
-      "detected_utc": "2026-10-25T20:35:37.710728+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Depression Olana | Region: Central Pacific | Location: 525 miles WSW of Johnston Island | Winds: 35 mph | Pressure: 1005 mb | Movement: SE at 5 mph | Classification: Tropical Storm to Tropical Depression | Source: NOAA NHC",
@@ -61,7 +51,7 @@
       "latitude": 13.6,
       "longitude": -176.6,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
-      "last_seen": "2026-10-26T20:35:36.149133+00:00"
+      "last_seen": "2026-10-26T20:40:36.641112+00:00"
     },
     {
       "system_id": "EP182026",
@@ -113,7 +103,7 @@
       "latitude": 15.4,
       "longitude": -106.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-26T20:35:36.156805+00:00"
+      "last_seen": "2026-10-26T20:40:36.647504+00:00"
     }
   ]
 }
