@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-26T02:30:41.147631+00:00",
+  "generated_utc": "2026-10-26T02:35:34.920079+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE PRIORITY] M6.5 | Bonin Islands, Japan region | Depth: 492.376 km | UTC: 2026-10-25 02:09:23.818000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-25T02:30:42.086757+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.5 | Bonin Islands, Japan region | Depth: 492.376 km | UTC: 2026-10-25 02:09:23.818000+00:00 | Source: USGS",
@@ -98,10 +93,10 @@
       "category": null,
       "wind_mph": 40.0,
       "pressure_mb": 1002.0,
-      "latitude": 14.8,
-      "longitude": -178.0,
+      "latitude": 14.9,
+      "longitude": -177.3,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
-      "last_seen": "2026-10-26T02:30:41.125154+00:00"
+      "last_seen": "2026-10-26T02:35:34.909247+00:00"
     },
     {
       "system_id": "EP182026",
@@ -153,7 +148,7 @@
       "latitude": 14.9,
       "longitude": -104.2,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-26T02:30:41.138732+00:00"
+      "last_seen": "2026-10-26T02:35:34.914909+00:00"
     }
   ]
 }
