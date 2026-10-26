@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-26T02:35:34.920079+00:00",
+  "generated_utc": "2026-10-26T02:40:36.831401+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.5 | Bonin Islands, Japan region | Depth: 492.376 km | UTC: 2026-10-25 02:09:23.818000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-25T02:35:38.330310+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.2 | 21 km E of Port-Olry, Vanuatu | Depth: 136.298 km | UTC: 2026-10-25 02:24:02.714000+00:00 | Source: USGS",
@@ -96,7 +91,7 @@
       "latitude": 14.9,
       "longitude": -177.3,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
-      "last_seen": "2026-10-26T02:35:34.909247+00:00"
+      "last_seen": "2026-10-26T02:40:36.820295+00:00"
     },
     {
       "system_id": "EP182026",
@@ -143,12 +138,12 @@
       "basin": "Eastern Pacific",
       "classification": "Tropical Storm",
       "category": null,
-      "wind_mph": 70.0,
-      "pressure_mb": 994.0,
-      "latitude": 14.9,
-      "longitude": -104.2,
+      "wind_mph": 65.0,
+      "pressure_mb": 995.0,
+      "latitude": 15.0,
+      "longitude": -104.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-26T02:35:34.914909+00:00"
+      "last_seen": "2026-10-26T02:40:36.825075+00:00"
     }
   ]
 }
