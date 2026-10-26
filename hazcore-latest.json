@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-26T14:30:40.889779+00:00",
+  "generated_utc": "2026-10-26T14:35:38.805921+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Vance | Region: Eastern Pacific | Location: 315 miles WSW of Acapulco Mexico | Winds: 70 mph | Pressure: 994 mb | Movement: NNW at 7 mph | Classification: Hurricane to Tropical Storm | Source: NOAA NHC",
       "detected_utc": "2026-10-25T20:35:37.710728+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Tropical Depression Olana | Region: Central Pacific | Location: 525 miles WSW of Johnston Island | Winds: 35 mph | Pressure: 1005 mb | Movement: SE at 5 mph | Classification: Tropical Storm to Tropical Depression | Source: NOAA NHC",
+      "detected_utc": "2026-10-26T14:35:38.805238+00:00"
     }
   ],
   "active_cyclones": [
@@ -59,14 +64,14 @@
       "system_id": "CP032026",
       "name": "Olana",
       "basin": "Central Pacific",
-      "classification": "Tropical Storm",
+      "classification": "Tropical Depression",
       "category": null,
-      "wind_mph": 40.0,
-      "pressure_mb": 1002.0,
-      "latitude": 14.9,
-      "longitude": -176.6,
+      "wind_mph": 35.0,
+      "pressure_mb": 1005.0,
+      "latitude": 13.9,
+      "longitude": -176.8,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
-      "last_seen": "2026-10-26T14:30:40.873395+00:00"
+      "last_seen": "2026-10-26T14:35:38.575187+00:00"
     },
     {
       "system_id": "EP182026",
@@ -114,11 +119,11 @@
       "classification": "Tropical Storm",
       "category": null,
       "wind_mph": 65.0,
-      "pressure_mb": 995.0,
-      "latitude": 15.3,
-      "longitude": -105.1,
+      "pressure_mb": 997.0,
+      "latitude": 15.4,
+      "longitude": -105.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-26T14:30:40.884256+00:00"
+      "last_seen": "2026-10-26T14:35:38.581028+00:00"
     }
   ]
 }
