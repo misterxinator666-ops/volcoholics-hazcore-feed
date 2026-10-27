@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-27T14:35:36.890449+00:00",
+  "generated_utc": "2026-10-27T14:40:40.854964+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Tropical Depression Olana | Region: Central Pacific | Location: 525 miles WSW of Johnston Island | Winds: 35 mph | Pressure: 1005 mb | Movement: SE at 5 mph | Classification: Tropical Storm to Tropical Depression | Source: NOAA NHC",
-      "detected_utc": "2026-10-26T14:35:38.805238+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-10-26 | YELLOW / ADVISORY | Source: USGS-HVO",
@@ -108,12 +103,12 @@
       "basin": "Eastern Pacific",
       "classification": "Tropical Storm",
       "category": null,
-      "wind_mph": 45.0,
-      "pressure_mb": 1002.0,
-      "latitude": 15.9,
-      "longitude": -106.9,
+      "wind_mph": 40.0,
+      "pressure_mb": 1003.0,
+      "latitude": 16.3,
+      "longitude": -107.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-27T14:35:36.867959+00:00"
+      "last_seen": "2026-10-27T14:40:40.849558+00:00"
     }
   ]
 }
