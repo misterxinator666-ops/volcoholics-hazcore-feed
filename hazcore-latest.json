@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-27T18:10:36.593964+00:00",
+  "generated_utc": "2026-10-27T18:15:40.823372+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-10-26 | YELLOW / ADVISORY | Source: USGS-HVO",
-      "detected_utc": "2026-10-26T18:10:40.480695+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Post-Tropical Cyclone Olana | Region: Central Pacific | Location: 500 miles WSW of Johnston Island | Winds: 30 mph | Pressure: 1007 mb | Movement: SSE at 7 mph | Classification: Tropical Depression to Post-Tropical Cyclone | Source: NOAA NHC",
@@ -16,6 +11,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Vance | Region: Eastern Pacific | Location: 275 miles SSW of Manzanillo Mexico | Winds: 50 mph | Pressure: 999 mb | Movement: W at 5 mph | Change: winds 70 to 50 mph | Source: NOAA NHC",
       "detected_utc": "2026-10-27T02:35:38.083621+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-10-27 | YELLOW / ADVISORY | Source: USGS-HVO",
+      "detected_utc": "2026-10-27T18:15:40.822504+00:00"
     }
   ],
   "active_cyclones": [
@@ -108,7 +108,7 @@
       "latitude": 16.3,
       "longitude": -107.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-27T18:10:36.589068+00:00"
+      "last_seen": "2026-10-27T18:15:40.813240+00:00"
     }
   ]
 }
