@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-28T20:30:42.235581+00:00",
+  "generated_utc": "2026-10-28T20:35:39.747711+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -16,6 +16,11 @@
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-10-28 | YELLOW / ADVISORY | Source: USGS-HVO",
       "detected_utc": "2026-10-28T19:05:41.146970+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Tropical Depression Vance | Region: Eastern Pacific | Location: 320 miles WNW of Manzanillo Mexico | Winds: 35 mph | Pressure: 1006 mb | Movement: N at 9 mph | Change: winds 50 to 35 mph | Source: NOAA NHC",
+      "detected_utc": "2026-10-28T20:35:39.746905+00:00"
     }
   ],
   "active_cyclones": [
@@ -101,14 +106,14 @@
       "system_id": "EP222026",
       "name": "Vance",
       "basin": "Eastern Pacific",
-      "classification": "Tropical Storm",
+      "classification": "Tropical Depression",
       "category": null,
-      "wind_mph": 40.0,
-      "pressure_mb": 1004.0,
-      "latitude": 19.2,
-      "longitude": -109.2,
+      "wind_mph": 35.0,
+      "pressure_mb": 1006.0,
+      "latitude": 20.1,
+      "longitude": -109.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-28T20:30:42.187067+00:00"
+      "last_seen": "2026-10-28T20:35:39.524712+00:00"
     }
   ]
 }
