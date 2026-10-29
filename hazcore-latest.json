@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-29T04:25:36.111632+00:00",
+  "generated_utc": "2026-10-29T04:30:41.608521+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6 | 214 km NW of Port-Olry, Vanuatu | Depth: 10 km | UTC: 2026-10-28 02:21:45.806000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-28T04:30:40.592914+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-10-28 | YELLOW / ADVISORY | Source: USGS-HVO",
@@ -113,7 +108,7 @@
       "latitude": 21.1,
       "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-29T04:25:36.102704+00:00"
+      "last_seen": "2026-10-29T04:30:41.601498+00:00"
     }
   ]
 }
