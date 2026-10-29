@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-29T08:05:37.822147+00:00",
+  "generated_utc": "2026-10-29T08:10:39.971985+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -26,6 +26,11 @@
       "type": "volcano",
       "message": "[INGV-OE VONA RED] Etna | 2026-10-29T06:56:00 | ETNA 2026-10-29 06:56:30 Aviation Color Code: RED DOWNLOAD PDF | Source: INGV-OE",
       "detected_utc": "2026-10-29T07:00:48.344689+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6.4 | southeast of Easter Island | Depth: 10 km | UTC: 2026-10-29 07:49:50.928000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-29T08:10:39.971224+00:00"
     }
   ],
   "active_cyclones": [
@@ -118,7 +123,7 @@
       "latitude": 21.1,
       "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-29T08:05:37.817710+00:00"
+      "last_seen": "2026-10-29T08:10:39.966411+00:00"
     }
   ]
 }
