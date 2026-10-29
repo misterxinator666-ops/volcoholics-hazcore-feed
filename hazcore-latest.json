@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-29T22:05:36.100683+00:00",
+  "generated_utc": "2026-10-29T22:10:36.471846+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -41,6 +41,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Depression Vance | Region: Eastern Pacific | Location: 230 miles NW of Cabo Corrientes Mexico | Winds: 35 mph | Pressure: 1008 mb | Movement: N at 7 mph | Classification: Tropical Storm to Tropical Depression | Source: NOAA NHC",
       "detected_utc": "2026-10-29T20:35:36.752825+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6.2 | 43 km ESE of Port-Olry, Vanuatu | Depth: 142.833 km | UTC: 2026-10-29 21:46:44.786000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-29T22:10:36.471140+00:00"
     }
   ],
   "active_cyclones": [
@@ -133,7 +138,7 @@
       "latitude": 22.3,
       "longitude": -108.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-29T22:05:36.087201+00:00"
+      "last_seen": "2026-10-29T22:10:36.463888+00:00"
     }
   ]
 }
