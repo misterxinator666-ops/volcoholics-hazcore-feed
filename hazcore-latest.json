@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-29T05:15:39.080265+00:00",
+  "generated_utc": "2026-10-29T05:20:39.747715+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -16,6 +16,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Sorikmarapi | 2026-10-29T03:21:00+00:00 | activity_increase | Source: PVMBG",
       "detected_utc": "2026-10-29T03:40:37.772851+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Southeast of the Hawaiian Islands | Eastern / Central Pacific | 48h 0% -> 0% | 7d 20% -> 30%",
+      "detected_utc": "2026-10-29T05:20:39.746968+00:00"
     }
   ],
   "active_cyclones": [
@@ -108,7 +113,7 @@
       "latitude": 21.1,
       "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-29T05:15:39.075970+00:00"
+      "last_seen": "2026-10-29T05:20:39.725848+00:00"
     }
   ]
 }
