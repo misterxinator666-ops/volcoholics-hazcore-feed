@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-29T02:30:40.939353+00:00",
+  "generated_utc": "2026-10-29T02:35:38.454002+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -109,11 +109,11 @@
       "classification": "Tropical Depression",
       "category": null,
       "wind_mph": 35.0,
-      "pressure_mb": 1006.0,
-      "latitude": 20.1,
-      "longitude": -109.1,
+      "pressure_mb": 1002.0,
+      "latitude": 21.1,
+      "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-29T02:30:40.930756+00:00"
+      "last_seen": "2026-10-29T02:35:38.378870+00:00"
     }
   ]
 }
