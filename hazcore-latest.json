@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-29T04:35:38.251955+00:00",
+  "generated_utc": "2026-10-29T04:40:36.768883+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -108,7 +108,7 @@
       "latitude": 21.1,
       "longitude": -108.1,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-29T04:35:38.198710+00:00"
+      "last_seen": "2026-10-29T04:40:36.757318+00:00"
     }
   ]
 }
