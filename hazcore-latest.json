@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-29T08:30:44.624369+00:00",
+  "generated_utc": "2026-10-29T08:35:39.126050+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -36,6 +36,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.4 | southeast of Easter Island | Depth: 10 km | UTC: 2026-10-29 07:49:50.928000+00:00 | Source: USGS",
       "detected_utc": "2026-10-29T08:15:38.937651+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Vance | Region: Eastern Pacific | Location: 300 miles WNW of Manzanillo Mexico | Winds: 40 mph | Pressure: 1001 mb | Movement: NNE at 7 mph | Classification: Tropical Depression to Tropical Storm | Source: NOAA NHC",
+      "detected_utc": "2026-10-29T08:35:39.125225+00:00"
     }
   ],
   "active_cyclones": [
@@ -121,14 +126,14 @@
       "system_id": "EP222026",
       "name": "Vance",
       "basin": "Eastern Pacific",
-      "classification": "Tropical Depression",
+      "classification": "Tropical Storm",
       "category": null,
-      "wind_mph": 35.0,
-      "pressure_mb": 1002.0,
-      "latitude": 21.1,
-      "longitude": -108.1,
+      "wind_mph": 40.0,
+      "pressure_mb": 1001.0,
+      "latitude": 21.0,
+      "longitude": -108.4,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-29T08:30:44.574770+00:00"
+      "last_seen": "2026-10-29T08:35:38.702000+00:00"
     }
   ]
 }
