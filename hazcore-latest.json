@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-30T19:05:47.754938+00:00",
+  "generated_utc": "2026-10-30T19:10:46.939002+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-10-29 | YELLOW / ADVISORY | Source: USGS-HVO",
-      "detected_utc": "2026-10-29T19:10:38.172604+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Tropical Depression Vance | Region: Eastern Pacific | Location: 230 miles NW of Cabo Corrientes Mexico | Winds: 35 mph | Pressure: 1008 mb | Movement: N at 7 mph | Classification: Tropical Storm to Tropical Depression | Source: NOAA NHC",
