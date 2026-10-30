@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-10-30T22:10:49.375856+00:00",
+  "generated_utc": "2026-10-30T22:15:48.762264+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.2 | 43 km ESE of Port-Olry, Vanuatu | Depth: 142.833 km | UTC: 2026-10-29 21:46:44.786000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-29T22:15:37.741991+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Remnants of Vance | Region: Eastern Pacific | Location: 190 miles SSW of Mazatlan Mexico | Winds: 30 mph | Pressure: 1008 mb | Movement: NNE at 8 mph | Classification: Tropical Depression to Remnants of | Source: NOAA NHC",
