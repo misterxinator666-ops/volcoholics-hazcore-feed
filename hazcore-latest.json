@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-30T08:30:37.896914+00:00",
+  "generated_utc": "2026-10-30T08:35:34.847557+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -31,6 +31,11 @@
       "type": "storm",
       "message": "[TROPICAL CYCLONE UPDATE] Remnants of Vance | Region: Eastern Pacific | Location: 190 miles SSW of Mazatlan Mexico | Winds: 30 mph | Pressure: 1008 mb | Movement: NNE at 8 mph | Classification: Tropical Depression to Remnants of | Source: NOAA NHC",
       "detected_utc": "2026-10-30T02:35:36.773614+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[INGV-OE VONA RED] Etna | 2026-10-30T08:30:00 | ETNA 2026-10-30 08:30:16 Aviation Color Code: RED DOWNLOAD PDF | Source: INGV-OE",
+      "detected_utc": "2026-10-30T08:35:34.846749+00:00"
     }
   ],
   "active_cyclones": [
@@ -123,7 +128,7 @@
       "latitude": 20.7,
       "longitude": -107.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
-      "last_seen": "2026-10-30T08:30:37.883951+00:00"
+      "last_seen": "2026-10-30T08:35:34.821148+00:00"
     }
   ]
 }
