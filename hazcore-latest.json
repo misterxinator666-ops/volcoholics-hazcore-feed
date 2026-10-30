@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-30T17:20:48.847832+00:00",
+  "generated_utc": "2026-10-30T17:25:43.580418+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -31,6 +31,11 @@
       "type": "volcano",
       "message": "[INGV-OE VONA RED] Etna | 2026-10-30T08:30:00 | ETNA 2026-10-30 08:30:16 Aviation Color Code: RED DOWNLOAD PDF | Source: INGV-OE",
       "detected_utc": "2026-10-30T08:35:34.846749+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Southeast of the Hawaiian Islands | Eastern / Central Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
+      "detected_utc": "2026-10-30T17:25:43.579514+00:00"
     }
   ],
   "active_cyclones": [
