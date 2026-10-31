@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-31T22:30:37.030603+00:00",
+  "generated_utc": "2026-10-31T22:35:32.241431+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -11,6 +11,11 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE REVIEW] M5.2 | 4 km S of Bajo Corral, Panama | Depth: 10 km | UTC: 2026-10-31 15:50:18.909000+00:00 | Source: USGS",
       "detected_utc": "2026-10-31T20:45:34.298101+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6 | 58 km SSE of Shima, Japan | Depth: 352.449 km | UTC: 2026-10-31 22:15:02.901000+00:00 | Source: USGS",
+      "detected_utc": "2026-10-31T22:35:32.240583+00:00"
     }
   ],
   "active_cyclones": []
