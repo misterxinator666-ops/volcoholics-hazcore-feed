@@ -1,29 +1,19 @@
 {
   "generated_utc": "2026-10-31T15:35:34.046833+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Well Southeast of the Hawaiian Islands | Eastern / Central Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
-      "detected_utc": "2026-10-30T17:25:43.579514+00:00"
-    },
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-10-30 | YELLOW / ADVISORY | Source: USGS-HVO",
-      "detected_utc": "2026-10-30T18:45:55.908891+00:00"
-    }
-  ],
-  "active_cyclones": [
+  "alerts": [],
+  "active_cyclones": [],
+  "cyclone_history": [
     {
       "system_id": "AL092026",
       "name": "Isaias",
       "basin": "Atlantic",
       "classification": "Post-Tropical Cyclone",
       "category": null,
-      "wind_mph": 25.0,
-      "pressure_mb": 1010.0,
+      "wind_mph": 25,
+      "pressure_mb": 1010,
       "latitude": 37.5,
-      "longitude": -84.0,
+      "longitude": -84,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml",
       "last_seen": "2026-10-11T23:00:50.199207+00:00"
     },
@@ -33,9 +23,9 @@
       "basin": "Atlantic",
       "classification": "Post-Tropical Cyclone",
       "category": null,
-      "wind_mph": 65.0,
-      "pressure_mb": 988.0,
-      "latitude": 40.0,
+      "wind_mph": 65,
+      "pressure_mb": 988,
+      "latitude": 40,
       "longitude": -65.8,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPAT5.shtml",
       "last_seen": "2026-10-23T04:45:41.261662+00:00"
@@ -46,9 +36,9 @@
       "basin": "Central Pacific",
       "classification": "Post-Tropical Cyclone",
       "category": null,
-      "wind_mph": 30.0,
-      "pressure_mb": 1007.0,
-      "latitude": 13.0,
+      "wind_mph": 30,
+      "pressure_mb": 1007,
+      "latitude": 13,
       "longitude": -175.9,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml",
       "last_seen": "2026-10-27T10:35:39.709213+00:00"
@@ -59,8 +49,8 @@
       "basin": "Eastern Pacific",
       "classification": "Remnants of",
       "category": null,
-      "wind_mph": 35.0,
-      "pressure_mb": 994.0,
+      "wind_mph": 35,
+      "pressure_mb": 994,
       "latitude": 35.8,
       "longitude": -114.6,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml",
@@ -72,8 +62,8 @@
       "basin": "Eastern Pacific",
       "classification": "Remnants of",
       "category": null,
-      "wind_mph": 35.0,
-      "pressure_mb": 1006.0,
+      "wind_mph": 35,
+      "pressure_mb": 1006,
       "latitude": 21.5,
       "longitude": -110.3,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml",
@@ -85,10 +75,10 @@
       "basin": "Eastern Pacific",
       "classification": "Post-Tropical Cyclone",
       "category": null,
-      "wind_mph": 35.0,
-      "pressure_mb": 1005.0,
+      "wind_mph": 35,
+      "pressure_mb": 1005,
       "latitude": 19.5,
-      "longitude": -108.0,
+      "longitude": -108,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml",
       "last_seen": "2026-10-20T10:35:42.062158+00:00"
     },
@@ -98,12 +88,24 @@
       "basin": "Eastern Pacific",
       "classification": "Remnants of",
       "category": null,
-      "wind_mph": 30.0,
-      "pressure_mb": 1008.0,
+      "wind_mph": 30,
+      "pressure_mb": 1008,
       "latitude": 20.7,
       "longitude": -107.7,
       "source_url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml",
       "last_seen": "2026-10-30T10:20:37.709347+00:00"
+    }
+  ],
+  "alert_history": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Southeast of the Hawaiian Islands | Eastern / Central Pacific | 48h 0% -> 0% | 7d 30% -> 40%",
+      "detected_utc": "2026-10-30T17:25:43.579514+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-10-30 | YELLOW / ADVISORY | Source: USGS-HVO",
+      "detected_utc": "2026-10-30T18:45:55.908891+00:00"
     }
   ]
 }
