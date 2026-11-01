@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-11-01T03:45:30.862828+00:00",
+  "generated_utc": "2026-11-01T03:50:34.006417+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Marapi | 2026-11-01T01:35:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-11-01T01:45:32.213381+00:00"
-    },
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Dempo | 2026-11-01T01:39:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-11-01T01:45:32.213381+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Anak Ranakah | 2026-11-01T00:19:00+00:00 | activity_increase | Source: PVMBG",
