@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-01T10:10:31.605894+00:00",
+  "generated_utc": "2026-11-01T10:15:33.781653+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Bromo | 2026-11-01T10:11:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-11-01T10:15:33.781582+00:00"
+    }
+  ],
   "active_cyclones": []
 }
