@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-11-01T01:45:32.214118+00:00",
+  "generated_utc": "2026-11-01T01:50:34.677460+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Raung | 2026-10-31T23:43:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-10-31T23:45:34.726246+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Soputan | 2026-10-31T22:55:00+00:00 | activity_increase | Source: PVMBG",
