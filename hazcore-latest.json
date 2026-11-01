@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-11-01T00:30:38.806596+00:00",
+  "generated_utc": "2026-11-01T00:35:32.765733+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M6 | 58 km SSE of Shima, Japan | Depth: 352.449 km | UTC: 2026-10-31 22:15:02.901000+00:00 | Source: USGS",
-      "detected_utc": "2026-10-31T22:35:32.240583+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6 | 58 km SSE of Shima, Japan | Depth: 352.449 km | UTC: 2026-10-31 22:15:02.901000+00:00 | Source: USGS",
