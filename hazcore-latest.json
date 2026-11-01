@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-01T00:50:35.132322+00:00",
+  "generated_utc": "2026-11-01T00:55:32.845566+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -11,6 +11,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Soputan | 2026-10-31T22:55:00+00:00 | activity_increase | Source: PVMBG",
       "detected_utc": "2026-11-01T00:10:34.382109+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Iya | 2026-10-31T23:48:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-11-01T00:55:32.844842+00:00"
     }
   ],
   "active_cyclones": []
