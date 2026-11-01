@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-11-01T14:00:39.529442+00:00",
+  "generated_utc": "2026-11-01T14:05:36.116364+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M6 | 165 km NW of Port-Olry, Vanuatu | Depth: 10 km | UTC: 2026-11-01 11:47:03.778000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-01T12:05:33.394226+00:00"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6 | 165 km NW of Port-Olry, Vanuatu | Depth: 10 km | UTC: 2026-11-01 11:47:03.778000+00:00 | Source: USGS",
