@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-01T05:30:35.198768+00:00",
+  "generated_utc": "2026-11-01T05:35:33.255187+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Sinabung | 2026-11-01T05:19:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-11-01T05:35:33.255112+00:00"
+    }
+  ],
   "active_cyclones": []
 }
