@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-02T22:25:32.028859+00:00",
+  "generated_utc": "2026-11-02T22:30:39.445459+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[VOLCANO STATUS] USGS / Shishaldin | YELLOW / ADVISORY -> GREEN / NORMAL | Region: Aleutians | Issued: 2026-11-02 | Source: USGS",
+      "detected_utc": "2026-11-02T22:30:39.445380+00:00"
+    }
+  ],
   "active_cyclones": []
 }
