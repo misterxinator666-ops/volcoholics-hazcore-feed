@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-02T14:50:36.560567+00:00",
+  "generated_utc": "2026-11-02T14:55:34.519855+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-11-02T12:50:18 | 2026-11-02 12:50:18 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-02T12:55:34.495333+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
