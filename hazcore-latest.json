@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-02T23:05:36.638743+00:00",
+  "generated_utc": "2026-11-02T23:10:37.242253+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -11,6 +11,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Lokon | 2026-11-02T21:27:00+00:00 | activity_increase | Source: PVMBG",
       "detected_utc": "2026-11-02T22:35:34.986250+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Southeast of the Hawaiian Islands | Eastern / Central Pacific | 48h 20% -> 30% | 7d 70% -> 70%",
+      "detected_utc": "2026-11-02T23:10:37.241448+00:00"
     }
   ],
   "active_cyclones": []
