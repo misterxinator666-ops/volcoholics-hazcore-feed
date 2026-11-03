@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-03T10:30:40.087210+00:00",
+  "generated_utc": "2026-11-03T10:35:38.294496+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-11-03T08:30:38 | 2026-11-03 08:30:38 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-03T08:35:37.076892+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
