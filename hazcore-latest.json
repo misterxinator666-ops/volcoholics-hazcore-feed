@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-03T15:45:38.573307+00:00",
+  "generated_utc": "2026-11-03T15:50:40.376434+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE REVIEW] M5.4 | 24 km NNW of Rioblanco, Colombia | Depth: 10 km | UTC: 2026-11-03 09:13:14.972000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-03T15:50:40.376355+00:00"
+    }
+  ],
   "active_cyclones": []
 }
