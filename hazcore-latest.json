@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-11-03T01:05:36.921671+00:00",
+  "generated_utc": "2026-11-03T01:10:39.896020+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Well Southeast of the Hawaiian Islands | Eastern / Central Pacific | 48h 20% -> 30% | 7d 70% -> 70%",
-      "detected_utc": "2026-11-02T23:10:37.241448+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO STATUS] USGS / Kilauea | YELLOW / ADVISORY -> ORANGE / WATCH | Region: Hawaii | Issued: 2026-11-03 | Source: USGS",
