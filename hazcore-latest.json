@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-04T04:25:35.903252+00:00",
+  "generated_utc": "2026-11-04T04:30:42.618871+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Marapi | 2026-11-04T03:50:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-11-04T04:30:42.618810+00:00"
+    }
+  ],
   "active_cyclones": []
 }
