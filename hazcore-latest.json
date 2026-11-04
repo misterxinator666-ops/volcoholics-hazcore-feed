@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-11-04T05:00:44.706909+00:00",
+  "generated_utc": "2026-11-04T05:05:37.134592+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Marapi | 2026-11-04T03:50:00+00:00 | activity_increase | Source: PVMBG",
       "detected_utc": "2026-11-04T04:30:42.618810+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Eastern East Pacific | Eastern Pacific | 48h 10% -> 20% | 7d 30% -> 40%",
+      "detected_utc": "2026-11-04T05:05:37.133846+00:00"
     }
   ],
   "active_cyclones": []
