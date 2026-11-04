@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-04T03:00:42.998972+00:00",
+  "generated_utc": "2026-11-04T03:05:36.985433+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO STATUS] JMA / Meakandake | LEVEL 2 -> NO CURRENT WARNING | Region: Japan | Source: JMA",
-      "detected_utc": "2026-11-04T01:05:36.974203+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
