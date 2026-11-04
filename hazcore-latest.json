@@ -1,6 +1,17 @@
 {
-  "generated_utc": "2026-11-04T11:30:39.020421+00:00",
+  "generated_utc": "2026-11-04T12:00:46.548240+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Western and Central Atlantic | Atlantic | 48h 20% -> 30% | 7d 40% -> 50%",
+      "detected_utc": "2026-11-04T12:00:46.548158+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Eastern East Pacific | Eastern Pacific | 48h 20% -> 30% | 7d 40% -> 50%",
+      "detected_utc": "2026-11-04T12:00:46.548158+00:00"
+    }
+  ],
   "active_cyclones": []
 }
