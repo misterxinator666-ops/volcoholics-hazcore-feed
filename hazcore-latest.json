@@ -1,17 +1,7 @@
 {
-  "generated_utc": "2026-11-04T01:10:36.516651+00:00",
+  "generated_utc": "2026-11-04T01:15:37.680630+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Well Southeast of the Hawaiian Islands (EP95) | Eastern / Central Pacific | 48h 40% -> 50% | 7d 70% -> 70%",
-      "detected_utc": "2026-11-03T23:15:36.678411+00:00"
-    },
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Eastern East Pacific | Eastern Pacific | 48h 10% -> 10% | 7d 20% -> 30%",
-      "detected_utc": "2026-11-03T23:15:36.678411+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO STATUS] JMA / Meakandake | LEVEL 2 -> NO CURRENT WARNING | Region: Japan | Source: JMA",
