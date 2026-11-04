@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-04T17:40:36.007870+00:00",
+  "generated_utc": "2026-11-04T17:45:37.099316+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Southeast of the Hawaiian Islands (EP95) | Eastern / Central Pacific | 48h 50% -> 60% | 7d 70% -> 70%",
+      "detected_utc": "2026-11-04T17:45:37.099264+00:00"
+    }
+  ],
   "active_cyclones": []
 }
