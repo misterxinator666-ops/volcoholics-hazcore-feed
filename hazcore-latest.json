@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-05T08:30:34.737553+00:00",
+  "generated_utc": "2026-11-05T08:35:34.257076+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Karangetang | 2026-11-05T05:14:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-11-05T06:35:30.842684+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
