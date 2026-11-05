@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-05T22:25:30.227022+00:00",
+  "generated_utc": "2026-11-05T22:30:39.221242+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-11-05 | ORANGE / WATCH | Source: USGS-HVO",
+      "detected_utc": "2026-11-05T22:30:39.221191+00:00"
+    }
+  ],
   "active_cyclones": []
 }
