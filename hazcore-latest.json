@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-05T17:05:32.811396+00:00",
+  "generated_utc": "2026-11-05T17:10:31.373899+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M5.1 | 19 km NNW of Masumbwe, Tanzania | Depth: 10 km | UTC: 2026-11-05 09:22:32.714000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-05T17:10:31.373812+00:00"
+    }
+  ],
   "active_cyclones": []
 }
