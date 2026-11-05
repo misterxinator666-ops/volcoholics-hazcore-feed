@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-05T17:45:32.406174+00:00",
+  "generated_utc": "2026-11-05T17:50:33.818313+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -21,6 +21,11 @@
       "type": "storm",
       "message": "[TROPICAL UPDATE] Eastern East Pacific | Eastern Pacific | 48h 40% -> 40% | 7d 60% -> 50%",
       "detected_utc": "2026-11-05T17:45:32.405365+00:00"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6.1 | Fiji region | Depth: 540.789 km | UTC: 2026-11-05 17:21:45.897000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-05T17:50:33.817587+00:00"
     }
   ],
   "active_cyclones": []
