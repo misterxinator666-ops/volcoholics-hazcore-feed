@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-05T19:55:30.756088+00:00",
+  "generated_utc": "2026-11-05T20:00:40.944347+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Western and Central Atlantic | Atlantic | 48h 30% -> 30% | 7d 50% -> 40%",
-      "detected_utc": "2026-11-05T18:00:39.492717+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
