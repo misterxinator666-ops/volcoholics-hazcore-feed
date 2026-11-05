@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-11-05T11:45:32.247671+00:00",
+  "generated_utc": "2026-11-05T11:50:32.438200+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE REVIEW] M5.1 | 19 km NNW of Masumbwe, Tanzania | Depth: 10 km | UTC: 2026-11-05 09:22:32.714000+00:00 | Source: USGS",
       "detected_utc": "2026-11-05T10:40:32.440926+00:00"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Well Southeast of the Hawaiian Islands (CP95) | Eastern / Central Pacific | 48h 60% -> 80% | 7d 70% -> 80%",
+      "detected_utc": "2026-11-05T11:50:32.437506+00:00"
     }
   ],
   "active_cyclones": []
