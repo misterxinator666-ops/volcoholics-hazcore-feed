@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-11-06T22:10:38.118761+00:00",
+  "generated_utc": "2026-11-06T22:15:36.584738+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-11-06 | ORANGE / WATCH | Source: USGS-HVO",
-      "detected_utc": "2026-11-06T20:10:39.590965+00:00"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL CYCLONE] Tropical Storm Pena | Region: Central Pacific | Location: 1350 miles ESE of Johnston Island | Winds: 45 mph | Pressure: 1002 mb | Movement: W at 12 mph | Source: NOAA NHC",
@@ -25,7 +20,7 @@
       "latitude": 11.3,
       "longitude": -150.1,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-06T22:10:38.091937+00:00"
+      "last_seen": "2026-11-06T22:15:36.573517+00:00"
     }
   ]
 }
