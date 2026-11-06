@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-11-06T01:40:34.745916+00:00",
+  "generated_utc": "2026-11-06T01:45:35.118469+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Eastern East Pacific | Eastern Pacific | 48h 40% -> 40% | 7d 50% -> 40%",
-      "detected_utc": "2026-11-05T23:45:33.826838+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-11-06 | ORANGE / WATCH | Source: USGS-HVO",
