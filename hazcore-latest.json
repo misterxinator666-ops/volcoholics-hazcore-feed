@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-06T17:25:36.334224+00:00",
+  "generated_utc": "2026-11-06T17:30:38.956561+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Western and Central Atlantic (AL94) | Atlantic | 48h 20% -> 10% | 7d 20% -> 10%",
+      "detected_utc": "2026-11-06T17:30:38.956500+00:00"
+    }
+  ],
   "active_cyclones": []
 }
