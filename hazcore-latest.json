@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-07T02:30:42.671769+00:00",
+  "generated_utc": "2026-11-07T02:35:36.673018+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -25,7 +25,7 @@
       "latitude": 11.3,
       "longitude": -150.1,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-07T02:30:42.665331+00:00"
+      "last_seen": "2026-11-07T02:35:36.665308+00:00"
     }
   ]
 }
