@@ -1,7 +1,13 @@
 {
-  "generated_utc": "2026-11-08T23:30:39.902960+00:00",
+  "generated_utc": "2026-11-08T23:35:35.935749+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Eastern East Pacific (EP96) | Eastern Pacific | 48h 20% -> 30% | 7d 20% -> 30%",
+      "detected_utc": "2026-11-08T23:35:35.935692+00:00"
+    }
+  ],
   "active_cyclones": [
     {
       "system_id": "CP042026",
@@ -14,7 +20,7 @@
       "latitude": 11.6,
       "longitude": -157.2,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-08T23:30:39.890338+00:00"
+      "last_seen": "2026-11-08T23:35:35.929478+00:00"
     }
   ]
 }
