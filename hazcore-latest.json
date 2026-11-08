@@ -1,13 +1,7 @@
 {
-  "generated_utc": "2026-11-08T10:40:40.149862+00:00",
+  "generated_utc": "2026-11-08T10:45:40.506196+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL CYCLONE UPDATE] Tropical Storm Pena | Region: Central Pacific | Location: 1035 miles ESE of Johnston Island | Winds: 45 mph | Pressure: 1002 mb | Movement: W at 7 mph | Change: winds 60 to 45 mph | Source: NOAA NHC",
-      "detected_utc": "2026-11-08T08:45:39.964001+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": [
     {
       "system_id": "CP042026",
@@ -20,7 +14,7 @@
       "latitude": 11.5,
       "longitude": -155.0,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-08T10:40:40.145168+00:00"
+      "last_seen": "2026-11-08T10:45:40.499536+00:00"
     }
   ]
 }
