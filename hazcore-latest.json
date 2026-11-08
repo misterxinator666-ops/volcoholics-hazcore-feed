@@ -1,7 +1,13 @@
 {
-  "generated_utc": "2026-11-08T00:20:40.986688+00:00",
+  "generated_utc": "2026-11-08T00:25:38.522340+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Western and Central Atlantic (AL94) | Atlantic | 48h 10% -> 0% | 7d 10% -> 0%",
+      "detected_utc": "2026-11-08T00:25:38.522285+00:00"
+    }
+  ],
   "active_cyclones": [
     {
       "system_id": "CP042026",
@@ -14,7 +20,7 @@
       "latitude": 11.5,
       "longitude": -153.9,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-08T00:20:40.974052+00:00"
+      "last_seen": "2026-11-08T00:25:38.516343+00:00"
     }
   ]
 }
