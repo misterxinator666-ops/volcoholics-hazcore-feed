@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-08T20:55:37.633429+00:00",
+  "generated_utc": "2026-11-08T21:00:47.087568+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -18,9 +18,9 @@
       "wind_mph": 45.0,
       "pressure_mb": 1002.0,
       "latitude": 11.6,
-      "longitude": -156.1,
+      "longitude": -157.2,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-08T20:55:37.628261+00:00"
+      "last_seen": "2026-11-08T21:00:46.983371+00:00"
     }
   ]
 }
