@@ -1,13 +1,7 @@
 {
-  "generated_utc": "2026-11-08T21:30:40.440766+00:00",
+  "generated_utc": "2026-11-08T21:35:39.087210+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-11-08 | YELLOW / ADVISORY | Source: USGS-HVO",
-      "detected_utc": "2026-11-08T19:30:45.606970+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": [
     {
       "system_id": "CP042026",
@@ -20,7 +14,7 @@
       "latitude": 11.6,
       "longitude": -157.2,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-08T21:30:40.357162+00:00"
+      "last_seen": "2026-11-08T21:35:39.076737+00:00"
     }
   ]
 }
