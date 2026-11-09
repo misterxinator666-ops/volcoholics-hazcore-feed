@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-11-09T18:40:40.049255+00:00",
+  "generated_utc": "2026-11-09T18:45:40.915252+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Eastern East Pacific | Eastern Pacific | 48h 20% -> 0% | 7d 20% -> 0%",
       "detected_utc": "2026-11-09T17:20:42.655631+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-11-09 | YELLOW / ADVISORY | Source: USGS-HVO",
+      "detected_utc": "2026-11-09T18:45:40.914413+00:00"
     }
   ],
   "active_cyclones": [
@@ -20,7 +25,7 @@
       "latitude": 11.4,
       "longitude": -159.5,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-09T18:40:40.040830+00:00"
+      "last_seen": "2026-11-09T18:45:40.910614+00:00"
     }
   ]
 }
