@@ -1,7 +1,13 @@
 {
-  "generated_utc": "2026-11-09T03:50:36.774181+00:00",
+  "generated_utc": "2026-11-09T03:55:36.246352+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6.4 | 27 km SW of Lata, Solomon Islands | Depth: 25.046 km | UTC: 2026-11-09 03:35:01.077000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-09T03:55:36.246301+00:00"
+    }
+  ],
   "active_cyclones": [
     {
       "system_id": "CP042026",
@@ -14,7 +20,7 @@
       "latitude": 11.4,
       "longitude": -157.6,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-09T03:50:36.770129+00:00"
+      "last_seen": "2026-11-09T03:55:36.242075+00:00"
     }
   ]
 }
