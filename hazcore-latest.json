@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-11T11:10:40.344421+00:00",
+  "generated_utc": "2026-11-11T11:15:38.694810+00:00",
   "status": "ok",
   "alerts": [],
   "active_cyclones": [
@@ -14,7 +14,7 @@
       "latitude": 10.1,
       "longitude": -166.7,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-11T11:10:40.253239+00:00"
+      "last_seen": "2026-11-11T11:15:38.674292+00:00"
     }
   ]
 }
