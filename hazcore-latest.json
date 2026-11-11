@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-11T02:30:39.692240+00:00",
+  "generated_utc": "2026-11-11T02:35:37.688733+00:00",
   "status": "ok",
   "alerts": [],
   "active_cyclones": [
@@ -9,12 +9,12 @@
       "basin": "Central Pacific",
       "classification": "Tropical Storm",
       "category": null,
-      "wind_mph": 40.0,
-      "pressure_mb": 1004.0,
-      "latitude": 10.8,
-      "longitude": -165.2,
+      "wind_mph": 45.0,
+      "pressure_mb": 1002.0,
+      "latitude": 10.5,
+      "longitude": -166.0,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-11T02:30:39.685705+00:00"
+      "last_seen": "2026-11-11T02:35:37.671924+00:00"
     }
   ]
 }
