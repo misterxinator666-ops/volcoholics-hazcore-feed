@@ -1,20 +1,26 @@
 {
-  "generated_utc": "2026-11-12T08:30:40.903604+00:00",
+  "generated_utc": "2026-11-12T08:35:37.501619+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "storm",
+      "message": "[TROPICAL CYCLONE UPDATE] Tropical Depression Pena | Region: Central Pacific | Location: 505 miles SSW of Johnston Island | Winds: 35 mph | Pressure: 1009 mb | Movement: W at 16 mph | Classification: Tropical Storm to Tropical Depression | Source: NOAA NHC",
+      "detected_utc": "2026-11-12T08:35:37.501558+00:00"
+    }
+  ],
   "active_cyclones": [
     {
       "system_id": "CP042026",
       "name": "Pena",
       "basin": "Central Pacific",
-      "classification": "Tropical Storm",
+      "classification": "Tropical Depression",
       "category": null,
-      "wind_mph": 45.0,
-      "pressure_mb": 1002.0,
+      "wind_mph": 35.0,
+      "pressure_mb": 1009.0,
       "latitude": 9.8,
-      "longitude": -170.6,
+      "longitude": -172.0,
       "source_url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml",
-      "last_seen": "2026-11-12T08:30:40.895511+00:00"
+      "last_seen": "2026-11-12T08:35:37.089854+00:00"
     }
   ]
 }
