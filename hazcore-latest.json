@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-13T23:40:31.348542+00:00",
+  "generated_utc": "2026-11-13T23:45:30.983410+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M5.8 | 79 km WSW of Changuillo, Peru | Depth: 10 km | UTC: 2026-11-13 16:43:02.131000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-13T21:40:33.331617+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
