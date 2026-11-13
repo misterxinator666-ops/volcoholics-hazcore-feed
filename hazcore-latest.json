@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-11-13T19:30:34.954028+00:00",
+  "generated_utc": "2026-11-13T19:35:30.787719+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE REVIEW] M5.8 | 79 km WSW of Changuillo, Peru | Depth: 10 km | UTC: 2026-11-13 16:43:02.131000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-13T17:30:36.133621+00:00"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-11-13 | YELLOW / ADVISORY | Source: USGS-HVO",
