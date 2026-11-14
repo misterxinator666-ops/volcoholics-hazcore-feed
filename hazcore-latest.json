@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-14T18:05:31.098655+00:00",
+  "generated_utc": "2026-11-14T18:10:32.453281+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-11-14 | YELLOW / ADVISORY | Source: USGS-HVO",
+      "detected_utc": "2026-11-14T18:10:32.453211+00:00"
+    }
+  ],
   "active_cyclones": []
 }
