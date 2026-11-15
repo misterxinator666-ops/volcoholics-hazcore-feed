@@ -1,6 +1,12 @@
 {
-  "generated_utc": "2026-11-15T23:15:29.437675+00:00",
+  "generated_utc": "2026-11-15T23:20:31.205957+00:00",
   "status": "ok",
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Dempo | 2026-11-15T23:15:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-11-15T23:20:31.205890+00:00"
+    }
+  ],
   "active_cyclones": []
 }
