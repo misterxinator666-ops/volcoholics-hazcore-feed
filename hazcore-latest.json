@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-15T23:45:29.001637+00:00",
+  "generated_utc": "2026-11-15T23:50:33.202663+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -11,6 +11,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Sinabung | 2026-11-15T23:12:00+00:00 | activity_increase | Source: PVMBG",
       "detected_utc": "2026-11-15T23:30:33.343666+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Marapi | 2026-11-15T23:48:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-11-15T23:50:33.201748+00:00"
     }
   ],
   "active_cyclones": []
