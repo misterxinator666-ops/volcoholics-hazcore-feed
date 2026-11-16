@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-16T23:30:35.235710+00:00",
+  "generated_utc": "2026-11-16T23:35:30.743979+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.6 | 151 km WSW of Tual, Indonesia | Depth: 35 km | UTC: 2026-11-16 21:11:17.168000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-16T21:35:29.217001+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
