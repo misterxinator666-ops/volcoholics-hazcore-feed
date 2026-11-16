@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-16T00:45:35.180490+00:00",
+  "generated_utc": "2026-11-16T00:50:35.669975+00:00",
   "status": "ok",
   "alerts": [
     {
@@ -21,6 +21,11 @@
       "type": "volcano",
       "message": "[PVMBG YELLOW] Kerinci | 2026-11-16T00:00:00+00:00 | activity_increase | Source: PVMBG",
       "detected_utc": "2026-11-16T00:25:30.794013+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Sorikmarapi | 2026-11-16T00:43:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-11-16T00:50:35.669160+00:00"
     }
   ],
   "active_cyclones": []
