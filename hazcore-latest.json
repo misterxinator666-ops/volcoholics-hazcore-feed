@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-11-16T01:25:28.226592+00:00",
+  "generated_utc": "2026-11-16T01:30:36.524482+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Sinabung | 2026-11-15T23:12:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-11-15T23:30:33.343666+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Marapi | 2026-11-15T23:48:00+00:00 | activity_increase | Source: PVMBG",
