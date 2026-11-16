@@ -1,12 +1,7 @@
 {
-  "generated_utc": "2026-11-16T02:20:33.503248+00:00",
+  "generated_utc": "2026-11-16T02:25:35.158135+00:00",
   "status": "ok",
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Kerinci | 2026-11-16T00:00:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-11-16T00:25:30.794013+00:00"
-    },
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Sorikmarapi | 2026-11-16T00:43:00+00:00 | activity_increase | Source: PVMBG",
