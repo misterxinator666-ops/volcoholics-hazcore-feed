@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-16T04:25:27.931692+00:00",
+  "generated_utc": "2026-11-16T04:30:41.532754+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Gamkonora | 2026-11-16T00:24:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-11-16T02:30:38.334381+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
