@@ -1,11 +1,16 @@
 {
-  "generated_utc": "2026-11-16T02:25:35.158135+00:00",
+  "generated_utc": "2026-11-16T02:30:38.335132+00:00",
   "status": "ok",
   "alerts": [
     {
       "type": "volcano",
       "message": "[PVMBG YELLOW] Sorikmarapi | 2026-11-16T00:43:00+00:00 | activity_increase | Source: PVMBG",
       "detected_utc": "2026-11-16T00:50:35.669160+00:00"
+    },
+    {
+      "type": "volcano",
+      "message": "[PVMBG YELLOW] Gamkonora | 2026-11-16T00:24:00+00:00 | activity_increase | Source: PVMBG",
+      "detected_utc": "2026-11-16T02:30:38.334381+00:00"
     }
   ],
   "active_cyclones": []
