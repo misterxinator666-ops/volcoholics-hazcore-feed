@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-16T07:15:30.887423+00:00",
+  "generated_utc": "2026-11-16T07:20:34.706549+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "volcano",
-      "message": "[PVMBG YELLOW] Raung | 2026-11-16T05:11:00+00:00 | activity_increase | Source: PVMBG",
-      "detected_utc": "2026-11-16T05:15:33.280274+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
