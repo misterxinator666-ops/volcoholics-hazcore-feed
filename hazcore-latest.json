@@ -1,12 +1,6 @@
 {
-  "generated_utc": "2026-11-18T03:35:26.333657+00:00",
+  "generated_utc": "2026-11-18T03:40:30.959889+00:00",
   "status": "ok",
-  "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE REVIEW] M5.3 | 16 km W of Nereju Mic, Romania | Depth: 130.755 km | UTC: 2026-11-18 00:48:56.322000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-18T01:35:28.304742+00:00"
-    }
-  ],
+  "alerts": [],
   "active_cyclones": []
 }
