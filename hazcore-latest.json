@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-19T19:40:32.311601+00:00",
+  "generated_utc": "2026-11-19T19:45:31.468098+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:08.508930+00:00"
+      "checked_utc": "2026-11-19T19:45:08.231367+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:20.499660+00:00"
+      "checked_utc": "2026-11-19T19:45:19.856425+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:25.565860+00:00"
+      "checked_utc": "2026-11-19T19:45:24.872379+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:26.280868+00:00"
+      "checked_utc": "2026-11-19T19:45:25.761675+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:27.554530+00:00"
+      "checked_utc": "2026-11-19T19:45:26.743930+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:28.961270+00:00"
+      "checked_utc": "2026-11-19T19:45:28.177922+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:29.702099+00:00"
+      "checked_utc": "2026-11-19T19:45:28.999270+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:30.764006+00:00"
+      "checked_utc": "2026-11-19T19:45:30.606081+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:31.502199+00:00"
+      "checked_utc": "2026-11-19T19:45:30.674551+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-19T19:40:32.295482+00:00"
+      "checked_utc": "2026-11-19T19:45:31.456489+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.1 | Pacific-Antarctic Ridge | Depth: 10 km | UTC: 2026-11-18 19:14:23.713000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-18T19:45:28.061484+00:00",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
-      "source_link_type": "report"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Offshore the Southeast U.S. Coast | Atlantic | 48h 0% -> 0% | 7d 50% -> 60%",
