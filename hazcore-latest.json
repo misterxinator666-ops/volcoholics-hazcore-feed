@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-19T17:20:34.405604+00:00",
+  "generated_utc": "2026-11-19T17:25:30.504647+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:11.504690+00:00"
+      "checked_utc": "2026-11-19T17:25:08.551820+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:22.174275+00:00"
+      "checked_utc": "2026-11-19T17:25:19.111537+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:26.854377+00:00"
+      "checked_utc": "2026-11-19T17:25:23.852659+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:28.100785+00:00"
+      "checked_utc": "2026-11-19T17:25:25.288436+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:29.071993+00:00"
+      "checked_utc": "2026-11-19T17:25:26.392462+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:30.705231+00:00"
+      "checked_utc": "2026-11-19T17:25:27.508377+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:31.564404+00:00"
+      "checked_utc": "2026-11-19T17:25:28.339165+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:33.046387+00:00"
+      "checked_utc": "2026-11-19T17:25:29.752261+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:33.954007+00:00"
+      "checked_utc": "2026-11-19T17:25:29.870773+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-19T17:20:34.390710+00:00"
+      "checked_utc": "2026-11-19T17:25:30.490674+00:00"
     }
   },
   "source_warnings": [
@@ -87,6 +87,13 @@
       "type": "storm",
       "message": "[TROPICAL DISTURBANCE] Offshore of the Southeast U.S. Coast | Atlantic | 48h 20% | 7d 60%",
       "detected_utc": "2026-11-19T11:45:34.735220+00:00",
+      "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+      "source_link_type": "source"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Offshore of the Southeast U.S. Coast | Atlantic | 48h 20% -> 30% | 7d 60% -> 60%",
+      "detected_utc": "2026-11-19T17:25:30.496358+00:00",
       "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
       "source_link_type": "source"
     }
