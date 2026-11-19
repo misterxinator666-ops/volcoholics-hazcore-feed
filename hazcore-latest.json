@@ -1,53 +1,51 @@
 {
-  "generated_utc": "2026-11-19T11:41:00.981366+00:00",
+  "generated_utc": "2026-11-19T11:45:34.748293+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:40:11.045545+00:00"
+      "checked_utc": "2026-11-19T11:45:11.035679+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:40:21.441593+00:00"
+      "checked_utc": "2026-11-19T11:45:21.666706+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:40:26.054036+00:00"
+      "checked_utc": "2026-11-19T11:45:26.256801+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:40:26.407226+00:00"
+      "checked_utc": "2026-11-19T11:45:27.346332+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:40:27.383858+00:00"
+      "checked_utc": "2026-11-19T11:45:28.300636+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:40:28.031416+00:00"
+      "checked_utc": "2026-11-19T11:45:29.169919+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:40:28.790383+00:00"
+      "checked_utc": "2026-11-19T11:45:30.010316+00:00"
     },
     "PVMBG": {
-      "status": "unavailable",
-      "error": "TimeoutError",
-      "checked_utc": "2026-11-19T11:40:59.574005+00:00"
+      "status": "completed",
+      "checked_utc": "2026-11-19T11:45:34.084281+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:41:00.166314+00:00"
+      "checked_utc": "2026-11-19T11:45:34.317578+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:41:00.980278+00:00"
+      "checked_utc": "2026-11-19T11:45:34.734950+00:00"
     }
   },
   "source_warnings": [
-    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)",
-    "Warning: PVMBG unavailable: The read operation timed out"
+    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
     {
@@ -84,6 +82,13 @@
       "detected_utc": "2026-11-19T06:30:32.598397+00:00",
       "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n",
       "source_link_type": "report"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL DISTURBANCE] Offshore of the Southeast U.S. Coast | Atlantic | 48h 20% | 7d 60%",
+      "detected_utc": "2026-11-19T11:45:34.735220+00:00",
+      "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+      "source_link_type": "source"
     }
   ],
   "active_cyclones": []
