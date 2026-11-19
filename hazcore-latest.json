@@ -1,53 +1,53 @@
 {
-  "generated_utc": "2026-11-19T11:30:35.349929+00:00",
+  "generated_utc": "2026-11-19T11:35:58.304700+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:30:13.876241+00:00"
+      "checked_utc": "2026-11-19T11:35:08.294921+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:30:24.252155+00:00"
+      "checked_utc": "2026-11-19T11:35:18.473710+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:30:28.934827+00:00"
+      "checked_utc": "2026-11-19T11:35:23.378967+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:30:30.508858+00:00"
+      "checked_utc": "2026-11-19T11:35:23.825134+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:30:31.522724+00:00"
+      "checked_utc": "2026-11-19T11:35:24.751389+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:30:32.183557+00:00"
+      "checked_utc": "2026-11-19T11:35:25.736540+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:30:33.003022+00:00"
+      "checked_utc": "2026-11-19T11:35:26.576118+00:00"
     },
     "PVMBG": {
       "status": "unavailable",
-      "error": "HTTPError",
-      "checked_utc": "2026-11-19T11:30:33.813374+00:00"
+      "error": "TimeoutError",
+      "checked_utc": "2026-11-19T11:35:57.217022+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:30:34.288547+00:00"
+      "checked_utc": "2026-11-19T11:35:57.694865+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-19T11:30:35.348902+00:00"
+      "checked_utc": "2026-11-19T11:35:58.303574+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)",
-    "Warning: PVMBG unavailable: HTTP Error 502: Bad Gateway"
+    "Warning: PVMBG unavailable: The read operation timed out"
   ],
   "alerts": [
     {
