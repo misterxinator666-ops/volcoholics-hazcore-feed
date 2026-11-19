@@ -1,53 +1,51 @@
 {
-  "generated_utc": "2026-11-19T10:40:29.235809+00:00",
+  "generated_utc": "2026-11-19T10:45:31.203164+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T10:40:08.284690+00:00"
+      "checked_utc": "2026-11-19T10:45:09.348029+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-19T10:40:19.588831+00:00"
+      "checked_utc": "2026-11-19T10:45:19.918071+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T10:40:24.325318+00:00"
+      "checked_utc": "2026-11-19T10:45:24.932962+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-19T10:40:24.674225+00:00"
+      "checked_utc": "2026-11-19T10:45:25.463271+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-19T10:40:25.691567+00:00"
+      "checked_utc": "2026-11-19T10:45:26.257661+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-19T10:40:26.735549+00:00"
+      "checked_utc": "2026-11-19T10:45:26.845898+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-19T10:40:27.560822+00:00"
+      "checked_utc": "2026-11-19T10:45:27.580476+00:00"
     },
     "PVMBG": {
-      "status": "unavailable",
-      "error": "HTTPError",
-      "checked_utc": "2026-11-19T10:40:28.333941+00:00"
+      "status": "completed",
+      "checked_utc": "2026-11-19T10:45:30.135063+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-19T10:40:28.435212+00:00"
+      "checked_utc": "2026-11-19T10:45:30.219722+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-19T10:40:29.234722+00:00"
+      "checked_utc": "2026-11-19T10:45:31.191351+00:00"
     }
   },
   "source_warnings": [
-    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)",
-    "Warning: PVMBG unavailable: HTTP Error 502: Bad Gateway"
+    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
     {
