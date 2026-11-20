@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-20T06:25:32.350983+00:00",
+  "generated_utc": "2026-11-20T06:30:35.557405+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:09.769905+00:00"
+      "checked_utc": "2026-11-20T06:30:13.634024+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:20.849586+00:00"
+      "checked_utc": "2026-11-20T06:30:24.637431+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:25.239234+00:00"
+      "checked_utc": "2026-11-20T06:30:29.386287+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:27.778266+00:00"
+      "checked_utc": "2026-11-20T06:30:30.482111+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:28.845274+00:00"
+      "checked_utc": "2026-11-20T06:30:31.470779+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:29.829599+00:00"
+      "checked_utc": "2026-11-20T06:30:32.572449+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:30.682852+00:00"
+      "checked_utc": "2026-11-20T06:30:33.331062+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:31.732342+00:00"
+      "checked_utc": "2026-11-20T06:30:34.564652+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:32.026401+00:00"
+      "checked_utc": "2026-11-20T06:30:34.783295+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-20T06:25:32.333938+00:00"
+      "checked_utc": "2026-11-20T06:30:35.547395+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE REVIEW] M5.3 | 4 km NNW of Tsunagi, Japan | Depth: 10 km | UTC: 2026-11-18 17:22:23.454000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-19T06:30:32.598397+00:00",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n",
-      "source_link_type": "report"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL DISTURBANCE] Offshore of the Southeast U.S. Coast | Atlantic | 48h 20% | 7d 60%",
