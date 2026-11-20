@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-20T07:10:31.258340+00:00",
+  "generated_utc": "2026-11-20T07:15:31.035963+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:09.603128+00:00"
+      "checked_utc": "2026-11-20T07:15:09.353294+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:20.430711+00:00"
+      "checked_utc": "2026-11-20T07:15:20.434011+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:24.899763+00:00"
+      "checked_utc": "2026-11-20T07:15:25.041456+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:25.771141+00:00"
+      "checked_utc": "2026-11-20T07:15:26.133280+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:26.863041+00:00"
+      "checked_utc": "2026-11-20T07:15:27.174292+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:28.164788+00:00"
+      "checked_utc": "2026-11-20T07:15:27.882615+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:29.174718+00:00"
+      "checked_utc": "2026-11-20T07:15:28.744928+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:30.294332+00:00"
+      "checked_utc": "2026-11-20T07:15:29.801556+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:30.438189+00:00"
+      "checked_utc": "2026-11-20T07:15:30.224458+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-20T07:10:31.233580+00:00"
+      "checked_utc": "2026-11-20T07:15:31.003729+00:00"
     }
   },
   "source_warnings": [
@@ -80,6 +80,13 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M5.12 | 10 km NW of Pinnacles, CA | Depth: 6.69999980926514 km | UTC: 2026-11-20 06:49:16.530000+00:00 | Source: USGS",
       "detected_utc": "2026-11-20T06:55:29.954589+00:00",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
+      "source_link_type": "report"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M5 | 10 km NW of Pinnacles, CA | Depth: 6.69999980926514 km | UTC: 2026-11-20 06:49:16.530000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-20T07:15:31.004285+00:00",
       "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
       "source_link_type": "report"
     }
