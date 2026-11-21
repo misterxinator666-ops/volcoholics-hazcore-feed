@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-21T00:35:30.777839+00:00",
+  "generated_utc": "2026-11-21T00:40:31.217141+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:08.644719+00:00"
+      "checked_utc": "2026-11-21T00:40:08.613581+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:19.923738+00:00"
+      "checked_utc": "2026-11-21T00:40:20.551254+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:24.446018+00:00"
+      "checked_utc": "2026-11-21T00:40:25.508665+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:24.819263+00:00"
+      "checked_utc": "2026-11-21T00:40:26.746684+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:25.925312+00:00"
+      "checked_utc": "2026-11-21T00:40:27.743016+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:26.988900+00:00"
+      "checked_utc": "2026-11-21T00:40:28.650186+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:27.805077+00:00"
+      "checked_utc": "2026-11-21T00:40:29.438681+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:29.255031+00:00"
+      "checked_utc": "2026-11-21T00:40:30.585409+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:30.211217+00:00"
+      "checked_utc": "2026-11-21T00:40:30.748071+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:35:30.764649+00:00"
+      "checked_utc": "2026-11-21T00:40:31.208388+00:00"
     }
   },
   "source_warnings": [
@@ -101,6 +101,13 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M6.7 | 9 km NE of Carhuamayo, Peru | Depth: 107.991 km | UTC: 2026-11-21 00:09:19.667000+00:00 | Source: USGS",
       "detected_utc": "2026-11-21T00:30:33.483805+00:00",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source_link_type": "report"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6.7 | 9 km NE of Carhuamayo, Peru | Depth: 107.991 km | UTC: 2026-11-21 00:09:19.667000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-21T00:40:31.209637+00:00",
       "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source_link_type": "report"
     }
