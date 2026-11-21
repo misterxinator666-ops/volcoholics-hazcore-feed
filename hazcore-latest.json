@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-21T00:15:29.477315+00:00",
+  "generated_utc": "2026-11-21T00:20:31.218080+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:07.155735+00:00"
+      "checked_utc": "2026-11-21T00:20:09.809551+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:18.276922+00:00"
+      "checked_utc": "2026-11-21T00:20:20.984210+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:22.936327+00:00"
+      "checked_utc": "2026-11-21T00:20:25.735294+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:23.873521+00:00"
+      "checked_utc": "2026-11-21T00:20:26.494810+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:25.370721+00:00"
+      "checked_utc": "2026-11-21T00:20:27.496701+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:26.350204+00:00"
+      "checked_utc": "2026-11-21T00:20:28.296871+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:27.103852+00:00"
+      "checked_utc": "2026-11-21T00:20:29.132418+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:28.482137+00:00"
+      "checked_utc": "2026-11-21T00:20:30.455904+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:28.864536+00:00"
+      "checked_utc": "2026-11-21T00:20:30.537088+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:15:29.455770+00:00"
+      "checked_utc": "2026-11-21T00:20:31.206951+00:00"
     }
   },
   "source_warnings": [
@@ -89,6 +89,13 @@
       "detected_utc": "2026-11-20T23:15:29.625985+00:00",
       "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
       "source_link_type": "source"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M6.9 | 22 km WNW of Ondores, Peru | Depth: 142.1 km | UTC: 2026-11-21 00:09:17+00:00 | Source: USGS",
+      "detected_utc": "2026-11-21T00:20:31.208014+00:00",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
+      "source_link_type": "report"
     }
   ],
   "active_cyclones": []
