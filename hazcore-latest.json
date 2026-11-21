@@ -1,51 +1,53 @@
 {
-  "generated_utc": "2026-11-21T09:55:29.143447+00:00",
+  "generated_utc": "2026-11-21T10:01:05.818887+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T09:55:06.801962+00:00"
+      "checked_utc": "2026-11-21T10:00:13.383954+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T09:55:17.996787+00:00"
+      "checked_utc": "2026-11-21T10:00:24.937569+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T09:55:22.510024+00:00"
+      "checked_utc": "2026-11-21T10:00:29.652388+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T09:55:23.229243+00:00"
+      "checked_utc": "2026-11-21T10:00:32.128604+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-21T09:55:24.186300+00:00"
+      "checked_utc": "2026-11-21T10:00:33.188735+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-21T09:55:26.301737+00:00"
+      "checked_utc": "2026-11-21T10:00:33.902093+00:00"
     },
     "INGV-OE": {
-      "status": "completed",
-      "checked_utc": "2026-11-21T09:55:27.117599+00:00"
+      "status": "unavailable",
+      "error": "URLError",
+      "checked_utc": "2026-11-21T10:01:03.940457+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-21T09:55:28.303014+00:00"
+      "checked_utc": "2026-11-21T10:01:04.981404+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-21T09:55:28.478186+00:00"
+      "checked_utc": "2026-11-21T10:01:05.327766+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-21T09:55:29.127875+00:00"
+      "checked_utc": "2026-11-21T10:01:05.817740+00:00"
     }
   },
   "source_warnings": [
-    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
+    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)",
+    "Warning: INGV-OE unavailable: <urlopen error timed out>"
   ],
   "alerts": [
     {
@@ -101,6 +103,13 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.8 | 103 km NE of Lospalos, Timor Leste | Depth: 143.423 km | UTC: 2026-11-21 09:42:10.314000+00:00 | Source: USGS",
       "detected_utc": "2026-11-21T09:55:29.128378+00:00",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
+      "source_link_type": "report"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M6.8 | 103 km NE of Lospalos, Timor Leste | Depth: 143.423 km | UTC: 2026-11-21 09:42:10.314000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-21T10:01:05.818010+00:00",
       "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
       "source_link_type": "report"
     }
