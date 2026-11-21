@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-21T00:25:27.475000+00:00",
+  "generated_utc": "2026-11-21T00:30:33.491400+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:06.992699+00:00"
+      "checked_utc": "2026-11-21T00:30:11.963698+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:17.997582+00:00"
+      "checked_utc": "2026-11-21T00:30:23.285679+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:22.529775+00:00"
+      "checked_utc": "2026-11-21T00:30:27.664953+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:22.870002+00:00"
+      "checked_utc": "2026-11-21T00:30:28.377306+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:23.838465+00:00"
+      "checked_utc": "2026-11-21T00:30:29.515287+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:24.571270+00:00"
+      "checked_utc": "2026-11-21T00:30:30.273369+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:25.323657+00:00"
+      "checked_utc": "2026-11-21T00:30:31.193749+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:26.529338+00:00"
+      "checked_utc": "2026-11-21T00:30:32.573053+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:26.933713+00:00"
+      "checked_utc": "2026-11-21T00:30:33.008255+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-21T00:25:27.461534+00:00"
+      "checked_utc": "2026-11-21T00:30:33.483373+00:00"
     }
   },
   "source_warnings": [
@@ -95,6 +95,13 @@
       "message": "[EARTHQUAKE PRIORITY] M6.9 | 22 km WNW of Ondores, Peru | Depth: 142.1 km | UTC: 2026-11-21 00:09:17+00:00 | Source: USGS",
       "detected_utc": "2026-11-21T00:20:31.208014+00:00",
       "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
+      "source_link_type": "report"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M6.7 | 9 km NE of Carhuamayo, Peru | Depth: 107.991 km | UTC: 2026-11-21 00:09:19.667000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-21T00:30:33.483805+00:00",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source_link_type": "report"
     }
   ],
