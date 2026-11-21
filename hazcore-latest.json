@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-21T05:00:43.007245+00:00",
+  "generated_utc": "2026-11-21T05:05:28.538148+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:19.621393+00:00"
+      "checked_utc": "2026-11-21T05:05:06.997400+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:31.155952+00:00"
+      "checked_utc": "2026-11-21T05:05:18.253580+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:35.590442+00:00"
+      "checked_utc": "2026-11-21T05:05:22.789209+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:37.392024+00:00"
+      "checked_utc": "2026-11-21T05:05:23.622618+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:38.707675+00:00"
+      "checked_utc": "2026-11-21T05:05:24.664344+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:39.826577+00:00"
+      "checked_utc": "2026-11-21T05:05:25.694561+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:40.635874+00:00"
+      "checked_utc": "2026-11-21T05:05:26.539719+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:41.819666+00:00"
+      "checked_utc": "2026-11-21T05:05:27.879589+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:42.327435+00:00"
+      "checked_utc": "2026-11-21T05:05:28.069809+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:00:42.992272+00:00"
+      "checked_utc": "2026-11-21T05:05:28.527278+00:00"
     }
   },
   "source_warnings": [
@@ -110,6 +110,13 @@
       "detected_utc": "2026-11-21T00:40:31.209637+00:00",
       "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source_link_type": "report"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Offshore of the Southeast U.S. Coast | Atlantic | 48h 30% -> 20% | 7d 30% -> 20%",
+      "detected_utc": "2026-11-21T05:05:28.527946+00:00",
+      "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+      "source_link_type": "source"
     }
   ],
   "active_cyclones": []
