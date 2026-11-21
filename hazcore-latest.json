@@ -1,53 +1,51 @@
 {
-  "generated_utc": "2026-11-21T11:00:36.760838+00:00",
+  "generated_utc": "2026-11-21T11:05:28.174182+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:12.951714+00:00"
+      "checked_utc": "2026-11-21T11:05:07.319248+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:24.872125+00:00"
+      "checked_utc": "2026-11-21T11:05:18.587543+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:29.799669+00:00"
+      "checked_utc": "2026-11-21T11:05:22.938586+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:31.207085+00:00"
+      "checked_utc": "2026-11-21T11:05:23.761586+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:32.348526+00:00"
+      "checked_utc": "2026-11-21T11:05:24.845476+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:33.683852+00:00"
+      "checked_utc": "2026-11-21T11:05:25.711013+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:34.590807+00:00"
+      "checked_utc": "2026-11-21T11:05:26.461938+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:35.575659+00:00"
+      "checked_utc": "2026-11-21T11:05:27.662783+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:36.253601+00:00"
+      "checked_utc": "2026-11-21T11:05:27.759599+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-21T11:00:36.749433+00:00"
+      "checked_utc": "2026-11-21T11:05:28.158001+00:00"
     }
   },
   "source_warnings": [
-    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)",
-    "Warning: could not fetch Central Pacific active cyclone feed: IncompleteRead(0 bytes read, 1455 more expected)",
-    "Warning: incomplete NHC cyclone feeds (Central Pacific); skipping cyclone processing this scan"
+    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
     {
