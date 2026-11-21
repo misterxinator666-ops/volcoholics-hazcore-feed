@@ -1,55 +1,51 @@
 {
-  "generated_utc": "2026-11-21T12:50:32.407824+00:00",
+  "generated_utc": "2026-11-21T12:55:27.629408+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:10.775308+00:00"
+      "checked_utc": "2026-11-21T12:55:06.487843+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:22.122452+00:00"
+      "checked_utc": "2026-11-21T12:55:17.687750+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:26.724476+00:00"
+      "checked_utc": "2026-11-21T12:55:22.372626+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:27.762920+00:00"
+      "checked_utc": "2026-11-21T12:55:22.868640+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:28.808106+00:00"
+      "checked_utc": "2026-11-21T12:55:23.804249+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:29.482428+00:00"
+      "checked_utc": "2026-11-21T12:55:24.857319+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:30.261335+00:00"
+      "checked_utc": "2026-11-21T12:55:25.687427+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:31.416520+00:00"
+      "checked_utc": "2026-11-21T12:55:26.730841+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:31.895998+00:00"
+      "checked_utc": "2026-11-21T12:55:26.959138+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-21T12:50:32.392365+00:00"
+      "checked_utc": "2026-11-21T12:55:27.619165+00:00"
     }
   },
   "source_warnings": [
-    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)",
-    "Warning: could not fetch Atlantic active cyclone feed: no element found: line 1, column 0",
-    "Warning: could not fetch Eastern Pacific active cyclone feed: IncompleteRead(0 bytes read, 1441 more expected)",
-    "Warning: could not fetch Central Pacific active cyclone feed: no element found: line 1, column 0",
-    "Warning: incomplete NHC cyclone feeds (Atlantic, Eastern Pacific, Central Pacific); skipping cyclone processing this scan"
+    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
     {
