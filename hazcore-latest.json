@@ -1,53 +1,51 @@
 {
-  "generated_utc": "2026-11-21T10:10:59.325701+00:00",
+  "generated_utc": "2026-11-21T10:15:29.784005+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T10:10:08.848475+00:00"
+      "checked_utc": "2026-11-21T10:15:08.904705+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T10:10:20.120872+00:00"
+      "checked_utc": "2026-11-21T10:15:20.159139+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T10:10:24.735117+00:00"
+      "checked_utc": "2026-11-21T10:15:24.945444+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T10:10:25.274573+00:00"
+      "checked_utc": "2026-11-21T10:15:25.752721+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-21T10:10:26.256908+00:00"
+      "checked_utc": "2026-11-21T10:15:26.735030+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-21T10:10:27.339939+00:00"
+      "checked_utc": "2026-11-21T10:15:27.351888+00:00"
     },
     "INGV-OE": {
-      "status": "unavailable",
-      "error": "URLError",
-      "checked_utc": "2026-11-21T10:10:57.354763+00:00"
+      "status": "completed",
+      "checked_utc": "2026-11-21T10:15:28.255882+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-21T10:10:58.375320+00:00"
+      "checked_utc": "2026-11-21T10:15:29.284638+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-21T10:10:58.833888+00:00"
+      "checked_utc": "2026-11-21T10:15:29.376492+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-21T10:10:59.324568+00:00"
+      "checked_utc": "2026-11-21T10:15:29.776709+00:00"
     }
   },
   "source_warnings": [
-    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)",
-    "Warning: INGV-OE unavailable: <urlopen error timed out>"
+    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
     {
