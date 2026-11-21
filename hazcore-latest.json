@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-21T05:45:31.189109+00:00",
+  "generated_utc": "2026-11-21T05:50:30.554183+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:10.333682+00:00"
+      "checked_utc": "2026-11-21T05:50:09.616328+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:21.298049+00:00"
+      "checked_utc": "2026-11-21T05:50:20.701501+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:25.783219+00:00"
+      "checked_utc": "2026-11-21T05:50:25.350596+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:26.573321+00:00"
+      "checked_utc": "2026-11-21T05:50:25.690077+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:27.644486+00:00"
+      "checked_utc": "2026-11-21T05:50:26.784721+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:28.252175+00:00"
+      "checked_utc": "2026-11-21T05:50:27.501105+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:29.084786+00:00"
+      "checked_utc": "2026-11-21T05:50:28.298876+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:30.516643+00:00"
+      "checked_utc": "2026-11-21T05:50:29.549886+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:30.681690+00:00"
+      "checked_utc": "2026-11-21T05:50:29.711820+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-21T05:45:31.175634+00:00"
+      "checked_utc": "2026-11-21T05:50:30.542287+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Offshore of the Southeast U.S. Coast | Atlantic | 48h 30% -> 30% | 7d 60% -> 50%",
-      "detected_utc": "2026-11-20T05:50:30.134406+00:00",
-      "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-      "source_link_type": "source"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M5.12 | 10 km NW of Pinnacles, CA | Depth: 6.69999980926514 km | UTC: 2026-11-20 06:49:16.530000+00:00 | Source: USGS",
