@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-22T18:45:31.272764+00:00",
+  "generated_utc": "2026-11-22T18:50:33.235344+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:09.793287+00:00"
+      "checked_utc": "2026-11-22T18:50:10.787272+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:20.087541+00:00"
+      "checked_utc": "2026-11-22T18:50:21.338878+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:25.288580+00:00"
+      "checked_utc": "2026-11-22T18:50:26.446793+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:25.679742+00:00"
+      "checked_utc": "2026-11-22T18:50:27.105677+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:26.701687+00:00"
+      "checked_utc": "2026-11-22T18:50:28.087608+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:28.186211+00:00"
+      "checked_utc": "2026-11-22T18:50:29.679586+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:29.024037+00:00"
+      "checked_utc": "2026-11-22T18:50:30.493923+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:30.573243+00:00"
+      "checked_utc": "2026-11-22T18:50:31.852871+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:30.643110+00:00"
+      "checked_utc": "2026-11-22T18:50:32.622029+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-22T18:45:31.271341+00:00"
+      "checked_utc": "2026-11-22T18:50:33.233467+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[VOLCANO HVO] Kilauea | 2026-11-21 | YELLOW / ADVISORY | Source: USGS-HVO",
-      "detected_utc": "2026-11-21T18:50:28.440514+00:00",
-      "source_url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-11-21T18:23:37+00:00",
-      "source_link_type": "report"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Offshore of the Southeast U.S. Coast | Atlantic | 48h 10% -> 0% | 7d 10% -> 0%",
