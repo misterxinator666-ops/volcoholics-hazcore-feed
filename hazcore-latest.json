@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-22T05:05:27.118220+00:00",
+  "generated_utc": "2026-11-22T05:10:30.530606+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:07.284565+00:00"
+      "checked_utc": "2026-11-22T05:10:09.606431+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:17.034639+00:00"
+      "checked_utc": "2026-11-22T05:10:19.098329+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:21.559333+00:00"
+      "checked_utc": "2026-11-22T05:10:23.564940+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:22.064879+00:00"
+      "checked_utc": "2026-11-22T05:10:24.833146+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:23.090290+00:00"
+      "checked_utc": "2026-11-22T05:10:26.140062+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:24.122737+00:00"
+      "checked_utc": "2026-11-22T05:10:26.934429+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:24.866350+00:00"
+      "checked_utc": "2026-11-22T05:10:27.800596+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:26.053515+00:00"
+      "checked_utc": "2026-11-22T05:10:29.157380+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:26.163897+00:00"
+      "checked_utc": "2026-11-22T05:10:29.504243+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-22T05:05:27.115199+00:00"
+      "checked_utc": "2026-11-22T05:10:30.528935+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Offshore of the Southeast U.S. Coast | Atlantic | 48h 30% -> 20% | 7d 30% -> 20%",
-      "detected_utc": "2026-11-21T05:05:28.527946+00:00",
-      "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-      "source_link_type": "source"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.8 | 103 km NE of Lospalos, Timor Leste | Depth: 143.423 km | UTC: 2026-11-21 09:42:10.314000+00:00 | Source: USGS",
