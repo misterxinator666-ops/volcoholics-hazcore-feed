@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-22T11:05:28.222726+00:00",
+  "generated_utc": "2026-11-22T11:10:29.930310+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:08.138908+00:00"
+      "checked_utc": "2026-11-22T11:10:08.888566+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:17.789439+00:00"
+      "checked_utc": "2026-11-22T11:10:18.610853+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:22.375968+00:00"
+      "checked_utc": "2026-11-22T11:10:23.153515+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:23.121844+00:00"
+      "checked_utc": "2026-11-22T11:10:23.734477+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:24.212541+00:00"
+      "checked_utc": "2026-11-22T11:10:24.806707+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:25.261807+00:00"
+      "checked_utc": "2026-11-22T11:10:26.312183+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:26.152240+00:00"
+      "checked_utc": "2026-11-22T11:10:27.201666+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:27.744060+00:00"
+      "checked_utc": "2026-11-22T11:10:28.780824+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:27.813249+00:00"
+      "checked_utc": "2026-11-22T11:10:28.873760+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-22T11:05:28.221398+00:00"
+      "checked_utc": "2026-11-22T11:10:29.925817+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE PRIORITY] M5.9 | 238 km SW of Yanglong, China | Depth: 10 km | UTC: 2026-11-21 10:45:33.230000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-21T11:10:29.068451+00:00",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly",
-      "source_link_type": "report"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Offshore of the Southeast U.S. Coast | Atlantic | 48h 20% -> 10% | 7d 20% -> 10%",
