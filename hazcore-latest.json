@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-22T10:00:37.628062+00:00",
+  "generated_utc": "2026-11-22T10:05:27.851305+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:15.650897+00:00"
+      "checked_utc": "2026-11-22T10:05:06.356878+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:25.537573+00:00"
+      "checked_utc": "2026-11-22T10:05:16.212944+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:30.089747+00:00"
+      "checked_utc": "2026-11-22T10:05:21.031809+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:31.067179+00:00"
+      "checked_utc": "2026-11-22T10:05:21.856302+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:32.096003+00:00"
+      "checked_utc": "2026-11-22T10:05:22.913445+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:33.019999+00:00"
+      "checked_utc": "2026-11-22T10:05:23.969265+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:33.813975+00:00"
+      "checked_utc": "2026-11-22T10:05:24.873877+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:36.354493+00:00"
+      "checked_utc": "2026-11-22T10:05:26.998280+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:37.202877+00:00"
+      "checked_utc": "2026-11-22T10:05:27.089179+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-22T10:00:37.608163+00:00"
+      "checked_utc": "2026-11-22T10:05:27.839932+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE UPDATE] M6.8 | 103 km NE of Lospalos, Timor Leste | Depth: 143.423 km | UTC: 2026-11-21 09:42:10.314000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-21T10:01:05.818010+00:00",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
-      "source_link_type": "report"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M5.9 | 238 km SW of Yanglong, China | Depth: 10 km | UTC: 2026-11-21 10:45:33.230000+00:00 | Source: USGS",
