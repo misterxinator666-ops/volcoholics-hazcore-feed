@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-23T02:45:32.496744+00:00",
+  "generated_utc": "2026-11-23T02:50:31.881335+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:11.495626+00:00"
+      "checked_utc": "2026-11-23T02:50:09.868193+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:21.826718+00:00"
+      "checked_utc": "2026-11-23T02:50:20.450611+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:27.100189+00:00"
+      "checked_utc": "2026-11-23T02:50:25.444932+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:27.671382+00:00"
+      "checked_utc": "2026-11-23T02:50:26.602801+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:28.758445+00:00"
+      "checked_utc": "2026-11-23T02:50:27.717579+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:29.529598+00:00"
+      "checked_utc": "2026-11-23T02:50:28.391562+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:30.275337+00:00"
+      "checked_utc": "2026-11-23T02:50:29.167258+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:31.920838+00:00"
+      "checked_utc": "2026-11-23T02:50:30.491869+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:32.083238+00:00"
+      "checked_utc": "2026-11-23T02:50:30.931416+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-23T02:45:32.495334+00:00"
+      "checked_utc": "2026-11-23T02:50:31.879904+00:00"
     }
   },
   "source_warnings": [
@@ -60,6 +60,13 @@
       "message": "[VOLCANO HVO] Kilauea | 2026-11-22 | ORANGE / WATCH | Source: USGS-HVO",
       "detected_utc": "2026-11-22T14:25:30.634281+00:00",
       "source_url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-11-22T13:52:55+00:00",
+      "source_link_type": "report"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE SIGNIFICANT] M6.5 | Vanuatu region | Depth: 614.4 km | UTC: 2026-11-23 02:40:57+00:00 | Source: USGS",
+      "detected_utc": "2026-11-23T02:50:31.880495+00:00",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26327000",
       "source_link_type": "report"
     }
   ],
