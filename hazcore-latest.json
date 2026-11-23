@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-23T16:00:41.288330+00:00",
+  "generated_utc": "2026-11-23T16:05:39.891240+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:15.036403+00:00"
+      "checked_utc": "2026-11-23T16:05:12.474276+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:28.236708+00:00"
+      "checked_utc": "2026-11-23T16:05:26.434104+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:35.441414+00:00"
+      "checked_utc": "2026-11-23T16:05:34.123990+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:36.502005+00:00"
+      "checked_utc": "2026-11-23T16:05:35.001718+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:37.624540+00:00"
+      "checked_utc": "2026-11-23T16:05:36.159735+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:38.429909+00:00"
+      "checked_utc": "2026-11-23T16:05:36.902203+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:39.231457+00:00"
+      "checked_utc": "2026-11-23T16:05:37.750785+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:40.568614+00:00"
+      "checked_utc": "2026-11-23T16:05:39.147653+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:40.862015+00:00"
+      "checked_utc": "2026-11-23T16:05:39.345373+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-23T16:00:41.284482+00:00"
+      "checked_utc": "2026-11-23T16:05:39.887598+00:00"
     }
   },
   "source_warnings": [
@@ -81,6 +81,20 @@
       "message": "[VOLCANO HVO] Kilauea | 2026-11-23 | ORANGE / WATCH | Source: USGS-HVO",
       "detected_utc": "2026-11-23T10:40:35.320019+00:00",
       "source_url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-11-23T07:34:47+00:00",
+      "source_link_type": "report"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO STATUS] USGS / Kilauea | ORANGE / WATCH -> YELLOW / ADVISORY | Region: Hawaii | Issued: 2026-11-23 | Source: USGS",
+      "detected_utc": "2026-11-23T16:05:39.890176+00:00",
+      "source_url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-11-23T12:00:58+00:00",
+      "source_link_type": "report"
+    },
+    {
+      "type": "volcano",
+      "message": "[VOLCANO HVO] Kilauea | 2026-11-23 | YELLOW / ADVISORY | Source: USGS-HVO",
+      "detected_utc": "2026-11-23T16:05:39.890176+00:00",
+      "source_url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-11-23T12:00:58+00:00",
       "source_link_type": "report"
     }
   ],
