@@ -1,51 +1,53 @@
 {
-  "generated_utc": "2026-11-23T21:50:37.440187+00:00",
+  "generated_utc": "2026-11-23T21:56:16.396617+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:10.173933+00:00"
+      "checked_utc": "2026-11-23T21:55:08.205236+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:23.540297+00:00"
+      "checked_utc": "2026-11-23T21:55:41.765701+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:31.591774+00:00"
+      "checked_utc": "2026-11-23T21:56:11.295329+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:32.143306+00:00"
+      "checked_utc": "2026-11-23T21:56:11.872893+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:33.215337+00:00"
+      "checked_utc": "2026-11-23T21:56:12.917541+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:34.305567+00:00"
+      "checked_utc": "2026-11-23T21:56:13.528288+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:35.152184+00:00"
+      "checked_utc": "2026-11-23T21:56:14.454488+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:36.571415+00:00"
+      "checked_utc": "2026-11-23T21:56:15.871879+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:37.048583+00:00"
+      "checked_utc": "2026-11-23T21:56:16.035745+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-23T21:50:37.439067+00:00"
+      "checked_utc": "2026-11-23T21:56:16.395691+00:00"
     }
   },
   "source_warnings": [
-    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
+    "Warning: could not fetch notice DOI-USGS-HVO-2026-11-18T18:08:44+00:00: <urlopen error _ssl.c:1001: The handshake operation timed out>",
+    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)",
+    "Warning: could not fetch notice DOI-USGS-HVO-2026-11-17T18:04:17+00:00: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   ],
   "alerts": [
     {
