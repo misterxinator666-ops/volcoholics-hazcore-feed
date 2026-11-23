@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-23T01:05:33.470498+00:00",
+  "generated_utc": "2026-11-23T01:10:33.718625+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:10.948291+00:00"
+      "checked_utc": "2026-11-23T01:10:11.937917+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:21.455928+00:00"
+      "checked_utc": "2026-11-23T01:10:22.274248+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:26.705539+00:00"
+      "checked_utc": "2026-11-23T01:10:27.618737+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:27.655352+00:00"
+      "checked_utc": "2026-11-23T01:10:28.336597+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:28.683598+00:00"
+      "checked_utc": "2026-11-23T01:10:29.331802+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:29.403578+00:00"
+      "checked_utc": "2026-11-23T01:10:30.380060+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:30.180498+00:00"
+      "checked_utc": "2026-11-23T01:10:31.209312+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:31.966253+00:00"
+      "checked_utc": "2026-11-23T01:10:32.575086+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:32.583324+00:00"
+      "checked_utc": "2026-11-23T01:10:32.957184+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-23T01:05:33.468212+00:00"
+      "checked_utc": "2026-11-23T01:10:33.715489+00:00"
     }
   },
   "source_warnings": [
