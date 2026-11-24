@@ -1,53 +1,51 @@
 {
-  "generated_utc": "2026-11-24T15:36:24.254773+00:00",
+  "generated_utc": "2026-11-24T15:40:39.756334+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:35:08.111651+00:00"
+      "checked_utc": "2026-11-24T15:40:10.698192+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:36:03.532782+00:00"
+      "checked_utc": "2026-11-24T15:40:24.756786+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:36:18.064571+00:00"
+      "checked_utc": "2026-11-24T15:40:33.174722+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:36:18.808983+00:00"
+      "checked_utc": "2026-11-24T15:40:34.362755+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:36:19.958204+00:00"
+      "checked_utc": "2026-11-24T15:40:35.473649+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:36:21.322045+00:00"
+      "checked_utc": "2026-11-24T15:40:36.365531+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:36:22.123781+00:00"
+      "checked_utc": "2026-11-24T15:40:37.270821+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:36:23.435579+00:00"
+      "checked_utc": "2026-11-24T15:40:38.959906+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:36:23.896516+00:00"
+      "checked_utc": "2026-11-24T15:40:39.246492+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-24T15:36:24.253869+00:00"
+      "checked_utc": "2026-11-24T15:40:39.754888+00:00"
     }
   },
   "source_warnings": [
-    "Warning: could not fetch HVO notices: The read operation timed out",
-    "Warning: could not fetch NMI notices: HTTP Error 522: <none>",
-    "Warning: could not fetch YVO notices: The read operation timed out"
+    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
     {
