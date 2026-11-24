@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-24T02:45:36.475801+00:00",
+  "generated_utc": "2026-11-24T02:50:35.951918+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:09.731023+00:00"
+      "checked_utc": "2026-11-24T02:50:08.866844+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:22.729065+00:00"
+      "checked_utc": "2026-11-24T02:50:21.889166+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:30.731328+00:00"
+      "checked_utc": "2026-11-24T02:50:30.171919+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:31.352734+00:00"
+      "checked_utc": "2026-11-24T02:50:30.911087+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:32.496871+00:00"
+      "checked_utc": "2026-11-24T02:50:31.899754+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:33.525506+00:00"
+      "checked_utc": "2026-11-24T02:50:32.495893+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:34.418543+00:00"
+      "checked_utc": "2026-11-24T02:50:33.325153+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:35.957858+00:00"
+      "checked_utc": "2026-11-24T02:50:34.852808+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:36.410488+00:00"
+      "checked_utc": "2026-11-24T02:50:35.207830+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-24T02:45:36.471491+00:00"
+      "checked_utc": "2026-11-24T02:50:35.950456+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M6.5 | Vanuatu region | Depth: 614.4 km | UTC: 2026-11-23 02:40:57+00:00 | Source: USGS",
-      "detected_utc": "2026-11-23T02:50:31.880495+00:00",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26327000",
-      "source_link_type": "report"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.5 | Vanuatu region | Depth: 614.4 km | UTC: 2026-11-23 02:40:57+00:00 | Source: USGS",
