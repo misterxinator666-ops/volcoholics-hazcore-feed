@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-25T11:25:34.850021+00:00",
+  "generated_utc": "2026-11-25T11:30:40.144841+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:07.620471+00:00"
+      "checked_utc": "2026-11-25T11:30:12.290785+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:20.423154+00:00"
+      "checked_utc": "2026-11-25T11:30:25.181515+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:29.105090+00:00"
+      "checked_utc": "2026-11-25T11:30:33.296679+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:29.870520+00:00"
+      "checked_utc": "2026-11-25T11:30:34.614840+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:30.889988+00:00"
+      "checked_utc": "2026-11-25T11:30:35.795106+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:31.484247+00:00"
+      "checked_utc": "2026-11-25T11:30:36.930862+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:32.246740+00:00"
+      "checked_utc": "2026-11-25T11:30:37.709135+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:33.726446+00:00"
+      "checked_utc": "2026-11-25T11:30:39.112300+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:33.906190+00:00"
+      "checked_utc": "2026-11-25T11:30:39.569870+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:25:34.848722+00:00"
+      "checked_utc": "2026-11-25T11:30:40.143063+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "earthquake",
-      "message": "[EARTHQUAKE SIGNIFICANT] M6.4 | Mauritius - Reunion region | Depth: 10 km | UTC: 2026-11-24 11:06:14.036000+00:00 | Source: USGS",
-      "detected_utc": "2026-11-24T11:25:36.375137+00:00",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h",
-      "source_link_type": "report"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE UPDATE] M6.4 | Mauritius - Reunion region | Depth: 10 km | UTC: 2026-11-24 11:06:14.036000+00:00 | Source: USGS",
