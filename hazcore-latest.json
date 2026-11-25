@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-25T11:15:35.635657+00:00",
+  "generated_utc": "2026-11-25T11:20:41.894088+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:07.441147+00:00"
+      "checked_utc": "2026-11-25T11:20:10.611824+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:20.442706+00:00"
+      "checked_utc": "2026-11-25T11:20:23.282036+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:28.831985+00:00"
+      "checked_utc": "2026-11-25T11:20:31.498315+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:29.649371+00:00"
+      "checked_utc": "2026-11-25T11:20:34.808509+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:30.643941+00:00"
+      "checked_utc": "2026-11-25T11:20:36.311457+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:32.351186+00:00"
+      "checked_utc": "2026-11-25T11:20:37.550054+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:33.180977+00:00"
+      "checked_utc": "2026-11-25T11:20:38.432260+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:34.524259+00:00"
+      "checked_utc": "2026-11-25T11:20:40.021059+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:34.984732+00:00"
+      "checked_utc": "2026-11-25T11:20:40.861255+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-25T11:15:35.633393+00:00"
+      "checked_utc": "2026-11-25T11:20:41.892343+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Western Central Pacific | Eastern / Central Pacific | 48h 70% -> 10% | 7d 70% -> 20%",
-      "detected_utc": "2026-11-24T11:15:37.914649+00:00",
-      "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac",
-      "source_link_type": "source"
-    },
     {
       "type": "earthquake",
       "message": "[EARTHQUAKE SIGNIFICANT] M6.4 | Mauritius - Reunion region | Depth: 10 km | UTC: 2026-11-24 11:06:14.036000+00:00 | Source: USGS",
