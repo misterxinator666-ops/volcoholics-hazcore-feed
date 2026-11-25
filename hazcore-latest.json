@@ -1,48 +1,48 @@
 {
-  "generated_utc": "2026-11-25T23:35:52.803048+00:00",
+  "generated_utc": "2026-11-25T23:40:45.464823+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-25T23:35:09.062869+00:00"
+      "checked_utc": "2026-11-25T23:40:07.788077+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-25T23:35:21.410791+00:00"
+      "checked_utc": "2026-11-25T23:40:20.182050+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-25T23:35:34.474748+00:00"
+      "checked_utc": "2026-11-25T23:40:28.106206+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-25T23:35:35.079165+00:00"
+      "checked_utc": "2026-11-25T23:40:28.746742+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-25T23:35:36.198281+00:00"
+      "checked_utc": "2026-11-25T23:40:29.909651+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-25T23:35:36.843149+00:00"
+      "checked_utc": "2026-11-25T23:40:30.648723+00:00"
     },
     "INGV-OE": {
       "status": "unavailable",
       "error": "HTTPError",
-      "checked_utc": "2026-11-25T23:35:50.603015+00:00"
+      "checked_utc": "2026-11-25T23:40:42.411460+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-25T23:35:51.919812+00:00"
+      "checked_utc": "2026-11-25T23:40:44.073190+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-25T23:35:52.347747+00:00"
+      "checked_utc": "2026-11-25T23:40:44.880201+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-25T23:35:52.802278+00:00"
+      "checked_utc": "2026-11-25T23:40:45.463710+00:00"
     }
   },
   "source_warnings": [
@@ -63,6 +63,13 @@
       "detected_utc": "2026-11-25T19:25:43.201999+00:00",
       "source_url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-11-25T16:56:33+00:00",
       "source_link_type": "report"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Western Central Pacific (CP96) | Eastern / Central Pacific | 48h 20% -> 10% | 7d 20% -> 10%",
+      "detected_utc": "2026-11-25T23:40:45.463937+00:00",
+      "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac",
+      "source_link_type": "source"
     }
   ],
   "active_cyclones": []
