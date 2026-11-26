@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-26T23:40:38.009830+00:00",
+  "generated_utc": "2026-11-26T23:45:35.294669+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:06.589899+00:00"
+      "checked_utc": "2026-11-26T23:45:06.892718+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:20.058504+00:00"
+      "checked_utc": "2026-11-26T23:45:20.550102+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:28.583711+00:00"
+      "checked_utc": "2026-11-26T23:45:29.242603+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:29.220896+00:00"
+      "checked_utc": "2026-11-26T23:45:29.847042+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:30.458655+00:00"
+      "checked_utc": "2026-11-26T23:45:30.954763+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:31.341709+00:00"
+      "checked_utc": "2026-11-26T23:45:31.862138+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:32.157627+00:00"
+      "checked_utc": "2026-11-26T23:45:32.634199+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:37.416913+00:00"
+      "checked_utc": "2026-11-26T23:45:33.974254+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:37.607693+00:00"
+      "checked_utc": "2026-11-26T23:45:34.707167+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-26T23:40:38.001266+00:00"
+      "checked_utc": "2026-11-26T23:45:35.285402+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "storm",
-      "message": "[TROPICAL UPDATE] Western Central Pacific (CP96) | Eastern / Central Pacific | 48h 20% -> 10% | 7d 20% -> 10%",
-      "detected_utc": "2026-11-25T23:40:45.463937+00:00",
-      "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac",
-      "source_link_type": "source"
-    },
     {
       "type": "volcano",
       "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-06-12T06:34:40 | 2026-06-12 06:34:40 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
