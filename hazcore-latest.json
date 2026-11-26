@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-26T17:15:34.205881+00:00",
+  "generated_utc": "2026-11-26T17:20:35.347417+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:06.813553+00:00"
+      "checked_utc": "2026-11-26T17:20:08.543636+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:19.441502+00:00"
+      "checked_utc": "2026-11-26T17:20:21.494022+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:27.591054+00:00"
+      "checked_utc": "2026-11-26T17:20:29.651786+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:28.759990+00:00"
+      "checked_utc": "2026-11-26T17:20:30.399809+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:29.820873+00:00"
+      "checked_utc": "2026-11-26T17:20:31.393488+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:30.476947+00:00"
+      "checked_utc": "2026-11-26T17:20:32.468771+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:31.328936+00:00"
+      "checked_utc": "2026-11-26T17:20:33.219283+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:32.653000+00:00"
+      "checked_utc": "2026-11-26T17:20:34.541792+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:33.403835+00:00"
+      "checked_utc": "2026-11-26T17:20:34.747181+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-26T17:15:34.195720+00:00"
+      "checked_utc": "2026-11-26T17:20:35.335330+00:00"
     }
   },
   "source_warnings": [
@@ -222,6 +222,13 @@
       "detected_utc": "2026-11-26T10:05:35.157267+00:00",
       "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260323080206.pdf",
       "source_link_type": "report"
+    },
+    {
+      "type": "storm",
+      "message": "[TROPICAL UPDATE] Western Central Pacific | Eastern / Central Pacific | 48h 10% -> 0% | 7d 20% -> 0%",
+      "detected_utc": "2026-11-26T17:20:35.335618+00:00",
+      "source_url": "https://www.nhc.noaa.gov/gtwo.php?basin=epac",
+      "source_link_type": "source"
     }
   ],
   "active_cyclones": []
