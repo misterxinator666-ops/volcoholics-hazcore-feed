@@ -1,207 +1,53 @@
 {
-  "generated_utc": "2026-11-27T10:00:45.328756+00:00",
+  "generated_utc": "2026-11-27T10:05:35.457737+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:14.320847+00:00"
+      "checked_utc": "2026-11-27T10:05:08.149959+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:28.769607+00:00"
+      "checked_utc": "2026-11-27T10:05:21.778060+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:37.890060+00:00"
+      "checked_utc": "2026-11-27T10:05:30.581453+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:39.435327+00:00"
+      "checked_utc": "2026-11-27T10:05:31.256221+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:40.438476+00:00"
+      "checked_utc": "2026-11-27T10:05:32.006955+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:41.549899+00:00"
+      "checked_utc": "2026-11-27T10:05:32.648964+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:42.462893+00:00"
+      "checked_utc": "2026-11-27T10:05:33.480362+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:44.266826+00:00"
+      "checked_utc": "2026-11-27T10:05:34.847545+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:44.746882+00:00"
+      "checked_utc": "2026-11-27T10:05:35.051486+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-27T10:00:45.319062+00:00"
+      "checked_utc": "2026-11-27T10:05:35.446089+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-06-12T06:34:40 | 2026-06-12 06:34:40 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260612055842.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-05-30T08:40:21 | 2026-05-30 08:40:21 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260530083334.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-05-29T22:37:05 | 2026-05-29 22:37:05 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260529223048.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-05-29T15:40:40 | 2026-05-29 15:40:40 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260529153747.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-05-29T08:28:30 | 2026-05-29 08:28:30 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260529081012.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-05-28T17:55:22 | 2026-05-28 17:55:22 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260528173806.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-05-26T08:28:06 | 2026-05-26 08:28:06 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260526081016.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-05-11T06:56:58 | 2026-05-11 06:56:58 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260511065252.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-05-10T23:41:59 | 2026-05-10 23:41:59 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260510233735.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-05-09T15:11:23 | 2026-05-09 15:11:23 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260509150828.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-05-04T11:25:03 | 2026-05-04 11:25:03 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260504112156.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-04-24T06:39:23 | 2026-04-24 06:39:23 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260424063103.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-04-21T15:00:48 | 2026-04-21 15:00:48 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260421145927.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-04-20T08:03:23 | 2026-04-20 08:03:23 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260420075415.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-04-18T22:55:48 | 2026-04-18 22:55:48 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260418225103.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-04-13T13:20:20 | 2026-04-13 13:20:20 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260413125825.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-04-12T16:29:32 | 2026-04-12 16:29:32 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260412162344.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-04-03T09:35:53 | 2026-04-03 09:35:53 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260403093121.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-03-31T15:56:25 | 2026-03-31 15:56:25 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260331155124.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-03-27T10:48:33 | 2026-03-27 10:48:33 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260327104337.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-03-25T19:41:25 | 2026-03-25 19:41:25 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260325193608.pdf",
-      "source_link_type": "report"
-    },
-    {
-      "type": "volcano",
-      "message": "[INGV-OE RETURN_TO_NORMAL] Stromboli | 2026-03-23T08:11:45 | 2026-03-23 08:11:45 IL RIENTRO DEI PARAMETRI ALLA NORMALE ATTIVITà STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-26T10:05:35.157267+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20260323080206.pdf",
-      "source_link_type": "report"
-    },
     {
       "type": "storm",
       "message": "[TROPICAL UPDATE] Western Central Pacific | Eastern / Central Pacific | 48h 10% -> 0% | 7d 20% -> 0%",
