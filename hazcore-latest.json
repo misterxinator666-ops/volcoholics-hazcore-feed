@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-28T17:35:33.119400+00:00",
+  "generated_utc": "2026-11-28T17:40:37.855049+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:06.693450+00:00"
+      "checked_utc": "2026-11-28T17:40:11.008632+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:19.234601+00:00"
+      "checked_utc": "2026-11-28T17:40:23.749857+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:27.650474+00:00"
+      "checked_utc": "2026-11-28T17:40:31.872430+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:28.073148+00:00"
+      "checked_utc": "2026-11-28T17:40:32.409730+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:29.096614+00:00"
+      "checked_utc": "2026-11-28T17:40:33.489611+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:30.156647+00:00"
+      "checked_utc": "2026-11-28T17:40:34.203083+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:30.990319+00:00"
+      "checked_utc": "2026-11-28T17:40:34.963000+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:32.342575+00:00"
+      "checked_utc": "2026-11-28T17:40:36.365136+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:32.539684+00:00"
+      "checked_utc": "2026-11-28T17:40:37.264961+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:35:33.118401+00:00"
+      "checked_utc": "2026-11-28T17:40:37.853195+00:00"
     }
   },
   "source_warnings": [
@@ -67,6 +67,13 @@
       "message": "[EARTHQUAKE UPDATE] M6.7 | 62 km NNW of Yelizovo, Russia | Depth: 188.422 km | UTC: 2026-11-28 13:15:06.781000+00:00 | Source: USGS",
       "detected_utc": "2026-11-28T13:35:32.562852+00:00",
       "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue3p",
+      "source_link_type": "report"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE PRIORITY] M4.71 | 6 km WSW of Manhattan Beach, CA | Depth: 12.23 km | UTC: 2026-11-28 17:30:29.840000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-28T17:40:37.854289+00:00",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136",
       "source_link_type": "report"
     }
   ],
