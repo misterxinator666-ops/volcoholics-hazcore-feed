@@ -1,47 +1,47 @@
 {
-  "generated_utc": "2026-11-28T17:45:34.743755+00:00",
+  "generated_utc": "2026-11-28T17:50:38.384752+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:08.354149+00:00"
+      "checked_utc": "2026-11-28T17:50:08.445237+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:21.146979+00:00"
+      "checked_utc": "2026-11-28T17:50:21.220202+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:29.451472+00:00"
+      "checked_utc": "2026-11-28T17:50:29.226824+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:29.792403+00:00"
+      "checked_utc": "2026-11-28T17:50:30.456875+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:30.821304+00:00"
+      "checked_utc": "2026-11-28T17:50:31.604119+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:31.844428+00:00"
+      "checked_utc": "2026-11-28T17:50:32.350295+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:32.631239+00:00"
+      "checked_utc": "2026-11-28T17:50:34.752022+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:33.954828+00:00"
+      "checked_utc": "2026-11-28T17:50:36.932663+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:34.148345+00:00"
+      "checked_utc": "2026-11-28T17:50:37.610127+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-28T17:45:34.742864+00:00"
+      "checked_utc": "2026-11-28T17:50:38.382521+00:00"
     }
   },
   "source_warnings": [
@@ -73,6 +73,13 @@
       "type": "earthquake",
       "message": "[EARTHQUAKE PRIORITY] M4.71 | 6 km WSW of Manhattan Beach, CA | Depth: 12.23 km | UTC: 2026-11-28 17:30:29.840000+00:00 | Source: USGS",
       "detected_utc": "2026-11-28T17:40:37.854289+00:00",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136",
+      "source_link_type": "report"
+    },
+    {
+      "type": "earthquake",
+      "message": "[EARTHQUAKE UPDATE] M5.01 | 6 km WSW of Manhattan Beach, CA | Depth: 12.23 km | UTC: 2026-11-28 17:30:29.840000+00:00 | Source: USGS",
+      "detected_utc": "2026-11-28T17:50:38.383635+00:00",
       "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136",
       "source_link_type": "report"
     }
