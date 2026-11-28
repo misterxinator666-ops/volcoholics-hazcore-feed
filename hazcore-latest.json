@@ -1,52 +1,51 @@
 {
-  "generated_utc": "2026-11-28T07:00:43.541839+00:00",
+  "generated_utc": "2026-11-28T07:05:33.175558+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:14.813349+00:00"
+      "checked_utc": "2026-11-28T07:05:06.204242+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:28.459157+00:00"
+      "checked_utc": "2026-11-28T07:05:19.679716+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:37.306169+00:00"
+      "checked_utc": "2026-11-28T07:05:28.104667+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:38.086180+00:00"
+      "checked_utc": "2026-11-28T07:05:28.479736+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:39.152509+00:00"
+      "checked_utc": "2026-11-28T07:05:29.505328+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:40.354343+00:00"
+      "checked_utc": "2026-11-28T07:05:30.092993+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:41.173144+00:00"
+      "checked_utc": "2026-11-28T07:05:30.877766+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:42.511107+00:00"
+      "checked_utc": "2026-11-28T07:05:32.235623+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:42.956643+00:00"
+      "checked_utc": "2026-11-28T07:05:32.433055+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-28T07:00:43.540752+00:00"
+      "checked_utc": "2026-11-28T07:05:33.174568+00:00"
     }
   },
   "source_warnings": [
-    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)",
-    "Warning: could not fetch Eastern Pacific outlook: no element found: line 1, column 0"
+    "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
     {
