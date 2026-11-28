@@ -1,60 +1,53 @@
 {
-  "generated_utc": "2026-11-28T09:05:32.418689+00:00",
+  "generated_utc": "2026-11-28T09:10:36.315878+00:00",
   "status": "ok",
   "coverage_status": "degraded",
   "source_health": {
     "USGS-Earthquakes": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:06.430955+00:00"
+      "checked_utc": "2026-11-28T09:10:09.227661+00:00"
     },
     "USGS-Volcanoes": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:18.980025+00:00"
+      "checked_utc": "2026-11-28T09:10:21.992166+00:00"
     },
     "USGS-HVO": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:27.139181+00:00"
+      "checked_utc": "2026-11-28T09:10:30.247044+00:00"
     },
     "IMO": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:27.540798+00:00"
+      "checked_utc": "2026-11-28T09:10:30.913876+00:00"
     },
     "INGV-OV": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:28.736689+00:00"
+      "checked_utc": "2026-11-28T09:10:31.955693+00:00"
     },
     "JMA": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:29.360219+00:00"
+      "checked_utc": "2026-11-28T09:10:32.526037+00:00"
     },
     "INGV-OE": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:30.215454+00:00"
+      "checked_utc": "2026-11-28T09:10:33.223851+00:00"
     },
     "PVMBG": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:31.605932+00:00"
+      "checked_utc": "2026-11-28T09:10:34.574455+00:00"
     },
     "NHC-Storms": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:31.669724+00:00"
+      "checked_utc": "2026-11-28T09:10:35.724134+00:00"
     },
     "NHC-Active": {
       "status": "completed",
-      "checked_utc": "2026-11-28T09:05:32.417010+00:00"
+      "checked_utc": "2026-11-28T09:10:36.314784+00:00"
     }
   },
   "source_warnings": [
     "Warning: could not fetch YVO notices: Expecting value: line 1 column 1 (char 0)"
   ],
   "alerts": [
-    {
-      "type": "volcano",
-      "message": "[INGV-OE INITIAL_ASSESSMENT] Stromboli | 2026-11-27T04:18:10 | 2026-11-27 04:18:10 PRIMO COMUNICATO (VALUTAZIONE MULTIDISCIPLINARE) STROMBOLI DOWNLOAD PDF | Source: INGV-OE",
-      "detected_utc": "2026-11-27T09:10:36.204619+00:00",
-      "source_url": "https://www.ct.ingv.it/dati/informative/vulcanico/ComunicatoSTROMBOLI20261127041425.pdf",
-      "source_link_type": "report"
-    },
     {
       "type": "volcano",
       "message": "[VOLCANO HVO] Kilauea | 2026-11-27 | YELLOW / ADVISORY | Source: USGS-HVO",
